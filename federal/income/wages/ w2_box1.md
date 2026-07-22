@@ -1,4 +1,4 @@
-# W-2
+# Form W-2
 ## Description
 Employer wage reporting document.
 ## Required Information
