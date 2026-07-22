@@ -21,3 +21,8 @@ Employer wage reporting document.
 ## Common Errors
 - Missing W-2
 - Wrong SSN
+## Prompt
+- I have been employed by XYZ Corporation and I have a Form W-2.
+- I received a W-2 from my employer this year.
+- I worked for two companies, so I have two W-2 forms.
+- My W-2 shows my wages in Box 1 and the federal tax withheld in Box 2.
