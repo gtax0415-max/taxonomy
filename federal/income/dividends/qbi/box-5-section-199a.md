@@ -1,12 +1,9 @@
 ---
 type: income
 category: dividends
-parent_form: Form 1099-DIV
-box: "5"
 source_doc: Form 1099-DIV Box 5
 form: Form 1040
 line: "13"
-subset_of: Box 1a
 routing:
   - "Form 8995 (QBI deduction) → Form 1040, Line 13"
 ---

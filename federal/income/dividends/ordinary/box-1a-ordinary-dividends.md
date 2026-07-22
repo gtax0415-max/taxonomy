@@ -1,8 +1,6 @@
 ---
 type: income
 category: dividends
-parent_form: Form 1099-DIV
-box: "1a"
 source_doc: Form 1099-DIV Box 1a
 form: Form 1040
 line: "3b"

@@ -1,12 +1,9 @@
 ---
 type: income
 category: dividends
-parent_form: Form 1099-DIV
-box: "1b"
 source_doc: Form 1099-DIV Box 1b
 form: Form 1040
 line: "3a"
-subset_of: Box 1a
 routing:
   - "Reported on Form 1040, Line 3a"
 ---
