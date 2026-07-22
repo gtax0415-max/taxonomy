@@ -1,3 +1,12 @@
+---
+type: income
+category: wages
+source_doc: W-2 Box 1
+form: Form 1040
+line: "1a"
+via: []
+---
+
 # Form W-2
 ## Description
 Employer wage reporting document.
