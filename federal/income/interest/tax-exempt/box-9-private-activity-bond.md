@@ -6,19 +6,22 @@ form: Form 1040
 line: "2a"
 subset_of: Box 8
 routing:
-  - "Included in Box 8 → Form 1040, Line 2a"
-  - "Also an AMT preference item → Form 6251 (Alternative Minimum Tax)"
+  - "This amount is already part of Box 8, so it is reported on Form 1040, Line 2a as tax-exempt interest (do not add it again)"
+  - "For regular tax: not taxed"
+  - "For Alternative Minimum Tax (AMT): this interest must be added back on Form 6251, which may increase tax for people subject to AMT"
 ---
 # Form 1099-INT — Box 9: Specified Private Activity Bond Interest
 ## Description
-The portion of tax-exempt interest (from Box 8) that comes from specified private activity bonds. Exempt from regular federal tax but subject to the Alternative Minimum Tax (AMT).
+The portion of your tax-exempt interest (already counted in Box 8) that comes from "private activity bonds." This interest is free from regular federal income tax, but it counts as income when calculating the Alternative Minimum Tax (AMT).
 ## Notes
-- Already included in the Box 8 total
-- Exempt from regular federal income tax
-- Added back as a preference item on Form 6251 for AMT purposes
+- Box 9 is not extra interest — it is a slice of the Box 8 amount, broken out separately
+- Because it is inside Box 8, you report it once on Form 1040, Line 2a (through the Box 8 total)
+- The reason it is listed separately: people who owe AMT must add this interest back on Form 6251, where it can raise their tax
+- If you are not subject to AMT, Box 9 has no effect on what you owe
 ## Common Errors
-- Double-counting with Box 8 (Box 9 is a subset, not additional)
-- Forgetting the AMT add-back on Form 6251
+- Adding Box 9 on top of Box 8 (double-counting) — it is already included in Box 8
+- Forgetting the AMT add-back on Form 6251 when AMT applies
 ## Prompt
-- My 1099-INT shows private activity bond interest in Box 9.
-- I have AMT-related muni bond interest on my 1099-INT.
+- My 1099-INT shows an amount in Box 9 for private activity bond interest.
+- I have muni bond interest that might be subject to AMT.
+- Part of my tax-exempt interest is from private activity bonds.
