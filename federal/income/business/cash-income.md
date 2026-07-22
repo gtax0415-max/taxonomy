@@ -1,4 +1,3 @@
-cat > federal/income/business/cash-income.md << 'EOF'
 ---
 type: income
 category: business
@@ -36,5 +35,3 @@ Self-employment income received in cash or otherwise not reported on a 1099-NEC,
 - I earned money from cash gigs this year with no 1099.
 - I got paid in cash for freelance side jobs.
 - I have self-employment income that was not reported on any form.
-EOF
-echo "wrote cash-income.md"
