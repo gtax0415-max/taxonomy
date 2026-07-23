@@ -31,6 +31,13 @@ For the full $500,000:
 - EITHER spouse must meet the OWNERSHIP test
 - BOTH spouses must independently meet the USE test
 If one spouse moved in recently and fails the use test, the couple is limited to $250,000. Waiting until both spouses clear 24 months of use can be worth $250,000 of exclusion.
+## Surviving spouse — the $500,000 stays available for two years
+An unmarried surviving spouse may still use the FULL $500,000 exclusion if:
+- The sale occurs NO LATER THAN 2 YEARS after the date of the spouse's death, AND
+- The taxpayer has NOT remarried as of the sale date, AND
+- The ownership and use tests were met IMMEDIATELY BEFORE the death — that is, the couple would have qualified for $500,000 had they sold together
+This is IRC Section 121(b)(4). Without it, a widow or widower selling the family home would drop to $250,000 the year after the death. The two-year window runs from the DATE OF DEATH, not from the end of that tax year, so timing a sale matters.
+Related: federal/filing-status/qualifying-surviving-spouse.md, which has its own two-year window measured differently
 ## The two-year frequency limit
 You cannot use the exclusion if you already used it on another home sale within the TWO YEARS before this sale. The clock runs sale to sale, not by calendar year.
 ## Partial exclusion
@@ -62,13 +69,15 @@ THE 3.8% NET INVESTMENT INCOME TAX on non-excluded gain, by MAGI:
 | Single / head of household | $200,000 |
 | Married filing jointly / QSS | $250,000 |
 | Married filing separately | $125,000 |
-These NIIT thresholds are set by IRC Section 1411 and have NOT been indexed since 2013, so more sellers cross them every year. A large home sale gain can push MAGI over the line by itself, making the effective rate on the excess 18.8% or 23.8%.
+These NIIT thresholds are set by IRC Section 1411 and have NOT been indexed since 2013, so more sellers cross them every year.
+EXCLUDED GAIN IS NOT SUBJECT TO NIIT. Gain sheltered by Section 121 is excluded from gross income entirely, so it never enters the net investment income calculation and does not raise MAGI. A seller who excludes the whole gain owes no NIIT on the sale, no matter how large the gain was.
+Only the NON-EXCLUDED portion counts. That portion can by itself push MAGI over the threshold, making the effective rate on the excess 18.8% or 23.8%.
 ## A loss is not deductible
 Selling a personal residence at a loss produces NO deduction. Personal-use property losses are never deductible.
 ## Reporting
 - If the gain is fully excluded AND you did not receive Form 1099-S, you generally do not report the sale at all
 - If you received Form 1099-S, you MUST report it even if fully excluded — report the sale on Form 8949 and enter the exclusion as a negative adjustment
-- Non-excluded gain is a long-term capital gain and may also be subject to the 3.8% net investment income tax. See the filing status tables below
+- Non-excluded gain is a long-term capital gain and may also be subject to the 3.8% net investment income tax. See the filing status tables above
 ## Basis matters more than people expect
 Gain equals selling price minus selling costs minus adjusted basis. Adjusted basis is the purchase price plus CAPITAL IMPROVEMENTS — a new roof, an addition, a remodeled kitchen — but not repairs or maintenance. Keeping improvement receipts over decades of ownership is what keeps the gain below the exclusion.
 ## Required Information
@@ -85,6 +94,7 @@ Gain equals selling price minus selling costs minus adjusted basis. Adjusted bas
 - Did you use the exclusion on another home sale in the last two years?
 - Was any part of the home ever rented or used as a home office with depreciation claimed?
 - Did you receive a Form 1099-S at closing?
+- Are you a surviving spouse selling within two years of your spouse's death?
 - Do you have records of capital improvements?
 ## Common Errors
 - Forgetting capital improvements and overstating the gain
@@ -93,7 +103,9 @@ Gain equals selling price minus selling costs minus adjusted basis. Adjusted bas
 - Overlooking depreciation recapture from a home office or a rental period
 - Trying to deduct a loss on a personal residence
 - Using the exclusion twice within two years
-- Forgetting that a large gain raises MAGI and can trigger the 3.8% net investment income tax on top of the capital gains rate
+- Forgetting that a large NON-EXCLUDED gain raises MAGI and can trigger the 3.8% net investment income tax
+- Assuming excluded gain triggers NIIT — it does not, and it does not raise MAGI either
+- A surviving spouse dropping to $250,000 when the $500,000 was still available within two years of the death
 ## Prompt
 - I sold my house this year.
 - We sold our home and made a big profit.
