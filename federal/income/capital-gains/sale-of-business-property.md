@@ -15,6 +15,14 @@ routing:
 # Form 4797 — Sales of Business Property
 ## Description
 Reports gains and losses from selling or disposing of property used in a trade or business — equipment, vehicles, buildings, farm machinery, breeding livestock, and rental real estate. About 3.36 million returns file it (IRS SOI, TY 2022), reporting roughly $121 billion.
+## Who files this — NOT just Schedule C
+Form 4797 applies to any property used in a trade, business, or income-producing activity, regardless of which schedule the income normally sits on:
+- RENTAL REAL ESTATE owners selling a property — Schedule E. This is likely the largest group
+- FARMERS selling machinery, breeding livestock, or land — Schedule F. See federal/income/farming/farm-income.md
+- SOLE PROPRIETORS selling equipment, vehicles, or fixtures — Schedule C
+- PARTNERS and S-CORPORATION SHAREHOLDERS receiving the gain through a Schedule K-1
+- Anyone disposing of property on which DEPRECIATION or a Section 179 deduction was claimed, including a home office asset
+If you never claimed depreciation and the property was personal-use, this form does not apply. A personal residence goes to home-sale.md; investment securities go to 1099-b.md.
 ## The key concept: Section 1231's "best of both worlds"
 Section 1231 property is depreciable business property and business real estate held MORE THAN ONE YEAR. It gets asymmetric treatment:
 - A NET GAIN is treated as LONG-TERM CAPITAL GAIN — taxed at favorable capital gains rates, routed through Schedule D to Form 1040 Line 7

@@ -11,6 +11,13 @@ via:
 # Form 6252 — Installment Sale Income
 ## Description
 Reports gain from a sale where you receive at least one payment AFTER the year of sale. Instead of recognizing the whole gain up front, you recognize it proportionally as payments come in. About 465,500 returns file it (IRS SOI, TY 2022).
+## Who files this
+About 465,500 returns file Form 6252 (IRS SOI, TY 2022) — uncommon, but it recurs in specific situations:
+- SELLER-FINANCED REAL ESTATE, where the buyer pays the seller directly over several years
+- SALE OF A BUSINESS paid out over time
+- FARMLAND or ranch sales structured across multiple years
+- Any property sale where at least one payment arrives in a year AFTER the year of sale
+It applies to real property and business assets. It does NOT apply to inventory or to publicly traded securities.
 ## How it works
 - Compute the GROSS PROFIT PERCENTAGE: gross profit divided by contract price
 - Each year, that percentage of the PRINCIPAL received is taxable gain
