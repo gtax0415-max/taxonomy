@@ -1,63 +1,89 @@
 ---
 type: payment
 category: payments
-source_doc: Form W-2 Box 2 (federal income tax withheld) / Form 1099-R Box 4, Form 1099-INT Box 4, Form 1099-DIV Box 4, Form 1099-NEC Box 4, Form 1099-MISC Box 4, Form 1099-G Box 4, Form W-2G Box 4, Form SSA-1099 Box 6 / Form 1042-S for certain payments
+source_doc: Your own records of payments made (IRS Direct Pay confirmations, EFTPS records, cancelled checks, Form 1040-ES vouchers) / the prior-year Form 1040 Line 24 total tax and Line 11 AGI, which set the safe harbor / the prior-year Form 1040 Line 36 amount applied forward
 form: Form 1040
-line: "25a, 25b, 25c, 25d"
+line: "26"
 via:
-  - Form W-2 Box 2 → Form 1040, Line 25a
-  - Form 1099 series Box 4 → Form 1040, Line 25b
-  - Other forms → Form 1040, Line 25c
+  - Estimated payments and prior-year overpayment applied → Form 1040, Line 26
+  - Underpayment penalty → Form 2210 → Form 1040, Line 38
 ---
-# Federal Income Tax Withholding
+# Estimated Tax Payments (Form 1040-ES)
 ## Description
-Tax already taken out of your pay and other payments during the year and remitted to the IRS on your behalf. It is a PAYMENT, not a tax — it reduces what you owe at filing, and any excess comes back as a refund.
-## Where each form's withholding lands
-| Source | Box | Form 1040 line |
+Quarterly payments made directly to the IRS by people whose income is not subject to withholding — the self-employed, investors, retirees, landlords, and anyone with large non-wage income. The U.S. system is pay-as-you-earn, so waiting until April is itself a penalty event.
+## Which tax year are you paying for?
+Estimated tax is paid DURING the year it belongs to, not afterward. Tax year 2025 estimated payments were due during 2025, with only the final installment falling in January 2026. Nothing paid after January 15, 2026 can count as a timely 2025 installment.
+TAX YEAR 2025 — paid during 2025 and January 2026
+| Installment | Period covered | Due |
 |---|---|---|
-| Form W-2 | Box 2 | Line 25a |
-| Form 1099-R | Box 4 | Line 25b |
-| Form 1099-INT | Box 4 | Line 25b |
-| Form 1099-DIV | Box 4 | Line 25b |
-| Form 1099-NEC | Box 4 | Line 25b |
-| Form 1099-MISC | Box 4 | Line 25b |
-| Form 1099-G | Box 4 | Line 25b |
-| Form W-2G | Box 4 | Line 25b |
-| Form SSA-1099 | Box 6 | Line 25b |
-| Other forms | — | Line 25c |
-## Wage withholding is set by Form W-4
-- Employers withhold based on the Form W-4 you filed. The 2020 redesign removed "allowances" and asks instead about multiple jobs, dependents, other income, and extra withholding
-- Step 2 (multiple jobs) is the most commonly skipped step and the most common cause of under-withholding for two-earner couples
-- Step 4(c) lets you request a flat EXTRA amount per pay period, which is the simplest fix for a shortfall
-- You can file a new Form W-4 at any time; it is not once a year
-## The timing advantage — withholding beats estimated payments
-For the underpayment penalty, WITHHOLDING is treated as paid EVENLY across all four quarterly due dates, no matter when it was actually withheld. An estimated payment counts only on the date it was made.
-This means a large December withholding can retroactively cure an underpayment from earlier in the year, while a large December estimated payment cannot. Someone who realizes in November that they are short can ask an employer to withhold heavily from the last paychecks, or take a retirement distribution with a large withholding election, and erase the penalty. See estimated-tax.md
-## Backup withholding
-If you failed to give a payer your correct TIN, or the IRS notified the payer of an under-reporting problem, the payer must withhold 24% and report it in Box 4. It is recoverable on the return like any other withholding, but the fix is to give the payer a corrected Form W-9.
-## Withholding you can elect
-- RETIREMENT distributions: 20% mandatory on eligible rollover distributions paid to you; you can elect more or, for IRAs, elect out
-- SOCIAL SECURITY: voluntary, elected on Form W-4V at 7%, 10%, 12%, or 22%
-- UNEMPLOYMENT: voluntary, 10% flat, on Form W-4V
-- GAMBLING: 24% required above certain thresholds
-## Notes
-- Withholding is NOT the same as the tax. It is an estimate collected in advance, and the return trues it up
-- State withholding appears in Form W-2 Box 17 and goes on the state return, not the federal one
-- Social Security and Medicare tax in Form W-2 Boxes 4 and 6 are NOT income tax withholding. Do not add them to Line 25a
+| 1st | January 1 – March 31, 2025 | April 15, 2025 |
+| 2nd | April 1 – May 31, 2025 | June 16, 2025 (the 15th was a Sunday) |
+| 3rd | June 1 – August 31, 2025 | September 15, 2025 |
+| 4th | September 1 – December 31, 2025 | January 15, 2026 |
+TAX YEAR 2026 — paid during 2026 and January 2027
+| Installment | Period covered | Due |
+|---|---|---|
+| 1st | January 1 – March 31, 2026 | April 15, 2026 |
+| 2nd | April 1 – May 31, 2026 | June 15, 2026 |
+| 3rd | June 1 – August 31, 2026 | September 15, 2026 |
+| 4th | September 1 – December 31, 2026 | January 15, 2027 |
+The periods are NOT equal quarters. The 2nd installment covers only two months and the 3rd covers three. A due date falling on a weekend or holiday moves to the next business day. Filing the return and paying in full by February 1, 2027 lets you skip the 4th installment for 2026.
+## April 15, 2026 carries TWO different obligations
+That single date is both the filing deadline for the 2025 return and the first estimated installment for 2026. They are separate payments and one does not cover the other:
+- A payment made with the 2025 return, or with a Form 4868 extension, settles the 2025 BALANCE DUE. It does nothing for 2026
+- A Form 1040-ES payment for the 1st 2026 installment is a 2026 payment. It does nothing for 2025
+Sending one check for the combined amount, or coding a payment to the wrong year, is a common and expensive error. When paying electronically, the tax YEAR selection matters as much as the amount.
+Paying a 2025 shortfall in April 2026 does not remove the 2025 underpayment penalty either. The penalty already accrued from each 2025 due date that was missed.
+## The safe harbors — meeting ANY one avoids the penalty
+1. 90% of the CURRENT year's total tax, or
+2. 100% of the PRIOR year's total tax, or
+3. 110% of the PRIOR year's total tax if prior-year AGI exceeded $150,000 — or $75,000 if MARRIED FILING SEPARATELY. This is the only filing status difference in the estimated tax rules, and it is easy to miss: an MFS filer hits the 110% requirement at half the income everyone else does
+The prior-year safe harbor is the practical choice: take last year's Form 1040 Line 24, multiply by 100% or 110%, divide by four, and pay that. It works no matter how much your income rises, which makes it valuable in a year with a big one-time gain.
+DE MINIMIS: no penalty at all if the balance owed after withholding and credits is under $1,000.
+## Each quarter stands alone
+Paying a large amount in the fourth quarter does NOT cure a first-quarter shortfall. The penalty accrues from each missed due date until the underpayment is made up or the return is filed. This surprises people who assume "I paid it all by April so I am fine."
+## Withholding is the escape hatch
+Withholding is treated as paid EVENLY across the four due dates regardless of when it happened. An estimated payment counts only on its actual date. So a shortfall discovered in December can be fixed with heavy year-end withholding — from a bonus, a final paycheck, or a retirement distribution with a large withholding election — but NOT with a December estimated payment. See withholding.md
+## The annualized income method
+If your income was genuinely uneven — a business with a seasonal peak, a single large capital gain in December — Form 2210 Schedule AI lets you compute installments based on income actually earned in each period. It is more work but can eliminate a penalty that the flat method would impose.
+## The penalty (Form 2210)
+- Charged as interest, at the federal short-term rate plus 3 percentage points, set quarterly
+- For 2026 the rate was 7% for the first quarter and 6% for the second (Rev. Rul. 2025-22 and later rulings). Confirm the current quarter's rate
+- Computed per installment, compounding daily on the underpaid balance
+- NOT deductible
+- A waiver may be available for casualty, disaster, retirement after age 62, or disability
+## Who typically needs to pay
+- Self-employed filers — the 15.3% self-employment tax has nothing withheld against it. See federal/taxes/self-employment-tax.md
+- Retirees taking IRA distributions without a withholding election
+- Investors with large capital gains, dividends, or interest
+- Landlords with rental income
+- Anyone with significant income from a Schedule K-1
+- Employees whose withholding does not cover the additional Medicare tax or net investment income tax
+## Applying a prior-year overpayment
+Form 1040 Line 36 lets you apply this year's overpayment to next year's estimated tax instead of taking a refund. The applied amount shows up on next year's Line 26 and counts as paid on the FIRST installment due date, which is often the cleanest way to cover the first quarter.
 ## Required Information
-- Every Form W-2 and Form 1099 received, with the withholding box
-- Current Form W-4 on file with each employer
+- Prior-year Form 1040 Line 24 total tax, and Line 11 AGI to test the $150,000 threshold
+- Payments made this year, with dates
+- Any prior-year overpayment applied forward
+- Total withholding from all sources
 ## Questions
-- How much federal income tax was withheld from all sources?
-- Do you have more than one job, or does your spouse work (a Form W-4 Step 2 issue)?
-- Did you have backup withholding at 24% on any payment?
-- Do you need to adjust withholding for next year?
+- Do you have income with no withholding — self-employment, investments, rentals, or retirement distributions?
+- What was your total tax last year, and was your AGI above $150,000?
+- What did you pay each quarter, on what dates, and for which TAX YEAR?
+- Did you make the 2025 installments during 2025, or are you only now catching up?
+- Was your income uneven across the year (the annualized method may help)?
+- Could you fix a shortfall through year-end withholding instead?
 ## Common Errors
-- Adding Form W-2 Box 4 or Box 6 (Social Security and Medicare) to income tax withholding
-- Missing withholding shown on a Form 1099 or Form SSA-1099
-- Skipping Form W-4 Step 2 in a two-earner household and under-withholding
-- Claiming state withholding on the federal return
+- Assuming a refund at filing proves there was no underpayment problem
+- Paying everything in the fourth quarter and expecting that to cure earlier quarters
+- Using 100% of prior-year tax when AGI over $150,000 requires 110%
+- Forgetting the self-employment tax when estimating, and underpaying by 15.3% of net profit
+- Missing the January 15 fourth installment because it falls in the next calendar year
+- Coding a payment to the wrong TAX YEAR, so a 2026 installment is credited against 2025 or the reverse
+- Believing that paying the 2025 balance due in April 2026 cures the 2025 underpayment penalty — it does not, because each 2025 installment date has already passed
+- Overlooking the annualized income method after a single large year-end gain
 ## Prompt
-- How much tax was withheld from my paycheck?
-- I want to change my withholding.
-- Too little tax was taken out of my pay.
+- Do I need to make quarterly estimated tax payments?
+- I am self-employed and do not know how much to pay.
+- I owe an underpayment penalty.
+- I had a big capital gain this year.
