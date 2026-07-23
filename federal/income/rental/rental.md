@@ -12,6 +12,7 @@ via:
 Income from renting real estate and from royalties. Reported on Schedule E, which flows through Schedule 1, Line 5 to Form 1040, Line 8. This is generally passive income and is NOT subject to self-employment tax (unlike business income on Schedule C).
 ## Forms
 - Form 1099-MISC — Rents (Box 1) and royalties (Box 2) (1099-misc.md)
+- Form 1099-K — Short-term rental income from platforms like Airbnb and VRBO (1099-k.md)
 ## Notes
 - Rental income is offset by rental expenses (mortgage interest, property tax, repairs, depreciation) on Schedule E
 - Passive losses may be limited; unused losses can carry forward
@@ -24,3 +25,4 @@ Income from renting real estate and from royalties. Reported on Schedule E, whic
 - I have rental income from a property I own.
 - I earned royalties this year.
 - I rent out a property and received a 1099-MISC.
+- I host on Airbnb and received a 1099-K.
