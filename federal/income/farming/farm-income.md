@@ -40,7 +40,7 @@ Reports income and expenses from operating a farm. Net profit or loss on Schedul
 ## Loss limitations (applied in order)
 1. At-risk rules — Form 6198
 2. Passive activity loss rules — Form 8582, if you do not materially participate
-3. Excess business loss limitation — Form 461. For 2025 the threshold is $313,000 ($626,000 joint); disallowed amounts carry forward as an NOL
+3. Excess business loss limitation — Form 461. Thresholds for 2026 are $256,000 (single, head of household, AND married filing separately) and $512,000 (married filing jointly and qualifying surviving spouse). These DROPPED from the 2025 amounts of $313,000 / $626,000: the One Big Beautiful Bill Act made the limitation permanent and reset the inflation-indexing base year to 2024, erasing several years of indexing. Married filing separately uses the SINGLE threshold, not half of the joint amount. Disallowed amounts carry forward as an NOL
 ## Required Information
 - Gross receipts by category (livestock, produce, cooperative distributions, program payments)
 - Cost of livestock and items bought for resale

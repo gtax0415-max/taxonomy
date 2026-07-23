@@ -20,6 +20,8 @@ The single-filer amount is the same as the married-filing-jointly amount, so two
 - SALT phase-down threshold: $505,000 for 2026 for both single and MFJ — also not doubled
 - Qualified tips: $25,000 per return regardless of status (schedule-1-a/qualified-tips.md). A couple where both spouses earn tips still shares one $25,000 cap
 - Car loan interest: $10,000 per return regardless of status (schedule-1-a/car-loan-interest.md). Single and joint filers share the same cap
+- Rental passive loss $25,000 special allowance and its $100,000 phase-out threshold: same for single and MFJ (federal/income/rental/passive-activity-limits.md). Not indexed since 1986
+- Capital loss against ordinary income: $3,000 for both single and MFJ ($1,500 for MFS). Not indexed
 ## Doubled (or effectively doubled) for joint filers
 - Standard deduction: $16,100 single / $32,200 MFJ for 2026 (standard/standard-deduction.md)
 - Qualified overtime: $12,500 single / $25,000 MFJ (schedule-1-a/qualified-overtime.md)
@@ -37,6 +39,7 @@ The single-filer amount is the same as the married-filing-jointly amount, so two
 - Medical expenses (itemized/medical-expenses.md): the 7.5% floor applies to each spouse's own AGI, so a spouse with high medical costs and low income clears the floor more easily than against combined AGI. This is the main legitimate reason to consider MFS, but weigh it against everything MFS costs
 ## Different phase-out ranges by status (not simple doubling)
 - Student loan interest, 2026: single/HOH/QSS $85,000-$100,000; MFJ $175,000-$205,000 (a $15,000 window vs a $30,000 window)
+- Excess business loss (Form 461), 2026: $256,000 for single, HOH, AND married filing separately; $512,000 only for MFJ and QSS. MFS uses the SINGLE amount, not half the joint amount. Thresholds DROPPED from 2025 ($313,000/$626,000) because OBBBA reset the indexing base year
 - IRA deduction, 2026: single/HOH $81,000-$91,000; MFJ when you are covered $129,000-$149,000; MFJ when only your spouse is covered $242,000-$252,000; MFS $0-$10,000
 ## No filing status difference
 These depend on other factors rather than filing status:

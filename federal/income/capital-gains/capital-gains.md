@@ -23,7 +23,8 @@ Gains and losses from selling or disposing of property. Most flow through Schedu
 ## Notes
 - Holding period matters: more than one year generally means long-term and preferential rates
 - Section 1256 contracts are an exception — automatically 60% long-term and 40% short-term regardless of holding period
-- Capital losses offset capital gains, and up to $3,000 of net loss can offset ordinary income each year; the rest carries forward
+- Capital losses offset capital gains, and up to $3,000 of net loss can offset ordinary income each year ($1,500 if married filing separately); the rest carries forward indefinitely
+- The $3,000 limit is statutory and NOT indexed for inflation. It is also NOT doubled for joint filers — a single filer and a married couple filing jointly both get $3,000
 ## Questions
 - What did you sell — securities, digital assets, business equipment, or real estate?
 - Was the property used in a business or held for investment?

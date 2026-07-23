@@ -21,7 +21,9 @@ If you ACTIVELY PARTICIPATE in rental real estate (a lower bar than material par
 - Phases out at 50 cents per dollar once MAGI exceeds $100,000
 - Completely gone at MAGI of $150,000
 - The $25,000 and the phase-out range are NOT indexed for inflation, so they have eroded over time
-- Married filing separately: reduced to $12,500 and only if you lived apart from your spouse all year; $0 if you lived together
+- NOT DOUBLED for joint filers: a single filer and a married couple filing jointly both get the same $25,000, and the same $100,000 phase-out threshold. Two unmarried co-owners could each claim up to $25,000; once married they share one. This is the same marriage-penalty pattern as the SALT cap
+- Married filing separately: reduced to $12,500, and only if you lived apart from your spouse for the ENTIRE year; $0 if you lived together at any point. The phase-out threshold is also halved to $50,000
+- These amounts are set by statute and have NOT been indexed since 1986, so inflation has steadily eroded the benefit. They are the same for 2026 as for prior years
 ## Exception 2: real estate professional
 If you meet BOTH tests, your rental activities are not automatically passive:
 1. More than half of your personal services during the year are in real property trades or businesses, AND
