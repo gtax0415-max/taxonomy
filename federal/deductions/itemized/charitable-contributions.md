@@ -50,7 +50,7 @@ Use the IRS Tax Exempt Organization Search (formerly Publication 78) to confirm 
 - Raffle tickets, bingo, and similar chances to win are NOT deductible, because you received full consideration for the payment
 - If you receive something in return (dinner, tickets), you may deduct only the amount above the value received
 - Volunteer time is never deductible, but out-of-pocket costs and mileage while volunteering are
-- Qualified Charitable Distributions (QCDs) from an IRA bypass the 0.5% floor and are an efficient alternative for those over 70.5
+- Qualified Charitable Distributions (QCDs) from an IRA bypass the 0.5% floor entirely and are usually better than a deduction for anyone over 70.5, because they reduce AGI rather than taxable income. 2026 limit $111,000 per person — see federal/income/retirement/qualified-charitable-distributions.md
 - Bunching (concentrating multiple years of giving into one year) is a common strategy given the high standard deduction
 ## Questions
 - Is the recipient a Section 170(c) qualified organization (most commonly a 501(c)(3))? Did you verify it in the IRS Tax Exempt Organization Search?
