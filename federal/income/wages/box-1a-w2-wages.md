@@ -19,6 +19,7 @@ Several employer-provided benefits are already EXCLUDED from Form W-2 Box 1 and 
 - Code D and similar — elective retirement deferrals
 - Code W — employer and payroll HSA contributions, see federal/deductions/adjustments/hsa.md
 - Code TA — employer contributions to a Trump Account (new for 2026), see federal/income/retirement/trump-account.md
+Box 12 code V reports income from exercising nonstatutory stock options. That amount IS already in Box 1 — see federal/income/wages/stock-compensation.md
 Note that Box 12 codes TP (qualified tips) and TT (qualified overtime) are NOT excluded — those amounts stay in Box 1 and are identified for the Schedule 1-A deductions
 ## Required Information
 - Employer name

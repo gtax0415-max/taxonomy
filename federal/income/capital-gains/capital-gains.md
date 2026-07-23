@@ -14,6 +14,7 @@ Gains and losses from selling or disposing of property. Most flow through Schedu
 ## Forms in this folder
 - Form 1099-B — Securities and other broker transactions (1099-b.md)
 - Form 1099-DA — Digital asset transactions (1099-da.md)
+- Sale of a home — the Section 121 exclusion (home-sale.md)
 - Form 4797 — Sales of business property, including depreciation recapture (sale-of-business-property.md)
 - Form 6252 — Installment sales, gain recognized over multiple years (installment-sales.md)
 - Form 6781 — Section 1256 contracts and straddles, the 60/40 rule (section-1256-contracts.md)
