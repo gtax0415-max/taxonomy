@@ -1,22 +1,29 @@
 ---
 type: income
 category: retirement
-source_doc: Form W-2 Box 12 code TA (employer contributions) / Form 4547 (Trump Account Election) / custodian account statements / Form 1099-R when distributions begin
+source_doc: Form W-2 Box 12 code TA (employer contributions only)
 form: Form 1040
-line: "4a, 4b"
+line: "4a, 4b (future years only)"
 via:
-  - Contributions → no current-year tax effect for the child; not deductible by anyone
-  - Employer contributions → excluded from Form W-2 Box 1 wages, reported in Box 12 code TA
-  - Distributions after age 18 → Form 1099-R → Form 1040, Line 4a (gross) and Line 4b (taxable)
+  - Form 4547 or the trumpaccounts.gov portal — the ELECTION to open the account and claim the $1,000. This is a form you file, not a document you receive
+  - Employer contributions → excluded from Form W-2 Box 1, identified in Box 12 code TA
+  - Distributions, beginning in 2027 at the earliest → Form 1099-R → Form 1040, Line 4a and 4b
 routing:
-  - "Employer contribution → Form W-2 Box 12 code TA → EXCLUDED from Box 1 wages, no income to report"
-  - "Federal $1,000 pilot contribution → not income when deposited; taxable later when withdrawn"
-  - "Individual contributions → NOT deductible by the parent, grandparent, or anyone else"
-  - "Distributions on or after January 1 of the year the child turns 18 → traditional IRA rules → Form 1040, Line 4a and 4b"
+  - "Employer contribution → Form W-2 Box 12 code TA → EXCLUDED from Box 1 wages, nothing to report as income"
+  - "Federal $1,000 pilot contribution → no information return is issued; not income when deposited, taxable when withdrawn"
+  - "Individual contributions → NOT deductible by anyone and NOT reported on the return"
 ---
 # Trump Account
 ## Description
 A new type of custodial TRADITIONAL IRA for children under 18, created by the One Big Beautiful Bill Act under IRC Section 530A. Accounts became available July 4, 2026. It is neither a credit nor a deduction — it is a savings account whose tax consequences arrive years later, at distribution.
+## What is and is not a source document
+For tax year 2026 only ONE document reaches the return:
+- Form W-2 Box 12 code TA — employer contributions. Already excluded from Box 1, so it is informational rather than an amount you add or subtract
+Everything else is NOT a source document:
+- The federal $1,000 pilot contribution generates NO information return. Treasury deposits it directly. It does not appear on a Form W-2, a Form 1099, or anywhere on the return
+- Form 4547 is the ELECTION you FILE to open the account and claim the $1,000. It is a form you create, not one you receive
+- Custodian account statements do not feed any line of any return for 2026, because individual contributions are neither deductible nor reported. Keep them regardless — they are the contribution record that will establish basis when distributions eventually begin
+- Form 1099-R will apply eventually, but NOT for 2026. See the timing note below
 ## The $1,000 federal pilot contribution
 - A one-time $1,000 Treasury contribution for U.S. citizen children born January 1, 2025 through December 31, 2028 who have a Social Security number
 - Requires an ELECTION on Form 4547, "Trump Account Election(s)," filed with a return or through the portal at trumpaccounts.gov
@@ -39,7 +46,14 @@ A new type of custodial TRADITIONAL IRA for children under 18, created by the On
 - Requires a written Trump Account Contribution Program (TACP) under Section 128, with nondiscrimination rules borrowed from the dependent care assistance rules of Section 129(d) — the program cannot favor highly compensated employees
 ## Investment restriction
 Funds must be invested in low-cost mutual funds or ETFs tracking the S&P 500 or another index made up primarily of U.S. equities. There is no choice of individual securities.
-## Distributions
+## Distributions — none are possible for tax year 2026
+Three rules combine to rule out any 2026 distribution:
+1. Accounts could not be funded before July 4, 2026
+2. To be eligible, the child must NOT have turned 18 before the end of the calendar year the election is made, so every 2026 account holder turns 18 in 2027 or later
+3. Withdrawals cannot occur before January 1 of the calendar year the child turns 18
+The earliest possible distribution is therefore JANUARY 1, 2027, for a child who was 17 at the end of 2026. Most account holders are many years away from any distribution.
+When distributions do begin they arrive on Form 1099-R Box 1 (gross) and Box 2a (taxable), with the Box 7b IRA/SEP/SIMPLE checkbox marked, and land on Form 1040 Line 4a and Line 4b — see federal/income/retirement/1099-r.md
+## Distribution rules
 - Generally NO withdrawals before January 1 of the calendar year the child turns 18
 - After that the account is treated as a regular TRADITIONAL IRA: distributions are ordinary income, and the 10% early distribution additional tax applies before age 59.5 unless an exception applies (education, first-time home purchase, disaster recovery, and others)
 - Because contributions were never deducted, the tax character of distributions is layered and can be complex — basis tracking matters
@@ -54,7 +68,7 @@ A 529 grows tax-free and comes out tax-free for qualified education costs. A Tru
 ## Required Information
 - Child's name, Social Security number, and date of birth
 - Whether the child is a U.S. citizen born 2025 through 2028 (for the $1,000)
-- Form 4547 election, or confirmation of the online election
+- Confirmation that the Form 4547 or online election was made
 - Form W-2 Box 12 code TA amounts, if an employer contributed
 - Total contributions from all sources for the year, to test the $5,000 cap
 ## Questions
@@ -70,6 +84,8 @@ A 529 grows tax-free and comes out tax-free for qualified education costs. A Tru
 - Treating it like a 529 and expecting tax-free withdrawals for education
 - Missing the election entirely and forfeiting the $1,000 for an eligible child
 - Attempting a withdrawal before the year the child turns 18
+- Looking for a Form 1099 or other statement for the federal $1,000 — none is issued
+- Expecting the $1,000 to appear on a Form W-2; Box 12 code TA reports employer money only
 ## Prompt
 - I want to open a Trump account for my baby.
 - My employer contributed to a Trump account for my kid.
