@@ -12,7 +12,7 @@ New schedule created by the One Big Beautiful Bill Act (OBBBA) to claim four tem
 ## The four deductions
 - Qualified tips (Part II) — up to $25,000. See qualified-tips.md
 - Qualified overtime (Part III) — up to $12,500 ($25,000 joint). See qualified-overtime.md
-- Car loan interest (Part IV) — up to $10,000 on a qualifying new U.S.-assembled vehicle loan. See car-loan-interest.md
+- Car loan interest (Part IV) — up to $10,000 on a qualifying new U.S.-assembled vehicle loan; reported by the lender on Form 1098-VLI. See car-loan-interest.md
 - Enhanced senior deduction (Part V) — up to $6,000 per eligible individual age 65 or older ($12,000 if both spouses qualify and both have valid SSNs); phases out at MAGI $75,000 ($150,000 joint). Married taxpayers MUST file jointly. See senior-deduction.md
 ## Key points
 - Available whether the taxpayer takes the standard deduction OR itemizes
