@@ -14,6 +14,12 @@ Total wages, salaries, and tips from Box 1 of every Form W-2 you received. This 
 - Box 1 wages are often less than gross salary because of pre-tax items like 401(k) contributions and cafeteria-plan (health insurance) deductions
 - Add together Box 1 from all W-2s if you had more than one employer
 - Earned income; subject to Social Security and Medicare tax withheld by the employer
+## Amounts excluded from Box 1
+Several employer-provided benefits are already EXCLUDED from Form W-2 Box 1 and appear only in Box 12. Do not add them back or deduct them again:
+- Code D and similar — elective retirement deferrals
+- Code W — employer and payroll HSA contributions, see federal/deductions/adjustments/hsa.md
+- Code TA — employer contributions to a Trump Account (new for 2026), see federal/income/retirement/trump-account.md
+Note that Box 12 codes TP (qualified tips) and TT (qualified overtime) are NOT excluded — those amounts stay in Box 1 and are identified for the Schedule 1-A deductions
 ## Required Information
 - Employer name
 - EIN

@@ -18,6 +18,7 @@ Deduction for contributions to a traditional IRA. Roth IRA contributions are NOT
 - Contributions can be made up to the tax filing deadline (April 15) for the prior year
 - You must have earned income (wages or self-employment income) at least equal to the contribution
 - Roth IRA contributions are never deductible here (but may qualify for the Saver's Credit)
+- Trump Account contributions are also NEVER deductible by anyone — see federal/income/retirement/trump-account.md
 - Nondeductible traditional IRA contributions are tracked on Form 8606 to establish basis, so they are not taxed again at distribution — about 3.25 million returns file Form 8606
 ## Related
 - Distributions later come back as income on Form 1040 Line 4a/4b — see income/retirement/1099-r.md
