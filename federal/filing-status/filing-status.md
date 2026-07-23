@@ -14,16 +14,18 @@ The single most consequential choice on a return. Filing status sets the standar
 - Married filing separately (married-filing-separately.md)
 - Head of household (head-of-household.md)
 - Qualifying surviving spouse (qualifying-surviving-spouse.md)
-## 2026 standard deduction by status (Rev. Proc. 2025-32)
-| Status | Standard deduction |
-|---|---|
-| Single | $16,100 |
-| Married filing separately | $16,100 |
-| Head of household | $24,150 |
-| Married filing jointly | $32,200 |
-| Qualifying surviving spouse | $32,200 |
-Additional amount for each condition of age 65 or older, or blindness: $2,050 if unmarried and not a surviving spouse, $1,650 if married or a qualifying surviving spouse. These stack per person and per condition.
-A dependent's standard deduction is limited to the greater of $1,350 or earned income plus $450, capped at the normal amount for their status.
+## Standard deduction by status (Rev. Proc. 2025-32)
+| Status | 2026 | 2025 |
+|---|---|---|
+| Single | $16,100 | $15,750 |
+| Married filing separately | $16,100 | $15,750 |
+| Head of household | $24,150 | $23,625 |
+| Married filing jointly | $32,200 | $31,500 |
+| Qualifying surviving spouse | $32,200 | $31,500 |
+The married filing jointly amount is exactly DOUBLE the single amount, so the standard deduction itself is marriage-neutral. Head of household sits between the two.
+Additional amount for each condition of age 65 or older, or blindness, for 2026: $2,050 if unmarried and not a surviving spouse, $1,650 if married or a qualifying surviving spouse. These stack per person and per condition, so a married couple both age 65 or older adds $3,300.
+A dependent's standard deduction for 2026 is limited to the greater of $1,350 or earned income plus $450, capped at the normal amount for their status.
+The One Big Beautiful Bill Act made the higher TCJA-era standard deduction permanent and raised it further starting in 2025, so the 2026 figures build on an already elevated 2025 base rather than reflecting inflation alone.
 ## The decision order
 1. Were you MARRIED on December 31? If your spouse died during the year, you are generally treated as married for that year
 2. If married: choose JOINT or SEPARATE. Joint is usually better, but see married-filing-separately.md for the exceptions
