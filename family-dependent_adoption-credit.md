@@ -13,9 +13,10 @@ via:
 ## Description
 Credit for qualified expenses of adopting an eligible child. The One Big Beautiful Bill Act made part of it REFUNDABLE beginning in 2025, a significant change from its long history as a purely nonrefundable credit.
 ## Amounts
-- Maximum credit: $17,280 of qualified expenses for 2025, indexed annually
-- Beginning in 2025, up to $5,000 of the credit is REFUNDABLE. The rest remains nonrefundable and can be carried forward up to five years
-- Phase-out begins at modified AGI above $259,190 (2025) and is complete at $40,000 above that
+- Maximum credit for 2026: $17,670 of qualified expenses, up from $17,280 for 2025 (Rev. Proc. 2025-32)
+- REFUNDABLE portion for 2026: $5,120, up from $5,000 for 2025. The rest remains nonrefundable and carries forward up to five years
+- Phase-out for 2026: modified AGI from $265,080 to $305,080 (2025 was $259,190 to $299,190)
+- FILING STATUS: the phase-out range is the SAME for every filing status. It is NOT doubled for married couples filing jointly, so two adopting singles would each get a full range while a married couple shares one
 - SPECIAL NEEDS ADOPTION: if a state determines the child has special needs, you may claim the FULL credit even if your actual expenses were lower or zero
 ## Qualified expenses
 - Adoption fees, attorney fees, and court costs

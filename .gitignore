@@ -1,1 +1,8 @@
+# macOS
 .DS_Store
+._*
+
+# Downloaded files that land in the repo root.
+# Only README.md belongs at the top level; everything else lives under federal/.
+/*.md
+!/README.md

@@ -14,7 +14,8 @@ Nonrefundable credit for contributing to a retirement account, formally the Cred
 ## How it works
 - The credit is 50%, 20%, or 10% of up to $2,000 of contributions per person, depending on AGI and filing status
 - Maximum credit is therefore $1,000 per person, or $2,000 on a joint return where both spouses contribute
-- The AGI brackets are indexed annually — confirm the current-year table before filing
+- The AGI brackets DIFFER BY FILING STATUS in a fixed ratio: the married filing jointly brackets are exactly DOUBLE the single brackets, and head of household is 1.5 TIMES the single brackets. Married filing separately uses the single amounts
+- The brackets are indexed annually — confirm the current-year table before filing
 - NONREFUNDABLE: it can reduce tax to zero but produces no refund, which is why many low-income savers who would qualify on income get no benefit
 ## Qualifying contributions
 - Traditional and Roth IRA contributions

@@ -17,8 +17,9 @@ routing:
 ## Description
 Credit for each qualifying child under 17, plus a smaller credit for other dependents who do not qualify for the main credit. Claimed on Schedule 8812, the third most-filed schedule (~47.4 million returns, IRS SOI TY 2022).
 ## Amounts
-- CHILD TAX CREDIT: $2,200 per qualifying child under age 17 at the end of the year. Made permanent by the One Big Beautiful Bill Act and indexed for inflation beginning 2026
-- ADDITIONAL CHILD TAX CREDIT (the refundable part): up to $1,700 per child, also indexed beginning 2026
+- CHILD TAX CREDIT: $2,200 per qualifying child under age 17 at the end of the year. CONFIRMED at $2,200 for 2026 by Rev. Proc. 2025-32 — the inflation adjustment did not move it, because rounding is to the nearest $100
+- ADDITIONAL CHILD TAX CREDIT (the refundable part): $1,700 per child, also CONFIRMED unchanged for 2026
+- Both were made permanent by the One Big Beautiful Bill Act and are indexed going forward
 - CREDIT FOR OTHER DEPENDENTS: $500 per dependent who does not qualify for the Child Tax Credit — a child 17 or older, a college student, an elderly parent. Permanent. NEVER refundable
 ## Phase-out
 - Reduced by $50 for every $1,000 (or fraction) of modified AGI above $200,000 (single, head of household, married filing separately) or $400,000 (married filing jointly)
