@@ -44,7 +44,7 @@ The income that these expenses are subtracted from is documented under federal/i
 - federal/income/business/business.md — parent overview of Schedule C income
 - federal/income/business/1099-nec.md — nonemployee compensation (Form 1099-NEC Box 1)
 - federal/income/business/1099-k.md — payment card and platform income (Form 1099-K Box 1a)
-- federal/income/business/1099-misc.md — pointer; rents and royalties are documented under federal/income/rental/
+- federal/income/business/1099-misc.md — pointer; rents and royalties are documented under federal/income/rental-royalty/
 - federal/income/business/cash-income.md — cash and income with no 1099
 The flow is: gross receipts (Schedule C Line 1) minus these expenses = net profit (Schedule C Line 31) → Schedule 1 Line 3 → Form 1040 Line 8
 ## Related — other deductions

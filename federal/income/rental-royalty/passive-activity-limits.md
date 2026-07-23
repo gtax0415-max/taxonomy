@@ -1,6 +1,6 @@
 ---
 type: income
-category: rental
+category: rental-royalty
 source_doc: Lease agreements and rent receipts / bank deposit records / expense invoices and receipts (repairs, insurance, management fees, utilities) / Form 1098 Box 1 (mortgage interest on the rental) / property tax bills / contemporaneous participation time logs / prior-year Form 8582 showing suspended loss carryforwards
 form: Form 1040
 line: "8"
@@ -30,7 +30,7 @@ If you meet BOTH tests, your rental activities are not automatically passive:
 2. More than 750 hours of service in those activities
 You must also materially participate in the rental activity itself. Contemporaneous time logs are essential — this is a frequently audited area.
 ## Exception 3: short-term rentals
-Average guest stays of seven days or fewer are not automatically "rental activity" under the passive rules. With material participation, such an activity can be nonpassive — relevant to some Airbnb and VRBO operations. See federal/income/rental/1099-k.md
+Average guest stays of seven days or fewer are not automatically "rental activity" under the passive rules. With material participation, such an activity can be nonpassive — relevant to some Airbnb and VRBO operations. See federal/income/rental-royalty/1099-k.md
 ## When suspended losses are released
 Suspended passive losses are freed when you DISPOSE OF THE ENTIRE ACTIVITY in a fully taxable transaction to an unrelated party. At that point the accumulated losses become deductible in full.
 ## Notes
