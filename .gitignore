@@ -2,7 +2,7 @@
 .DS_Store
 ._*
 
-# Downloaded files that land in the repo root.
-# Only README.md belongs at the top level; everything else lives under federal/.
+# ルート直下に落ちてくるダウンロードファイルを無視
+# （README.md だけは例外で残す）
 /*.md
 !/README.md
