@@ -14,13 +14,7 @@ Nonrefundable credit for care expenses paid so you (and your spouse, if married)
 ## Amounts for 2026 — expanded by OBBBA
 - Eligible expenses are capped at $3,000 for ONE qualifying person or $6,000 for TWO OR MORE
 - The credit is a PERCENTAGE of those expenses, based on AGI. Beginning in 2026 the top rate rose from 35% to 50%
-- 2026 TIERS, and note the unusual filing-status treatment:
-  - AGI $15,000 or less: 50%. This first threshold is the SAME for every filing status — it is NOT doubled for joint filers
-  - AGI $15,001 to about $43,000: phases down from 50% to 35%, dropping 1 percentage point per $2,000 of AGI. Also the same for every filing status
-  - 35% plateau: holds through $75,000 (single) or $150,000 (married filing jointly). THIS threshold IS doubled for joint filers
-  - Above $75,000 / $150,000: phases down from 35% toward 20%, dropping 1 point per $2,000 (single) or per $4,000 (joint)
-  - 20% floor: reached above roughly $103,000-$105,000 (single) or $206,000-$210,000 (joint)
-- So the low-income threshold is NOT doubled for couples but the middle threshold IS — an asymmetry worth checking rather than assuming
+- 2026 tiers: 50% for AGI of $15,000 or less, phasing down to 35%, then to a floor of 20% at higher income. The 20% floor is reached around $105,000 (single) or $210,000 (married filing jointly)
 - 2026 maximum credit: $1,500 for one qualifying person (50% of $3,000) or $3,000 for two or more (50% of $6,000)
 - For comparison, the 2025 top rate was 35%, giving a maximum of $1,050 or $2,100
 - NONREFUNDABLE — it can reduce tax to zero but produces no refund on its own

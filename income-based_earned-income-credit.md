@@ -14,14 +14,8 @@ Fully refundable credit for working people with low to moderate income. Because 
 ## How it works
 - Based on EARNED INCOME (wages, self-employment income) and the number of qualifying children
 - The credit rises with earned income, plateaus, then phases out. Both earned income AND AGI must be under the limit
-- 2026 MAXIMUM CREDIT by number of qualifying children (Rev. Proc. 2025-32):
-  - No qualifying children: $664
-  - One qualifying child: $4,427
-  - Two qualifying children: $7,316
-  - Three or more qualifying children: $8,231
-- 2026 INVESTMENT INCOME LIMIT: $12,200. Exceeding it disqualifies you entirely, no matter how low your earned income is
-- FILING STATUS: the income limits at which the credit phases out are HIGHER for married filing jointly than for single or head of household, by a fixed dollar amount set each year. The maximum credit itself is the same for both. Married filing separately is barred outright
-- Income limits are indexed annually — confirm the current-year phase-out table before filing
+- Larger families receive substantially more; the credit is available with zero, one, two, or three or more qualifying children
+- Amounts and income limits are indexed annually — confirm the current-year table before filing
 ## Key eligibility rules
 - You, your spouse, and any qualifying children must have valid SSNs issued by the return due date
 - You must have earned income; investment income above an annual limit disqualifies you entirely

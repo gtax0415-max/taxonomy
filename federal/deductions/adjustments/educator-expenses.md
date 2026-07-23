@@ -11,7 +11,7 @@ via:
 ## Description
 Deduction for unreimbursed classroom expenses paid by eligible K-12 educators.
 ## Notes
-- Up to $300 per eligible educator for 2025, indexed for inflation in $50 increments (confirm the current 2026 amount before filing); a married couple filing jointly where BOTH spouses are eligible educators can deduct double that amount, split evenly
+- Up to $350 per eligible educator for 2026 (Rev. Proc. 2025-32), up from $300 for 2025. Indexed in $50 increments. A married couple filing jointly where BOTH spouses are eligible educators can deduct up to $700 total, $350 each
 - Eligible educator: a K-12 teacher, instructor, counselor, principal, or aide who worked at least 900 hours during the school year in a school providing elementary or secondary education
 - Qualifying expenses include books, supplies, classroom materials, computer equipment and software, and professional development courses
 - Expenses must be UNREIMBURSED — anything the school paid back does not count
@@ -26,9 +26,9 @@ Deduction for unreimbursed classroom expenses paid by eligible K-12 educators.
 - Are you a K-12 teacher or other eligible educator working at least 900 hours?
 - Did you pay for classroom supplies out of your own pocket?
 - Were any of those expenses reimbursed by the school?
-- Is your spouse also an eligible educator (potential doubled amount)?
+- Is your spouse also an eligible educator (potential $700 combined for 2026)?
 ## Common Errors
-- Claiming more than the per-educator limit
+- Claiming more than the per-educator limit ($350 for 2026)
 - Including reimbursed expenses
 - Claiming it when working at a college or preschool (K-12 only)
 - Not keeping receipts (no form is issued)
