@@ -39,12 +39,36 @@ If you fail a test because of a JOB CHANGE, HEALTH reason, or certain UNFORESEEN
 - UNRECAPTURED SECTION 1250 GAIN from depreciation taken after May 6, 1997 for a home office or rental period. This is taxed at a maximum 25% rate no matter how large the exclusion. See federal/deductions/business-expenses/home-office.md
 - Gain allocable to NONQUALIFIED USE — periods after 2008 when the home was not your principal residence, such as years it was a rental. The exclusion is reduced by the ratio of nonqualified use to total ownership
 - Gain on a SECOND HOME or vacation home. Only one main home at a time qualifies
+## How filing status changes the outcome
+THE EXCLUSION ITSELF:
+| Status | Exclusion |
+|---|---|
+| Single | $250,000 |
+| Head of household | $250,000 |
+| Married filing separately | $250,000 |
+| Married filing jointly | $500,000 |
+| Qualifying surviving spouse | $500,000 |
+Not indexed since 1997. Note that married filing separately gets the SAME $250,000 as a single filer, so a couple filing separately still reaches $500,000 combined if each meets the tests for their share.
+THE RATE ON NON-EXCLUDED GAIN — 2026 long-term capital gains brackets (Rev. Proc. 2025-32), applied to TAXABLE income including the gain:
+| Status | 0% up to | 15% up to | 20% above |
+|---|---|---|---|
+| Single | $49,450 | $545,500 | $545,500 |
+| Married filing separately | $49,450 | $306,850 | $306,850 |
+| Head of household | $66,200 | $579,600 | $579,600 |
+| Married filing jointly / QSS | $98,900 | $613,700 | $613,700 |
+THE 3.8% NET INVESTMENT INCOME TAX on non-excluded gain, by MAGI:
+| Status | Threshold |
+|---|---|
+| Single / head of household | $200,000 |
+| Married filing jointly / QSS | $250,000 |
+| Married filing separately | $125,000 |
+These NIIT thresholds are set by IRC Section 1411 and have NOT been indexed since 2013, so more sellers cross them every year. A large home sale gain can push MAGI over the line by itself, making the effective rate on the excess 18.8% or 23.8%.
 ## A loss is not deductible
 Selling a personal residence at a loss produces NO deduction. Personal-use property losses are never deductible.
 ## Reporting
 - If the gain is fully excluded AND you did not receive Form 1099-S, you generally do not report the sale at all
 - If you received Form 1099-S, you MUST report it even if fully excluded — report the sale on Form 8949 and enter the exclusion as a negative adjustment
-- Non-excluded gain is a long-term capital gain and may also be subject to the 3.8% net investment income tax
+- Non-excluded gain is a long-term capital gain and may also be subject to the 3.8% net investment income tax. See the filing status tables below
 ## Basis matters more than people expect
 Gain equals selling price minus selling costs minus adjusted basis. Adjusted basis is the purchase price plus CAPITAL IMPROVEMENTS — a new roof, an addition, a remodeled kitchen — but not repairs or maintenance. Keeping improvement receipts over decades of ownership is what keeps the gain below the exclusion.
 ## Required Information
@@ -69,6 +93,7 @@ Gain equals selling price minus selling costs minus adjusted basis. Adjusted bas
 - Overlooking depreciation recapture from a home office or a rental period
 - Trying to deduct a loss on a personal residence
 - Using the exclusion twice within two years
+- Forgetting that a large gain raises MAGI and can trigger the 3.8% net investment income tax on top of the capital gains rate
 ## Prompt
 - I sold my house this year.
 - We sold our home and made a big profit.
