@@ -22,7 +22,7 @@ Deduction of up to 20% of qualified business income from pass-through businesses
 - Does NOT reduce self-employment tax — it only reduces income tax
 ## Sources of QBI (with income-side paths)
 - Sole proprietorship net profit — Schedule C Line 31 — see federal/income/business/business.md
-- Farming net profit — Schedule F Line 34 — see federal/income/farming/farm-income.md
+- Farming net profit — Schedule F Line 34 — not yet covered on the income side
 - Rental income that rises to a trade or business — Schedule E — see federal/income/rental/rental.md
 - Partnership income — Schedule K-1 (Form 1065) Box 20 code Z — see federal/income/pass-through/schedule-k1.md
 - S-corporation income — Schedule K-1 (Form 1120-S) Box 17 code V — see federal/income/pass-through/schedule-k1.md
