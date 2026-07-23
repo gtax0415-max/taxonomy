@@ -31,6 +31,7 @@ Unreimbursed medical and dental expenses for you, your spouse, and dependents, d
 ## Notes
 - Deductible only if you itemize, and the 7.5% floor means only large expenses produce a benefit. The 7.5% threshold is permanent and does not change from year to year
 - Self-employed health insurance premiums are usually better taken as an above-the-line adjustment instead (see adjustments/self-employed-health-insurance.md)
+- FILING STATUS QUIRK: married filing separately can sometimes INCREASE this deduction. The 7.5% floor is applied to each spouse's own AGI, so a spouse with high medical bills and low income clears the floor more easily than they would against the couple's combined AGI. Weigh this against everything MFS costs — no student loan interest deduction, no tips/overtime/senior deductions, a halved SALT cap, and less favorable brackets
 ## Questions
 - What were your total unreimbursed medical expenses for the year?
 - What is your AGI (to compute the 7.5% floor)?

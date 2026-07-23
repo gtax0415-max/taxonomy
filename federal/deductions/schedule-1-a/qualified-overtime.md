@@ -11,8 +11,10 @@ via:
 ## Description
 Deduction for the premium portion of overtime pay, created by the One Big Beautiful Bill Act for tax years 2025 through 2028. Commonly called "no tax on overtime."
 ## Notes
-- Maximum deduction: $12,500 per return ($25,000 married filing jointly)
-- Phases out when MAGI exceeds $150,000 ($300,000 married filing jointly)
+- Maximum deduction: $12,500 ($25,000 married filing jointly) — unlike the tips deduction, this cap IS doubled for joint filers
+- MARRIED TAXPAYERS MUST FILE JOINTLY to claim this deduction. Married filing separately is completely barred
+- Phases out when MAGI exceeds $150,000 ($300,000 married filing jointly), reduced by $100 for each $1,000 over the threshold
+- A valid Social Security number for employment is required on the return
 - Available whether you take the standard deduction or itemize
 - ONLY THE PREMIUM PORTION QUALIFIES — the extra "half" of time-and-a-half, not the entire overtime payment. Example: regular rate $25/hour, overtime rate $37.50/hour; only the $12.50/hour premium counts toward the deduction
 - Applies to overtime required under the Fair Labor Standards Act (FLSA)

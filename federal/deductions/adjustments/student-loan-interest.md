@@ -13,7 +13,7 @@ Deduction for interest paid on a qualified student loan for higher education, ta
 ## Notes
 - Maximum deduction is $2,500 per return per year (not per loan and not per person)
 - Form 1098-E Box 1 reports the interest paid; lenders issue it when interest is $600 or more, but interest below that is still deductible
-- The deduction phases out at higher MAGI and is completely unavailable for Married Filing Separately
+- The deduction phases out at higher MAGI and is COMPLETELY UNAVAILABLE for married filing separately — not reduced, but barred entirely regardless of income
 - 2026 phase-out ranges (Rev. Proc. 2025-32): single, head of household, or qualifying surviving spouse $85,000-$100,000; married filing jointly $175,000-$205,000. For 2025 the joint range was $170,000-$200,000; the single range was the same
 - The $2,500 cap is NOT indexed for inflation, but the phase-out thresholds are
 - You cannot claim it if you are claimed as a dependent on someone else's return

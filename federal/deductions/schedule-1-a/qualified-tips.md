@@ -11,8 +11,12 @@ via:
 ## Description
 Deduction of up to $25,000 for qualified tip income, created by the One Big Beautiful Bill Act for tax years 2025 through 2028. Commonly called "no tax on tips."
 ## Notes
-- Maximum deduction: $25,000 per return
-- Phases out when MAGI exceeds $150,000 ($300,000 married filing jointly)
+- Maximum deduction: $25,000 PER RETURN — this amount is NOT doubled for married couples filing jointly. A married couple who both earn tips still share a single $25,000 cap, which is a marriage penalty
+- MARRIED TAXPAYERS MUST FILE JOINTLY to claim this deduction. Married filing separately is completely barred
+- Phases out when MAGI exceeds $150,000 ($300,000 married filing jointly) — the phase-out threshold IS doubled for joint filers, unlike the cap itself
+- The deduction is reduced by $100 for each $1,000 of MAGI over the threshold
+- A valid Social Security number for employment is required on the return
+- Self-employed: the deduction cannot exceed net income from the trade or business in which the tips were earned. Self-employed individuals in a Specified Service Trade or Business (SSTB) under Section 199A are NOT eligible, and neither are employees whose employer is an SSTB
 - Available whether you take the standard deduction or itemize
 - The occupation must be one that customarily and regularly received tips (IRS publishes the list of qualifying occupations)
 - Tips must be VOLUNTARY — mandatory service charges and auto-gratuities do not qualify

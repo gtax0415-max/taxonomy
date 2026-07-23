@@ -26,6 +26,8 @@ Plus, for tax years 2025-2028 only: additional deductions on the new Schedule 1-
 - Schedule 1 (adjustments): ~65.0M returns
 - Schedule C (business expenses): ~35.3M returns
 - QBI deduction: ~24.8M returns (Form 8995: ~40.4M)
+## Filing status
+Several deductions change with filing status — some caps are doubled for joint filers, some are not (creating marriage penalties), and several are barred entirely for married filing separately. See filing-status-differences.md
 ## Notes
 - Adjustments reduce AGI itself, which can also improve eligibility for other tax benefits that phase out based on AGI
 - The standard deduction and itemized deductions are mutually exclusive; take the larger one

@@ -17,7 +17,7 @@ Interest paid on a loan secured by your main home or a second home, deducted on 
 - Form 1098 Box 10 may report real estate taxes paid from escrow → Schedule A Line 5b (see real-estate-taxes.md)
 ## Notes
 - Deductible only if you itemize
-- Interest is deductible on up to $750,000 of acquisition debt ($375,000 married filing separately) for loans taken after December 15, 2017. Loans before that date are grandfathered at $1,000,000. The $750,000 limit was made PERMANENT by the One Big Beautiful Bill Act
+- Interest is deductible on up to $750,000 of acquisition debt for all filing statuses EXCEPT married filing separately, which is halved to $375,000, for loans taken after December 15, 2017. Loans before that date are grandfathered at $1,000,000. The $750,000 limit was made PERMANENT by the One Big Beautiful Bill Act
 - The loan must be SECURED by the home and used to buy, build, or substantially improve it
 - Home equity loan interest is deductible ONLY if the funds were used to buy, build, or substantially improve the home securing the loan — not for personal expenses like paying off credit cards
 - Applies to a main home and one second home
