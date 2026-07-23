@@ -21,6 +21,8 @@ A fixed dollar amount that reduces taxable income, based on filing status. Taken
 - A dependent's standard deduction is limited based on their earned income
 - Taking the standard deduction does NOT prevent claiming above-the-line adjustments, the QBI deduction, or Schedule 1-A deductions
 - New for 2026: taxpayers taking the standard deduction can ALSO deduct up to $1,000 ($2,000 joint) of cash charitable contributions (see itemized/charitable-contributions.md)
+## Related
+- Eligibility rules for each filing status: federal/filing-status/filing-status.md
 ## Questions
 - What is your filing status?
 - Are you or your spouse age 65 or older, or blind?

@@ -5,6 +5,8 @@ form: Form 1040
 line: "10, 12, 13"
 ---
 # Filing Status Differences Across Deductions
+## Related
+The eligibility rules for each of the five filing statuses are documented separately under federal/filing-status/. This file covers only how DEDUCTIONS change once the status is chosen.
 ## Description
 Reference showing which deductions change with filing status. Some caps double for married couples filing jointly, some do NOT (creating a marriage penalty), and several are barred entirely for married filing separately.
 ## Barred entirely for Married Filing Separately (MFS)
