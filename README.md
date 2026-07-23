@@ -10,6 +10,8 @@ GitHub lists folders alphabetically. The logical order, following the return its
 2. **income/** — income by type, routed to the Form 1040 line it lands on
 3. **deductions/** — adjustments to income, standard versus itemized, QBI, Schedule 1-A, and Schedule C business expenses
 4. **credits/** — refundable and nonrefundable credits
+5. **taxes/** — additional taxes collected on Schedule 2, which credits generally do not offset
+6. **payments/** — withholding, estimated tax, and how the return resolves into a refund or a balance due
 
 ```
 federal/
@@ -20,8 +22,12 @@ federal/
 │                    unemployment, farming, other-income
 ├── deductions/      adjustments, standard, itemized, qbi, schedule-1-a,
 │                    business-expenses
-└── credits/         family-dependent, income-based, education, energy-home,
-                     retirement-savings, health-insurance, foreign-tax
+├── credits/         family-dependent, income-based, education, energy-home,
+│                    retirement-savings, health-insurance, foreign-tax
+├── taxes/           self-employment, AMT, net investment income, additional Medicare,
+│                    retirement-account penalties, household employment
+└── payments/        withholding, estimated tax, excess Social Security,
+                     refund or balance due
 ```
 
 ## File naming convention
@@ -43,7 +49,7 @@ This one rule explains why most **income** files are form-named (documents arriv
 
 | Field | Meaning |
 |---|---|
-| `type` | `income`, `deduction`, `credit`, or `filing-status` |
+| `type` | `income`, `deduction`, `credit`, `filing-status`, `tax`, or `payment` |
 | `category` | the folder's subject, matching the folder name |
 | `source_doc` | the document the taxpayer **receives or maintains**, with box or line numbers where they exist |
 | `form` / `line` | the destination on Form 1040 |
@@ -83,4 +89,4 @@ Provisions from the **One Big Beautiful Bill Act** (OBBBA, enacted July 4, 2025)
 
 ## Coverage
 
-96 files. Not yet covered: additional taxes on Schedule 2 (AMT, net investment income tax, additional Medicare tax), payments and estimated tax, filing procedure, and state taxes.
+108 files. Not yet covered: filing procedure (requirements, deadlines, extensions, amended returns), a life-events index, and state taxes.

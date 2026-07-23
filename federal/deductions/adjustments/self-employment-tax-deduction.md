@@ -20,7 +20,7 @@ Deduction for one half of the self-employment tax you owe. This compensates for 
 ## Related
 - Income side: federal/income/business/business.md (Schedule C income that generates SE tax); also federal/income/pass-through/schedule-k1.md for partnership self-employment income
 - Business expenses that reduce the net profit subject to SE tax: federal/deductions/business-expenses/
-- The self-employment TAX itself is an additional tax on Schedule 2, not a deduction
+- The self-employment TAX itself is an additional tax on Schedule 2, not a deduction — see federal/taxes/self-employment-tax.md
 ## Required Information
 - Net profit from self-employment (Schedule C Line 31, Schedule F, or Schedule K-1)
 - Completed Schedule SE

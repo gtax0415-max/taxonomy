@@ -65,7 +65,7 @@ This single issue accounts for a large share of overpaid tax on equity compensat
 - The ordinary income portion is often NOT on the Form W-2 for a qualifying disposition, so it must be reported separately — Schedule 1 Line 8k exists for stock option income not reported elsewhere
 - ESPP ordinary income is NOT subject to Social Security or Medicare tax, unlike RSU and NQSO compensation, and no income tax is withheld at purchase
 ## How filing status changes the outcome
-ALTERNATIVE MINIMUM TAX — the ISO trap. 2026 exemption amounts (Rev. Proc. 2025-32):
+ALTERNATIVE MINIMUM TAX — the ISO trap. Full detail at federal/taxes/alternative-minimum-tax.md. 2026 exemption amounts (Rev. Proc. 2025-32):
 | Status | AMT exemption | Phase-out begins |
 |---|---|---|
 | Single (unmarried, not a surviving spouse) | $90,100 | $500,000 |

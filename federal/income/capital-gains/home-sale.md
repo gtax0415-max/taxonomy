@@ -63,7 +63,7 @@ THE RATE ON NON-EXCLUDED GAIN — 2026 long-term capital gains brackets (Rev. Pr
 | Married filing separately | $49,450 | $306,850 | $306,850 |
 | Head of household | $66,200 | $579,600 | $579,600 |
 | Married filing jointly / QSS | $98,900 | $613,700 | $613,700 |
-THE 3.8% NET INVESTMENT INCOME TAX on non-excluded gain, by MAGI:
+THE 3.8% NET INVESTMENT INCOME TAX on non-excluded gain, by MAGI. Full detail at federal/taxes/net-investment-income-tax.md:
 | Status | Threshold |
 |---|---|
 | Single / head of household | $200,000 |
