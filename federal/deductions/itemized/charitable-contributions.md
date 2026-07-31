@@ -6,7 +6,7 @@ form: Form 1040
 line: "12"
 via:
   - Schedule A, Lines 11-14 → Form 1040 Line 12 (itemizers)
-  - Above-the-line deduction for non-itemizers beginning 2026
+  - Deduction after AGI but does not require itemizing for non-itemizers beginning 2026
 ---
 # Charitable Contributions
 ## Description
