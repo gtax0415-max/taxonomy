@@ -2,7 +2,7 @@
 type: deduction
 category: exemptions
 jurisdiction: NYS
-source_doc: Form IT-201, Item H (each dependent's name, relationship, SSN, and date of birth) / federal Form 1040 dependent section / Form IT-201 - Item H continued, if more than seven dependents
+source_doc: Each dependent's Social Security card and birth certificate, for the SSN and date of birth / records establishing relationship, support, and months lived with you / the federal Form 1040 dependent section, where the same dependents were claimed. These feed Form IT-201 Item H, which is the entry point, not the source
 form: Form IT-201
 line: "36"
 refundable: no

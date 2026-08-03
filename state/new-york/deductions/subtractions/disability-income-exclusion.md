@@ -2,7 +2,7 @@
 type: deduction
 category: subtractions
 jurisdiction: NYS
-source_doc: Form IT-221, Disability Income Exclusion / physician's statement of permanent and total disability / employer disability plan documents showing the weekly benefit / Form W-2 or Form 1099-R reporting the disability payments
+source_doc: Physician's statement of permanent and total disability / employer disability plan documents showing the weekly benefit amount and the plan's minimum retirement age / Form W-2 or Form 1099-R reporting the disability payments / your date of retirement on disability
 form: Form IT-201
 line: "31"
 refundable: no

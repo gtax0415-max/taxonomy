@@ -2,7 +2,7 @@
 type: credit
 category: new-york-city
 jurisdiction: NYC
-source_doc: Form IT-201, Item H (dependents claimed) / Form IT-201, Line 19 (federal AGI) / federal Form 1040 lines 2a, 2b, 3b, and 7 for the investment income test / Form IT-201, Line 54 (NYC tax after other credits)
+source_doc: Federal Form 1040 lines 2a, 2b, 3b, and 7, plus Schedule E, for the investment income test / dependent records supporting Item H. The remaining inputs are COMPUTED FIGURES from the same return — federal AGI (Form IT-201, line 19) and NYC tax remaining after other credits (line 54)
 form: Form IT-201
 line: "70a"
 refundable: no

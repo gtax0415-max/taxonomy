@@ -2,7 +2,7 @@
 type: credit
 category: new-york-city
 jurisdiction: NYC
-source_doc: Form IT-201, Line 19 (federal AGI) less any IRA distributions from Line 9 / Form IT-201, Item C (dependent status) / Item F (months of NYC residence) / Form IT-201, Line 47 (NYC taxable income) for the rate reduction amount
+source_doc: NO EXTERNAL SOURCE DOCUMENT — computed from instruction tables. Inputs are federal AGI (Form IT-201, line 19) reduced by IRA and individual retirement annuity distributions (line 9), dependent status (Item C), months of NYC residence (Item F), and NYC taxable income (line 47) for the rate reduction amount. Records establishing city residency dates support Item F
 form: Form IT-201
 line: "69, 69a"
 refundable: yes

@@ -2,7 +2,7 @@
 type: deduction
 category: itemized
 jurisdiction: NYS
-source_doc: Form IT-201, Line 19 (federal AGI) for the line 40 limitation / Form IT-201, Line 33 (New York AGI) for the line 46 adjustment / Form IT-196 lines 4, 9, 14, 15, 16a, 19, 20, 28, 29, 30, 37, and 39
+source_doc: NO EXTERNAL SOURCE DOCUMENT — both limitations are computed entirely from figures already on the return. The inputs are Form IT-201 line 19 (federal AGI) for the line 40 limitation, Form IT-201 line 33 (New York AGI) for the line 46 adjustment, and the Form IT-196 category subtotals at lines 4, 9, 14, 15, 16a, 19, 20, 28, 29, 30, 37, and 39. The underlying receipts sit with the individual category files
 form: Form IT-201
 line: "34"
 refundable: no

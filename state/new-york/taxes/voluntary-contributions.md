@@ -2,7 +2,7 @@
 type: tax
 category: voluntary-contributions
 jurisdiction: NYS
-source_doc: Form IT-227, New York State Voluntary Contributions, Part 2 line 1 / your decision about which funds to support and in what amounts
+source_doc: NONE — no external source document exists. This is a taxpayer election made on the return itself. There is no receipt, acknowledgment, or payment voucher, because the money is never sent to a fund or charity; it is remitted to New York State through the return and allocated by the Tax Department. The only records are your own note of which funds and what amounts you chose, and the filed Form IT-227
 form: Form IT-201
 line: "60"
 refundable: no
@@ -51,9 +51,11 @@ Worth mentioning to a taxpayer who intends to give anyway.
 A contribution here is a gift to a state fund. Whether it supports a federal charitable deduction depends on the fund and on federal rules; it is NOT automatically deductible, and it produces no New York deduction or credit.
 Do not confuse this with the NEW YORK CHARITABLE GIFTS TRUST FUND — the Health Charitable Account and the Elementary and Secondary Education Account — which is a different structure entirely, is reported on Form IT-196 lines 16a and 16b, and triggers a New York City add-back. See state/new-york/taxes/new-york-city/nyc-taxable-income-adjustment.md.
 ## Required Information
-- Which funds, and how much to each
-- Confirmation of the fixed amounts for the Olympic and Campaign Finance funds
+NOTHING IS COLLECTED FROM A THIRD PARTY. Unlike every other item on the return, there is no statement, receipt, or acknowledgment to gather — the decision is made at filing time and the money moves with the return.
+- Which funds you want to support, and how much to each
+- The FIXED amounts where they apply: $2 Olympic, $40 Campaign Finance
 - Residency status, for the Campaign Finance Fund
+- Your own record of the amounts entered, since Form IT-227 becomes the only evidence after filing
 ## Questions
 - Do you want to make a voluntary contribution, understanding it reduces your refund?
 - Which funds do you want to support?

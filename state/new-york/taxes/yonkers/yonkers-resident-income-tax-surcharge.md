@@ -2,7 +2,7 @@
 type: tax
 category: yonkers
 jurisdiction: Yonkers
-source_doc: Form IT-201, Line 46 (total New York State taxes) / the credit forms feeding the worksheet — IT-213, IT-214, IT-216, IT-215, IT-209, IT-272, IT-201-ATT, and IT-119 / Form IT-201, Item D2 and Item F equivalents for months of Yonkers residence
+source_doc: NO EXTERNAL SOURCE DOCUMENT — the surcharge is computed from the return's own figures. Inputs are Form IT-201 line 46 (total New York State taxes) and the refundable credit amounts already computed on Forms IT-213, IT-214, IT-216, IT-215, IT-209, IT-272, IT-201-ATT, and IT-119. Records establishing Yonkers residency dates support Item D2
 form: Form IT-201
 line: "55"
 refundable: no

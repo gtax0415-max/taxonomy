@@ -2,7 +2,7 @@
 type: deduction
 category: standard
 jurisdiction: NYS
-source_doc: Form IT-201, Item A (filing status) / Form IT-201, Item C (whether you can be claimed as a dependent on another taxpayer's federal return) / Form IT-196, line 49 for the itemized comparison
+source_doc: NO EXTERNAL SOURCE DOCUMENT — the amount comes from a statutory table. The determining facts are your filing status (Form IT-201, Item A), whether another taxpayer can claim you as a dependent (Item C), and the Form IT-196 line 49 total for the standard-versus-itemized comparison
 form: Form IT-201
 line: "34"
 refundable: no

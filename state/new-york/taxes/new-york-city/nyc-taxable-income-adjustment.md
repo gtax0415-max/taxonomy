@@ -2,7 +2,7 @@
 type: tax
 category: new-york-city
 jurisdiction: NYC
-source_doc: Form IT-196, lines 16a and 16b (contributions to the New York Charitable Gifts Trust Fund) / Form IT-201, lines 33, 34, 36, and 38 / records of contributions to the Health Charitable Account or the Elementary and Secondary Education Account
+source_doc: Contribution acknowledgments from the New York Charitable Gifts Trust Fund, by account (Health Charitable Account or Elementary and Secondary Education Account) / cancelled checks or transfer records for those contributions. NOTE — the worksheet inputs at Form IT-201 lines 33, 34, 36, and 38 and Form IT-196 lines 16a and 16b are COMPUTED FIGURES from the same return, not source documents
 form: Form IT-201
 line: "47"
 refundable: no

@@ -2,7 +2,7 @@
 type: income
 category: additions
 jurisdiction: NYS
-source_doc: Form IT-225 with addition modification codes / Schedule K-1 from a partnership or S corporation showing New York modification codes / Form IT-204-IP for partners / the entity's PTET statement
+source_doc: Schedule K-1 from a partnership or S corporation showing New York modification codes / Form IT-204-IP, New York Partner's Schedule K-1 / the entity's written PTET statement showing tax paid on your behalf / federal Form 4970, if filed / residency dates, for special accruals
 form: Form IT-201
 line: "23"
 refundable: no

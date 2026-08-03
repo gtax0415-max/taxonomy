@@ -2,7 +2,7 @@
 type: credit
 category: family-dependent
 jurisdiction: NYS, NYC
-source_doc: Form IT-201, Line 19 (federal AGI) / Form IT-201, Item C (whether you can be claimed as a dependent) / Form IT-201, Item H (dependents listed)
+source_doc: NO EXTERNAL SOURCE DOCUMENT — computed from instruction tables using figures already on the return — federal AGI (Form IT-201, line 19, itself from federal Form 1040 line 11), dependent status (Item C), and the count of dependents at Item H. For married filing separately, the federal AGI from BOTH returns is required
 form: Form IT-201
 line: "40, 48"
 refundable: no

@@ -2,7 +2,7 @@
 type: deduction
 category: subtractions
 jurisdiction: NYS
-source_doc: Form IT-225 with subtraction modification codes / Schedule K-1 from a partnership or S corporation showing New York modification codes / Form IT-204-IP for partners / the entity's statement of modifications
+source_doc: Schedule K-1 from a partnership or S corporation showing New York modification codes / Form IT-204-IP, New York Partner's Schedule K-1 / the entity's written statement of modifications / for disability income, the physician's statement and plan documents / for a continuing-care community, the annual statement of long-term benefit fees
 form: Form IT-201
 line: "31"
 refundable: no
