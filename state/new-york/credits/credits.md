@@ -38,7 +38,8 @@ New York marks refundability on its credit tables with two keys: Α means the cr
 - EMPIRE STATE CHILD CREDIT for children 4 through 16 rises from $330 to $500
 ## Related
 - Federal credits, which many New York credits are computed from — see federal/credits/credits.md
-- New York additions and subtractions are modifications, not credits — see state/new-york/modifications/
+- New York additions — see state/new-york/income/additions/
+- New York subtractions — see state/new-york/deductions/subtractions/
 ## Questions
 - Were you a full-year New York State resident, a part-year resident, or a nonresident?
 - Did you live in New York City or Yonkers during any part of the year?

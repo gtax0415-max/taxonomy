@@ -10,6 +10,7 @@ line: "25, 26, 27, 28, 29, 30, 31, 32"
 Income that is taxable federally but NOT taxable by New York. Subtractions are removed from federal AGI at Form IT-201 lines 25 through 31 to produce New York adjusted gross income at line 33.
 They are filed here rather than under income/ because they FUNCTION as deductions: they reduce the tax base, they require affirmative claiming, and they are routinely missed. Structurally they are the New York analogue of federal above-the-line adjustments.
 ## Files in this folder
+- taxable-refunds-and-inflation-refund.md — line 25. State tax refunds and the 2025 inflation check
 - government-pension-exclusion.md — line 26. Public pensions, 100% exempt
 - social-security-benefits.md — line 27. Fully exempt
 - us-government-bond-interest.md — line 28. Exempt by federal law
