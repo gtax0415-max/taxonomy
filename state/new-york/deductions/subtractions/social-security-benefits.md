@@ -20,8 +20,9 @@ New York does NOT TAX SOCIAL SECURITY BENEFITS AT ALL. Whatever portion is taxab
 Enter the taxable amount, not the gross benefit. Entering the gross figure from Form SSA-1099 overstates the subtraction.
 ## No conditions
 Unlike the $20,000 pension exclusion, there is no age test, no dollar cap, and no income phase-out. A high-income retiree with 85% of a large benefit taxable federally subtracts the entire taxable amount.
-## Railroad retirement
-Tier 1 and Tier 2 railroad retirement benefits are treated the same way and are exempt from New York tax. Supplemental annuities under the Railroad Retirement Act are also excluded. If a railroad retirement amount was not captured at line 27, check Form IT-225 for the applicable subtraction modification.
+## Railroad retirement uses TWO routes
+Only SOCIAL SECURITY EQUIVALENT TIER 1 railroad benefits come out here at line 27. Tier 2 benefits, supplemental annuities, and railroad unemployment insurance are exempt too, but they use Form IT-225 code S-122 and land at line 31 instead.
+Subtracting only the Tier 1 amount leaves the rest taxed. See state/new-york/deductions/subtractions/railroad-retirement-benefits.md.
 ## Interaction with the federal calculation
 The federal taxable portion depends on COMBINED INCOME — AGI plus tax-exempt interest plus half of benefits. Because New York removes the whole taxable amount regardless, federal planning to reduce the taxable portion produces no additional New York benefit. It is already fully excluded.
 This cuts the other way for a common piece of advice: shifting income to municipal bonds to reduce the taxable portion of Social Security helps the federal return and does nothing for New York, where the benefit is already exempt.

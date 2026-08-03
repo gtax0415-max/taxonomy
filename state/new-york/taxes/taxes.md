@@ -12,6 +12,8 @@ FOUR TAXING AUTHORITIES are computed on one return: New York State, New York Cit
 - new-york-city/ — NYC resident tax, the only NYC income adjustment, and part-year city status
 - yonkers/ — resident surcharge and nonresident earnings tax
 - mctmt.md — self-employment tax in the twelve-county district
+- sales-use-tax.md — line 59, which CANNOT be left blank
+- voluntary-contributions.md — line 60, Form IT-227. A gift, not a credit
 ## Where each tax sits on Form IT-201
 | Lines | Tax |
 |---|---|
@@ -22,6 +24,7 @@ FOUR TAXING AUTHORITIES are computed on one return: New York State, New York Cit
 | 56 | Yonkers nonresident earnings tax |
 | 57 | Part-year Yonkers resident surcharge |
 | 59 | Sales or use tax |
+| 60 | Voluntary contributions, Form IT-227 |
 ## The four bases are NOT the same
 | Tax | Base |
 |---|---|

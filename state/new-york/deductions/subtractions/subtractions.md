@@ -16,6 +16,9 @@ They are filed here rather than under income/ because they FUNCTION as deduction
 - us-government-bond-interest.md — line 28. Exempt by federal law
 - pension-annuity-exclusion.md — line 29. Private pensions, $20,000 cap
 - college-savings-529.md — line 30. Contributions up to $5,000 or $10,000
+- railroad-retirement-benefits.md — lines 27 and 31. Tier 1 and Tier 2 split
+- disability-income-exclusion.md — line 31. Form IT-221, $100 per week
+- long-term-residential-care.md — line 31. Continuing-care retirement community fees
 - other-subtractions-it225.md — line 31. Everything else, via Form IT-225
 ## The full subtraction block
 | Line | Subtraction |
@@ -26,7 +29,7 @@ They are filed here rather than under income/ because they FUNCTION as deduction
 | 28 | Interest income on U.S. government bonds |
 | 29 | Pension and annuity income exclusion, $20,000 |
 | 30 | New York's 529 college savings program deduction |
-| 31 | Other subtractions, from Form IT-225 |
+| 31 | Other subtractions, from Form IT-225 — including disability income, long-term residential care, Tier 2 railroad retirement, and combat pay |
 | 32 | Total |
 ## Why retirees fare well in New York
 Stack the retirement subtractions and the effect is large:

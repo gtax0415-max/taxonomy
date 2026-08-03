@@ -18,14 +18,30 @@ The $20,000 limit on line 29 does NOT apply here. A retired New York City police
 - NEW YORK STATE, including State and City University of New York employees and New York State Education Department employees in the Optional Retirement Program
 - LOCAL GOVERNMENTS within New York State
 - THE UNITED STATES, its territories and possessions, any agency or instrumentality including the MILITARY, and the District of Columbia
-- CERTAIN PUBLIC AUTHORITIES, specifically the Metropolitan Transit Authority Police 20-Year Retirement Program, the Manhattan and Bronx Surface Transit Operating Authority (MABSTOA), and the Long Island Railroad Company
-The public authority list is exhaustive as written. Other authorities do not qualify under this line.
+- CERTAIN PUBLIC AUTHORITIES: the Metropolitan Transportation Authority (MTA) Police 20-Year Retirement Program, the Manhattan and Bronx Surface Transit Operating Authority (MABSTOA), and the Long Island Railroad Company
+## The local government list is broader than most people assume
+"Local governments within the state" includes a long list of specific New York City and school-district plans that filers routinely fail to recognize as qualifying:
+- New York State Teachers' Retirement System
+- New York City Teachers' Retirement System, INCLUDING its IRC 403(b) plan
+- International Union of Operating Engineers Local 891 Annuity Fund, Department of Education of the NYC School District
+- NYC Superior Officers' Council Annuity Trust Fund
+- NYC Correction Captains' Association Annuity Fund
+- NYC Detectives' Endowment Association Annuity Fund
+- City University of New York (CUNY) Civil Service Forum Annuity Fund
+- Sergeants Benevolent Association of the City of New York Annuity Fund
+- NYC VARIABLE SUPPLEMENTAL FUNDS (VSF), including the Transit Police Officers' and Superior Officers' VSFs, Housing Police Officers' and Superior Officers' VSFs, Police Officers' and Police Superior Officers' VSFs, Firefighters' and Fire Officers' VSFs, and the Corrections Officers' and Corrections Captain and Above VSFs
+The NYC Teachers' 403(b) entry is the most surprising: a 403(b) would normally fall outside line 26 entirely, but this specific plan is listed as qualifying. Do not exclude it on the general 403(b) rule.
+The union annuity funds are the second surprise. A retired NYPD detective receiving Detectives' Endowment Association annuity payments has a fully exempt distribution, not a private annuity.
 ## What does NOT qualify
 - Pensions from a PRIVATE employer, including a private university. These may qualify for the $20,000 exclusion on line 29 instead
 - The portion attributable to contributions you made to a SUPPLEMENTAL ANNUITY plan funded through salary reduction
 - PERIODIC DISTRIBUTIONS from government IRC 457 deferred compensation plans. These get line 29 treatment, not line 26
 - Government pensions from ANOTHER STATE. A retired New Jersey teacher living in New York does not qualify here, though the $20,000 exclusion may apply
 That last point is the most common misreading. The exclusion is for NEW YORK public employers and the FEDERAL government — not for public employment generally.
+## Nonresidents: federal law already protects most pensions
+A NONRESIDENT of New York generally owes NO New York tax on pension income, under SECTION 114 OF TITLE 4 OF THE U.S. CODE, which bars states from taxing the retirement income of former residents. Excluded categories include simplified employee pensions, certain annuity plans and contracts, certain individual retirement plans, eligible deferred compensation plans, certain governmental plans, and certain trusts.
+Such income should NOT appear in the New York State amount column on Form IT-203. A retiree who moved out of New York and is still being taxed on a New York pension is usually being taxed in error.
+The exception: pension income NOT described in section 114, derived from a business, trade, profession, or occupation previously carried on in New York, IS included in the New York amount column. A nonresident in that position may still claim the $20,000 pension and annuity income exclusion.
 ## Optional Retirement Program members
 May subtract only the portion attributable to employment with the State or City University of New York or the New York State Education Department. Service elsewhere does not qualify, so the pension must be allocated.
 ## Return of contributions before retirement
