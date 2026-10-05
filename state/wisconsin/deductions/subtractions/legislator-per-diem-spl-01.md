@@ -1,0 +1,25 @@
+---
+type: subtraction
+category: subtractions
+jurisdiction: wisconsin
+tax_year: 2026
+form_basis: "Form SPL-01 (R. 12-25) model form; Schedule SB instructions (I-0104, R. 10-25) line 34"
+source_doc: Legislative session and committee day records / W-2 (per diem included as wages; Box 12 code L) / residence distance from the Capitol
+form: Wisconsin Form 1
+line: "6 (SB line 34) — or federal deduction via the 162(h) election"
+via:
+  - "Residence 50 miles or less from the Capitol: per diem included in W-2 wages → Schedule SB, Line 34 → Form 1, Line 6"
+  - "District home elected as tax home (IRC 162(h)): Form SPL-01 computes the per diem deduction on the federal return, which flows into federal AGI"
+---
+# Wisconsin Legislator's Per Diem
+## Two different provisions
+| Situation | Treatment |
+|---|---|
+| Legislator whose residence is 50 miles or less from the State Capitol | Subtract on Schedule SB line 34 the per diem reimbursement that is included as wages on the federal return |
+| Legislator electing the district home as tax home under IRC 162(h) | Use model Form SPL-01 to compute the federal per diem deduction: legislative days (session days, including recesses of 4 consecutive days or less, and committee days) × the federal per diem rate for Madison, plus actual expenses not covered; compare with reimbursements not in W-2 Box 1 (including code L). Excess reimbursement is income |
+Do not use the per diem rate for any day claimed at actual expense.
+## Rates
+- 2025: $190 (January 1-April 30), $218 (May 1-October 31), $190 (November 1-December 31)
+- 2026: the federal Madison rates in effect for 2026, shown on the 2026 Form SPL-01 (not yet published)
+## Prompt
+- I'm a Wisconsin state legislator. How is my per diem taxed?
