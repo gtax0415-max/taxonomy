@@ -3,7 +3,7 @@ type: filing
 category: dependents
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal return dependents list / each dependent's name, SSN, relationship, months lived in the home and age at the end of 2026 / education credit election records
+source_doc: Social Security cards or ITIN letters and birth certificates for each dependent / school, medical or lease records showing months lived in your home
 form: Form 140
 line: "10a, 10b, 10c-10e; page 4 Part 1, 10f-10p"
 via:

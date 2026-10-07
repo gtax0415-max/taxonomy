@@ -3,7 +3,7 @@ type: credit
 category: charitable-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Receipts from certified QCOs or Umbrella Charitable Organizations showing the 5-digit QCO or UCO fund code, date and amount / ADOR list of certified QCOs for 2026 (and 2027 for January 1 to April 15, 2027 gifts) / prior Form 321 carryover records
+source_doc: Receipts from certified QCOs or Umbrella Charitable Organizations showing the 5-digit QCO or UCO fund code, date and amount / prior-year Arizona returns showing unused credit carryovers
 form: Form 321, Form 301
 line: "Form 321 1-22, 4a-4h, 9a-9h; Form 301 6, 39"
 refundable: no

@@ -3,7 +3,7 @@ type: deduction
 category: itemized-charitable
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Schedule A charitable deduction / Arizona credit Forms 321, 322, 323, 331, 335-I, 340, 341-I, 348, 352
+source_doc: Charitable receipts / receipts from QCOs, QFCOs, public schools, STOs and the Military Family Relief Fund for gifts claimed for Arizona credits / deed for a donated school site / S corporation pro rata credit statements
 form: Schedule A
 line: "6"
 via:
@@ -42,7 +42,7 @@ Federal Schedule A charitable deduction $4,000 includes $1,009 to a QCO and $400
 - Arizona Schedule A, Form 140 and page 3 line numbers follow the 2025 forms; ADOR had not released the 2026 forms when this was revised, so confirm them against them
 ## Required Information
 - Federal Schedule A charitable deduction detail
-- Arizona credit forms claimed for 2026 (and January to April 2026 gifts claimed on 2025)
+- Receipts for gifts claimed for Arizona credits on the 2026 return (and January to April 2026 gifts claimed on 2025)
 ## Questions
 - Which of your federally deducted contributions are you also using for Arizona credits?
 ## Common Errors

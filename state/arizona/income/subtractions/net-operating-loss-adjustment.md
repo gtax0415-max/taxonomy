@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal NOL carryforward worksheets / records of the IRC 172(b)(1)(H) election for 2008 or 2009 losses
+source_doc: Prior-year federal returns showing the NOL carryforward / IRC 172(b)(1)(H) election statement attached to the 2008 or 2009 return
 form: Form 140
 line: "33"
 via:

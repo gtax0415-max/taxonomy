@@ -3,7 +3,7 @@ type: income
 category: addition
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Form 4972 (tax on lump-sum distributions) / Form 1099-R
+source_doc: Form 1099-R (box 2a taxable amount, box 3 capital gain portion, total distribution checked)
 form: Form 140
 line: "page 5 C"
 via:

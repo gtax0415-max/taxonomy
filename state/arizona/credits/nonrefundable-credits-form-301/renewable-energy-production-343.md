@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Form 343 and supporting records (electricity production records)
+source_doc: Utility or meter records of electricity produced from the qualified energy resource in 2026 / prior-year Arizona returns showing unused credit carryovers
 form: Form 343, Form 301
 line: "Form 301 16, 49"
 refundable: no
@@ -16,7 +16,7 @@ see_also:
 ---
 # Renewable Energy Production Tax Credit (Form 343; Form 301, Lines 16 and 49)
 ## Description
-A nonrefundable credit for producing electricity using a qualified energy resource. Unused credit carries forward five years. Form 343 itself is not among the sources.
+A nonrefundable credit for producing electricity using a qualified energy resource. Unused credit carries forward five years.
 ## Form 301 entries
 Column (a) Form 343, line 14; column (b) line 15; column (c) line 16. Line 49: credit used, not more than line 16, column (c).
 ## Example
@@ -25,7 +25,6 @@ Form 343 shows $1,500 of credit and tax is $1,000: $1,000 is used and $500 carri
 - STILL AVAILABLE FOR 2026. HB 4152 would have repealed this credit from January 1, 2026, but it was vetoed; the enacted omnibus (HB 4168, Laws 2026, Chapter 140) did not repeal it
 - Form 301 line numbers follow the 2025 Form 301; ADOR had not released the 2026 Form 301 when this was revised, so confirm line numbers against it
 ## Required Information
-- Form 343
 - Records of electricity produced from the qualified energy resource during 2026
 - Prior Form 343 carryovers from 2021 to 2025
 ## Questions

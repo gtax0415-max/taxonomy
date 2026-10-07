@@ -3,7 +3,7 @@ type: filing
 category: injured-spouse
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Form W-2 or 1099 showing the requesting spouse's own Arizona withholding / notice of the other spouse's debts / Arizona Form 203
+source_doc: Form W-2 box 17 or Form 1099 showing the requesting spouse's own Arizona tax withheld / notice of the other spouse's debts (back child support, court fees, county, city or school fees)
 form: Form 140, Form 203
 line: "4a"
 via:
@@ -29,7 +29,6 @@ A couple files jointly; the husband owes back child support. The wife had $1,800
 ## Required Information
 - Form W-2 or 1099 showing the requesting spouse's own Arizona withholding
 - Notice of the other spouse's debts
-- Arizona Form 203
 ## Questions
 - Does either spouse owe child support, court fees or fees to a county, city or school?
 - Did the requesting spouse have Arizona withholding on his or her own W-2 or 1099?

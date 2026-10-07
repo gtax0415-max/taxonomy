@@ -3,7 +3,7 @@ type: deduction
 category: standard-deduction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Filing status / spouse's deduction method if married filing separate / date of death of a spouse who died in 2026
+source_doc: Marriage certificate or divorce or separate maintenance decree (marital status on December 31, 2026) / spouse's 2026 return if married filing separately (spouse's deduction method) / death certificate of a spouse who died in 2026
 form: Form 140
 line: "43, 43S"
 via:

@@ -3,7 +3,7 @@ type: contribution
 category: voluntary-gifts
 jurisdiction: AZ
 tax_year: 2026
-source_doc: The taxpayer's chosen gift amounts and, for a political gift, the chosen party
+source_doc: Taxpayer's instruction on gift amounts and, for a political gift, the chosen party
 form: Form 140
 line: "64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 751, 752, 753, 78"
 via:

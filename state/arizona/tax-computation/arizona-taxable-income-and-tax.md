@@ -3,7 +3,7 @@ type: tax-computation
 category: tax
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Completed Form 140, lines 42 to 44
+source_doc: Forms W-2 Box 1, 1099 and SSA-1099 and other income records (federal AGI) / records supporting Arizona additions, subtractions and exemptions / Form 1098, property tax bills and charitable receipts if itemizing
 form: Form 140
 line: "45, 46"
 via:

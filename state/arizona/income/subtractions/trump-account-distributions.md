@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Trump account distribution statement / federal return showing the distribution in federal AGI
+source_doc: Form 1099-R or custodian's distribution statement for the Trump account / account contribution and basis records
 form: Form 140
 line: "page 6"
 via:

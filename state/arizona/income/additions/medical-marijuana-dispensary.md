@@ -3,7 +3,7 @@ type: income
 category: marijuana-business
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Schedule C for the nonprofit medical marijuana dispensary sole proprietorship / dispensary registration records
+source_doc: Profit and loss records of the nonprofit medical marijuana dispensary / ADHS dispensary registration certificate
 form: Form 140
 line: "page 5 J; page 6 L"
 via:

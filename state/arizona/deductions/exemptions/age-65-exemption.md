@@ -3,7 +3,7 @@ type: exemption
 category: age-65-exemption
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Dates of birth of taxpayer and spouse / whether either is claimed as a dependent by another taxpayer
+source_doc: Birth certificate or other proof of date of birth for taxpayer and spouse
 form: Form 140
 line: "8, 38"
 via:

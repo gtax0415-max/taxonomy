@@ -3,7 +3,7 @@ type: income
 category: addition
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal NOL and capital loss carryover worksheets / records of where and when the loss arose (before Arizona residency)
+source_doc: Prior-year federal returns showing the NOL or capital loss carryover / records of where and when the loss arose (before Arizona residency)
 form: Form 140
 line: "page 5 K, L"
 via:

@@ -3,7 +3,7 @@ type: payment
 category: balance-due
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Completed Form 140, lines 52 to 58
+source_doc: Form W-2 box 17 and Forms 1099 showing Arizona tax withheld / estimated and extension payment confirmations / ACA certificates for refundable credits
 form: Form 140
 line: "59, 60, 61, 63"
 via:

@@ -3,7 +3,7 @@ type: payment
 category: claim-of-right
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Claim of Right-Individual form(s), line 8 / records of the repayment
+source_doc: Proof of the repayment made in 2026 (cancelled check, repayment agreement) / prior-year Arizona return for the year the income was originally taxed
 form: Form 140
 line: "54b, 54c"
 via:

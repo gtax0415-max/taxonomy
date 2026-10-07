@@ -3,7 +3,7 @@ type: deduction
 category: charitable-standard-deduction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Charitable contribution receipts (cash and noncash) / prior-year carryover / list of contributions used for Arizona credits (Forms 321, 322, 323, 340, 348, 352) in 2026 or claimed on the 2025 return
+source_doc: Charitable contribution receipts and bank records (cash and noncash) / receipts identifying gifts claimed for Arizona credits (QCO, QFCO, public school, STO, Military Family Relief Fund) in 2026 or on the 2025 return
 form: Form 140
 line: "44, 44C; page 3 1C-7C"
 via:

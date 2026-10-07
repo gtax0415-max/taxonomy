@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Schedule 1-A (qualified tips, qualified overtime, vehicle loan interest, enhanced senior deduction) / records of any other allowable subtraction / MCTCP worksheet (kept, not filed)
+source_doc: Form W-2 box 7 and box 12 codes TP and TT and Forms 1099 reporting tips (tips and overtime) / birth certificates (senior deduction) / lender statement of vehicle loan interest (2025 only)
 form: Form 140, MCTCP Worksheet
 line: "page 6 V, W; 36; MCTCP 1-6"
 via:

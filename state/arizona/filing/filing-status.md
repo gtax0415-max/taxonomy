@@ -3,7 +3,7 @@ type: filing
 category: filing-status
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal return filing status (Form 1040) / marital status on December 31, 2026 / spouse's name and SSN / records of community and separate income, deductions and payments
+source_doc: Marriage certificate or divorce or separate maintenance decree (marital status on December 31, 2026) / spouse's Social Security card / records of community and separate income, deductions and payments
 form: Form 140
 line: "4, 5, 6, 7"
 via:

@@ -3,7 +3,7 @@ type: income
 category: capital-gains
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Schedule D and Form 8949 with acquisition dates / Forms 1099-B and 1099-DIV / Forms 165, 120S and 141AZ Schedule K-1 / gift and inheritance records (donor's or decedent's acquisition date)
+source_doc: Forms 1099-B (acquisition and sale dates, proceeds, basis) and 1099-DIV box 2a / Arizona Schedule K-1 from Form 165, 120S or 141AZ / gift and inheritance records showing the donor's or decedent's acquisition date
 form: Form 140
 line: "20, 21, 22, 23, 24"
 via:

@@ -3,7 +3,7 @@ type: income
 category: addition-related-to-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Form 312 / Form 312-S, line 1 (S corporation shareholder's share of disallowed expenses)
+source_doc: Invoices for the agricultural water conservation system / S corporation's statement of the shareholder's share of disallowed expenses
 form: Form 140, Form 312
 line: "page 5 G(a), G(b)"
 via:

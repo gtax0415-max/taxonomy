@@ -3,7 +3,7 @@ type: credit
 category: charitable-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Receipts from certified QFCOs or UCO funds with the QFCO code, date and amount / ADOR list of certified QFCOs / prior Form 352 carryover records
+source_doc: Receipts from certified QFCOs or UCO funds showing the QFCO code, date and amount / prior-year Arizona returns showing unused credit carryovers
 form: Form 352, Form 301
 line: "Form 352 1-22, 4a-4h, 9a-9h; Form 301 20, 53"
 refundable: no

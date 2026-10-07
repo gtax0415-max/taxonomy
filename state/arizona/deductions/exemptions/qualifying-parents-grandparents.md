@@ -3,7 +3,7 @@ type: exemption
 category: parents-grandparents-exemption
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Parent's or grandparent's name, SSN and date of birth / months lived in your home / ITP 14-1 support worksheet and ITP 14-2 activities of daily living checklist (kept, not filed)
+source_doc: Parent's or grandparent's Social Security card and birth certificate (age 65 or older) / records showing months lived in your home / receipts for the support you paid
 form: Form 140
 line: "11a, 11b, 11c; page 4 Part 2, 11d-11i; 41"
 via:

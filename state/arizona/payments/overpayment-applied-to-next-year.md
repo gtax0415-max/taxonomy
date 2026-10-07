@@ -3,7 +3,7 @@ type: payment
 category: overpayment-applied
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Taxpayer election / 2027 estimated tax plan
+source_doc: Taxpayer's instruction on the amount to apply to 2027 estimated tax
 form: Form 140
 line: "62"
 via:

@@ -3,7 +3,7 @@ type: credit
 category: excise-tax-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal AGI (Form 140, line 12) / SSNs or ITINs for taxpayer, spouse and dependents / Arizona residency of dependents / incarceration dates
+source_doc: Forms W-2 Box 1, 1099 and SSA-1099 and other income records (household income) / Social Security cards or ITIN letters for taxpayer, spouse and dependents / records showing dependents lived in Arizona / jail or prison release records with dates, if incarcerated in 2026
 form: Form 140, Form 140ET
 line: "Form 140 56; Form 140ET 1-17, 9A1, 9A2, 9A3, 14A, 82F, 95, 98"
 refundable: yes

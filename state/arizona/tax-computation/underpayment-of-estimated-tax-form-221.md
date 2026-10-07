@@ -3,7 +3,7 @@ type: tax-computation
 category: estimated-tax-penalty
 jurisdiction: AZ
 tax_year: 2026
-source_doc: 2026 and 2025 Arizona returns (tax after credits) / Arizona withholding / dates and amounts of 2026 estimated payments / quarterly income records for the annualized method / documentation for a waiver (casualty, disaster, retirement after age 62, disability)
+source_doc: 2025 Arizona return (prior-year tax after credits) / Form W-2 box 17 and Forms 1099 showing Arizona tax withheld / confirmations of 2026 estimated payments with dates / quarterly income records for the annualized method / documentation for a waiver (casualty, disaster, retirement after age 62, disability)
 form: Form 140, Form 221
 line: "Form 140 76, 77, 771, 772, 773; Form 221 1-30, 30a, 30b, 30c; Form 221 worksheet 1-23"
 via:

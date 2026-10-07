@@ -3,7 +3,7 @@ type: credit
 category: family-income-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Completed Form 140, lines 13 and 38 to 42 / count of federal dependents in boxes 10a, 10b and qualifying parents in box 11a who are federal dependents
+source_doc: Forms W-2 Box 1, 1099 and SSA-1099 and other income records (household income) / Social Security cards and birth certificates for each dependent and each qualifying parent or grandparent
 form: Form 140
 line: "50"
 refundable: no

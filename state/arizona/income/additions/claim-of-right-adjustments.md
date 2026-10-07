@@ -3,7 +3,7 @@ type: income
 category: claim-of-right
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Records of amounts repaid under a claim of right / federal deduction for the repayment / Arizona Claim of Right-Individual form / prior-year Arizona computations
+source_doc: Proof of repayment (cancelled checks, repayment or settlement agreement) showing the amount and date / prior-year Arizona return for the year the income was originally taxed
 form: Form 140
 line: "page 5 E, F(a), F(b); page 6 F; 54b"
 via:
@@ -36,7 +36,6 @@ An employee repaid $5,000 of 2025 commissions in 2026 and deducted it federally.
 ## Required Information
 - Records of the amount repaid and the year it was originally taxed
 - The federal deduction for the repayment
-- Arizona Claim of Right-Individual form
 ## Questions
 - Did you repay income in 2026 that was taxed in an earlier year? How much?
 - Did you deduct it on your federal return?

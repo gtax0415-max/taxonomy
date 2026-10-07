@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Schedule 1-A qualified tips deduction (line 13 on the 2025 schedule) / Forms W-2 and 1099 reporting tips
+source_doc: Form W-2 box 7 and box 12 code TP with the box 14b tipped occupation code / Forms 1099-NEC, 1099-MISC or 1099-K reporting tips / daily tip records
 form: Form 140, MCTCP Worksheet
 line: "MCTCP 2; page 6 V"
 via:

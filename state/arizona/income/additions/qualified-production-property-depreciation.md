@@ -3,7 +3,7 @@ type: income
 category: addition
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Form 4562 showing the special depreciation allowance for qualified production property (IRC 168(n)) / prior Arizona returns showing amounts already added
+source_doc: Fixed asset records for qualified production property (cost, placed-in-service date, special depreciation claimed federally) / prior-year Arizona returns showing amounts already added
 form: Form 140
 line: "page 5"
 via:

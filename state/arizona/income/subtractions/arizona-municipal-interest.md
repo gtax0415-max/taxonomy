@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Form 1099-INT showing taxable interest on Arizona state or political subdivision bonds
+source_doc: Form 1099-INT box 1 with the brokerage statement identifying Arizona state or political subdivision bonds
 form: Form 140
 line: "page 6 C"
 via:

@@ -3,7 +3,7 @@ type: deduction
 category: itemized-interest
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Form 8396 (mortgage interest credit) / Form 1098
+source_doc: Mortgage credit certificate issued by the state or local housing agency (credit rate) / Form 1098 box 1 (mortgage interest paid)
 form: Schedule A
 line: "5"
 via:

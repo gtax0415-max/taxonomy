@@ -3,7 +3,7 @@ type: income
 category: addition
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Records of expenses related to income Arizona does not tax / any other required addition
+source_doc: Invoices and statements for expenses connected with income Arizona does not tax (for example interest on loans used to buy U.S. obligations)
 form: Form 140
 line: "page 5 S, T; 18"
 via:

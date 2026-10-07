@@ -3,7 +3,7 @@ type: income
 category: federal-agi
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Completed 2026 federal Form 1040 (adjusted gross income line)
+source_doc: Forms W-2 Box 1, 1099 (INT, DIV, B, R, NEC, MISC, K, G), SSA-1099 and Schedule K-1 / records of federal adjustments (for example Form 5498-SA HSA contributions, Form 1098-E student loan interest)
 form: Form 140
 line: "12"
 via:

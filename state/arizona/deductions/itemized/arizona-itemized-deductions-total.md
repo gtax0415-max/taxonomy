@@ -3,7 +3,7 @@ type: deduction
 category: itemized-total
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Schedule A total itemized deductions / Arizona Schedule A lines 1 to 8
+source_doc: Form 1098 (mortgage interest and real estate tax) / property tax bills / Form W-2 box 17 and state tax payment records / charitable receipts / medical and dental receipts / mortgage credit certificate
 form: Schedule A, Form 140
 line: "Schedule A 9-15; Form 140 43, 43I"
 via:

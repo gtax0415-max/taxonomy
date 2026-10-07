@@ -3,7 +3,7 @@ type: tax-computation
 category: credit-recapture
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Form 334, line 15 / Form 349, line 19 / Form 354, line 12 (recapture computations)
+source_doc: Arizona Commerce Authority or Arizona Department of Housing recapture notice / records of the 2026 recapture event (loss of qualification, disposition or noncompliance)
 form: Form 140, Form 301
 line: "Form 140 47; Form 301 27, 28, 29, 30"
 via:
@@ -35,7 +35,7 @@ A partner's share of qualified facilities credit recapture is $2,000 (Form 349, 
 - Qualified facilities (Form 349) and motion picture (Form 334) credits remain in force for 2026, so recapture can still arise
 - Form 140 line and box numbers follow the 2025 Form 140; ADOR had not released the 2026 Form 140 when this was revised, so confirm them against it
 ## Required Information
-- Form 334, line 15; Form 349, line 19; Form 354, line 12 (recapture computations)
+- The recapture event, its date, and the credit amounts originally claimed
 ## Questions
 - Did you claim the motion picture, qualified facilities or affordable housing credit in a prior year, and has a recapture event occurred?
 ## Common Errors

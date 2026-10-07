@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Schedule 1-A qualified overtime compensation deduction (line 21 on the 2025 schedule) / Form W-2 overtime reporting
+source_doc: Form W-2 box 12 code TT (qualified overtime compensation) / pay stubs or employer statement of the FLSA overtime premium
 form: Form 140, MCTCP Worksheet
 line: "MCTCP 3; page 6 V"
 via:

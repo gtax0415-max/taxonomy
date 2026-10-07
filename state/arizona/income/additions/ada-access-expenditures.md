@@ -3,7 +3,7 @@ type: income
 category: ada-access
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Invoices for access expenditures / records showing when the property was originally placed in service / federal depreciation and amortization of those costs
+source_doc: Invoices for access expenditures / fixed asset and depreciation records showing the placed-in-service date and amounts deducted federally
 form: Form 140
 line: "page 6 N; page 5 M"
 via:

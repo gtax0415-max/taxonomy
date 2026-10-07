@@ -3,7 +3,7 @@ type: tax-computation
 category: penalties-and-interest
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Filing and payment dates / amount of tax unpaid at the original due date / department notices
+source_doc: Proof of filing and payment dates (e-file acknowledgment, AZTaxes.gov confirmation, postmark) / ADOR notices of penalty and interest
 form: Form 140
 line: "80"
 via:

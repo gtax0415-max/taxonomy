@@ -3,7 +3,7 @@ type: payment
 category: extension-payment
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Form 204 payment record or AZTaxes.gov confirmation
+source_doc: AZTaxes.gov confirmation, cancelled check or bank statement for the extension payment (date and amount)
 form: Form 140, Form 204
 line: "Form 140 55; Form 204 1-7, 95a-95d"
 via:

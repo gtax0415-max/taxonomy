@@ -3,7 +3,7 @@ type: filing
 category: residency
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Domicile facts (permanent home, intent to return) / move dates into or out of Arizona / spouse's residency
+source_doc: Lease or deed for the Arizona home / Arizona driver's license, voter registration and vehicle registration / moving records showing dates into or out of Arizona
 form: Form 140
 line: "header"
 via:

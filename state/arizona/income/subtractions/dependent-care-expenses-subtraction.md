@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Form 2441 (qualifying expenses and the federal child and dependent care credit) / provider receipts
+source_doc: Provider receipts or statements showing name, address, TIN and amount paid / Form W-2 box 10 (dependent care benefits)
 form: Form 140
 line: "page 6"
 via:

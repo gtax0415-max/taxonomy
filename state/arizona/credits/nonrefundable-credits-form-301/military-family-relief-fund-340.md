@@ -3,7 +3,7 @@ type: credit
 category: charitable-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Department of Veterans' Services (ADVS) receipt showing name, address, last four digits of SSN, amount, the pre-9/11 or post-9/11 subaccount, and that the donation qualifies for the credit
+source_doc: Arizona Department of Veterans' Services receipt showing name, address, last four digits of SSN, amount, the pre-9/11 or post-9/11 subaccount, and that the donation qualifies for the credit
 form: Form 340, Form 301
 line: "Form 340 1-6; Form 301 14, 47"
 refundable: no

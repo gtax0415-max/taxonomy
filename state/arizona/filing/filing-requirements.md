@@ -3,7 +3,7 @@ type: filing
 category: filing-requirements
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal return (gross income and adjusted gross income) / Forms W-2 and 1099-R showing Arizona withholding / tribal enrollment and residence records for American Indian filers / military pay records
+source_doc: Forms W-2, 1099 and other records of 2026 gross income / Form W-2 box 17 or Form 1099-R box 14 showing Arizona tax withheld / tribal enrollment card and reservation residence records (American Indian filers) / military Leave and Earnings Statements
 form: Form 140
 line: "header"
 via:

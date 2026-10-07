@@ -3,7 +3,7 @@ type: deduction
 category: itemized-other
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Schedule A detail / records allocating expenses to income Arizona does not tax
+source_doc: Form 1099-INT box 3 and other records of income Arizona does not tax / invoices and statements for expenses connected with that income (for example interest on loans used to buy U.S. obligations)
 form: Schedule A
 line: "8"
 via:

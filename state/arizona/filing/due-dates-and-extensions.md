@@ -3,7 +3,7 @@ type: filing
 category: due-dates
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Form 204 or federal Form 4868 / extension payment confirmation from AZTaxes.gov
+source_doc: Confirmation of the extension request (AZTaxes.gov or IRS acknowledgment) / extension payment confirmation or cancelled check
 form: Form 140, Form 204
 line: "82F, 55"
 via:

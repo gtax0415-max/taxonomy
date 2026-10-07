@@ -3,7 +3,7 @@ type: income
 category: addition
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Form 1099-INT or 1099-DIV tax-exempt interest (box 8 or box 12) with the issuer's state / brokerage statements listing payors
+source_doc: Form 1099-INT box 8 or Form 1099-DIV box 12 (tax-exempt interest) / brokerage statement listing each issuer's state
 form: Form 140
 line: "15"
 via:

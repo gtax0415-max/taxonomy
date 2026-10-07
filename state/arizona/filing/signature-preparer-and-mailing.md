@@ -3,7 +3,7 @@ type: filing
 category: signature-and-mailing
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Completed return / paid preparer's PTIN, SSN or EIN / payment check or money order
+source_doc: Paid preparer's PTIN, EIN or SSN / check or money order for any payment mailed with the return
 form: Form 140
 line: "footer"
 via:

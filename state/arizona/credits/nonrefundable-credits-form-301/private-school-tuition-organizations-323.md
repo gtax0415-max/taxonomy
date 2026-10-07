@@ -3,7 +3,7 @@ type: credit
 category: school-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: STO receipts showing name and address of the STO, taxpayer, amount, date and the tax year to be claimed / ADOR list of certified STOs / prior Form 323 carryover records
+source_doc: STO receipts showing the STO name and address, taxpayer, amount, date and the tax year to be claimed / prior-year Arizona returns showing unused credit carryovers
 form: Form 323, Form 301
 line: "Form 323 1-25, 4a-4h, 9a-9h; Form 301 8, 41"
 refundable: no

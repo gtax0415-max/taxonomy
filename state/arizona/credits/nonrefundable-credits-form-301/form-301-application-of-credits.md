@@ -3,7 +3,7 @@ type: credit
 category: credit-limitation
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Completed Form 140 (lines 46, 49, 50) / each credit form's available credit / Form 301-SBI, line 63 if the small business income election was made
+source_doc: Receipts, approval letters, certificates and pass-through credit statements supporting each nonrefundable credit / prior-year Arizona returns showing unused credit carryovers
 form: Form 301, Form 140
 line: "Form 301 24, 25, 26, 31, 32, 33, 57, 58, 59, 60; Form 140 51"
 refundable: no

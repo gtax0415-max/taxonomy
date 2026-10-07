@@ -3,7 +3,7 @@ type: filing
 category: form-selection
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Draft Arizona return showing taxable income, adjustments, deduction method, credits and estimated payments
+source_doc: Forms W-2 and 1099 (Arizona taxable income under $50,000) / records of any adjustment, itemized deduction, credit or estimated payment that requires Form 140
 form: Form 140
 line: "header"
 via:

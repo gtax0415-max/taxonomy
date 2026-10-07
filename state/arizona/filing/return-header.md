@@ -3,7 +3,7 @@ type: filing
 category: header
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Prior-year return (names, SSN order) / Social Security cards or ITIN letters / current address and phone / extension confirmation if filing under extension
+source_doc: Prior-year Arizona return (names and SSN order) / Social Security cards or ITIN letters / current address and phone / extension confirmation if filing under extension
 form: Form 140
 line: "1, 2, 3, 82F, 66F, 94, 97, 80, 81, 88"
 via:

@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Schedule 1-A qualified passenger vehicle loan interest deduction (line 30 on the 2025 schedule)
+source_doc: Lender statement of interest paid on a qualified passenger vehicle loan (2025 only) / vehicle purchase contract showing VIN and U.S. final assembly
 form: Form 140, MCTCP Worksheet
 line: "MCTCP 4"
 via:

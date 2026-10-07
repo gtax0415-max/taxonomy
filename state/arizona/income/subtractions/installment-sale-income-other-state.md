@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Form 6252 / other state's prior-year return showing tax paid on the installment sale income
+source_doc: Installment sale contract and payment records / other state's prior-year return showing tax paid on the installment sale income
 form: Form 140
 line: "page 6 I"
 via:

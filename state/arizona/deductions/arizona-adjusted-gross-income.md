@@ -3,7 +3,7 @@ type: deduction
 category: arizona-agi
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Completed Form 140, lines 37 to 41
+source_doc: Forms W-2 Box 1, 1099 and SSA-1099 and other income records (federal AGI) / records supporting Arizona additions and subtractions / birth certificates and medical records supporting exemptions
 form: Form 140
 line: "42"
 via:

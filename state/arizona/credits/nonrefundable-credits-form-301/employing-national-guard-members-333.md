@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Form 333 and supporting records (employee's Arizona National Guard active duty orders)
+source_doc: Employee's Arizona National Guard active duty orders with dates of active duty / payroll records for that employee / prior-year Arizona returns showing unused credit carryovers
 form: Form 333, Form 301
 line: "Form 301 11, 44"
 refundable: no
@@ -16,7 +16,7 @@ see_also:
 ---
 # Credit for Employing National Guard Members (Form 333; Form 301, Lines 11 and 44)
 ## Description
-A nonrefundable credit for an employer whose employee is a member of the Arizona National Guard placed on active duty. Unused credit carries forward five years. Form 333 itself is not among the sources.
+A nonrefundable credit for an employer whose employee is a member of the Arizona National Guard placed on active duty. Unused credit carries forward five years.
 ## Form 301 entries
 Column (a) Form 333, line 17; column (b) line 18; column (c) line 19. Line 44: credit used, not more than line 11, column (c).
 ## Example
@@ -24,7 +24,6 @@ A sole proprietor's employee is called to active duty and Form 333 shows a $1,00
 ## Notes
 - Form 301 line numbers follow the 2025 Form 301; ADOR had not released the 2026 Form 301 when this was revised, so confirm line numbers against it
 ## Required Information
-- Form 333
 - The employee's Arizona National Guard active duty orders and dates of active duty in 2026
 - Prior Form 333 carryovers from 2021 to 2025
 ## Questions

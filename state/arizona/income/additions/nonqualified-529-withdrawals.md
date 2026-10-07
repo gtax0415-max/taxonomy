@@ -3,7 +3,7 @@ type: income
 category: addition
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Form 1099-Q / prior Arizona returns showing 529 contribution subtractions (line 34a) and earlier additions
+source_doc: Form 1099-Q / prior Arizona returns showing 529 contribution subtractions and earlier additions
 form: Form 140
 line: "page 5 I"
 via:

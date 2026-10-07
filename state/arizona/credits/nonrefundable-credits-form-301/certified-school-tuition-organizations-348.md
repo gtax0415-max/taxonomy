@@ -3,7 +3,7 @@ type: credit
 category: school-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Form 323 Part 4 (excess contributions) / certified STO receipts / prior Form 348 carryover records
+source_doc: Certified STO receipts for every 2026 contribution (and January 1 to April 15, 2027 contributions claimed for 2026) showing the STO name, amount and date / prior-year Arizona returns showing unused credit carryovers
 form: Form 348, Form 301
 line: "Form 348 1a, 1b, 1c, 2-25, 5a-5h, 10a-10h; Form 301 19, 52"
 refundable: no

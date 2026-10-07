@@ -3,7 +3,7 @@ type: income
 category: addition-related-to-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Basis records under the IRC and under Arizona law for property on which the Form 338, 325 or 315 credit was claimed / sale or disposal records
+source_doc: Basis and depreciation records for property on which the qualified small business, agricultural pollution control or pollution control credit was claimed / sale or disposal records
 form: Form 140
 line: "page 5 H(a), H(b), H(c)"
 via:

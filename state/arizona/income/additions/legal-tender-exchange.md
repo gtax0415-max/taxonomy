@@ -3,7 +3,7 @@ type: income
 category: legal-tender
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Records of exchanges of one kind of legal tender for another (for example precious metal coins) / Forms 165, 120S and 141AZ Schedule K-1
+source_doc: Purchase and sale records for exchanges of one kind of legal tender for another (for example precious metal coins) / Arizona Schedule K-1 from Form 165, 120S or 141AZ
 form: Form 140
 line: "page 6 R; page 5 O"
 via:

@@ -3,7 +3,7 @@ type: income
 category: pensions
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Form 1099-R from DFAS or the uniformed service (retired or retainer pay; survivor benefit payments)
+source_doc: Form 1099-R box 2a from DFAS or the uniformed service (retired or retainer pay; survivor benefit payments)
 form: Form 140
 line: "29b"
 via:

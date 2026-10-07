@@ -3,7 +3,7 @@ type: payment
 category: balance-due
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Payment method details (check, money order, e-check, credit card) / installment agreement request
+source_doc: Bank routing and account number for an e-check, or check or money order / credit or debit card for a card payment
 form: Form 140
 line: "78, 80"
 via:

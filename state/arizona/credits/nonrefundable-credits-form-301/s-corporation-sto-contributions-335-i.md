@@ -3,7 +3,7 @@ type: credit
 category: school-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Form 335-I and supporting records (S corporation's pro rata credit notice)
+source_doc: S corporation's statement of the shareholder's pro rata share of the pre-approved STO contribution credit / prior-year Arizona returns showing unused credit carryovers
 form: Form 335-I, Form 301
 line: "Form 301 12, 45"
 refundable: no
@@ -18,7 +18,7 @@ see_also:
 ---
 # Credit for Business Contributions by an S Corporation to School Tuition Organizations - Individual (Form 335-I; Form 301, Lines 12 and 45)
 ## Description
-An S corporation that makes qualifying contributions of $5,000 or more to a school tuition organization may pass the credit through to its individual shareholders pro rata. Shareholders claim it on Form 335-I. Unused credit carries forward five years. Form 335-I itself is not among the sources.
+An S corporation that makes qualifying contributions of $5,000 or more to a school tuition organization may pass the credit through to its individual shareholders pro rata. Shareholders claim it on Form 335-I. Unused credit carries forward five years.
 ## Form 301 entries
 Column (a) Form 335-I, line 19; column (b) line 20; column (c) line 21. Line 45: credit used, not more than line 12, column (c).
 ## Example
@@ -28,7 +28,7 @@ A 25% shareholder's pro rata share of a $40,000 corporate STO contribution credi
 - This is separate from the displaced or disabled students credit on Form 341-I (Form 301, line 15)
 - Form 301 line numbers follow the 2025 Form 301; ADOR had not released the 2026 Form 301 when this was revised, so confirm line numbers against it
 ## Required Information
-- Form 335-I and the S corporation's statement of your pro rata share
+- The S corporation's statement of your pro rata share
 - Your ownership percentage in the S corporation for 2026
 - Prior Form 335-I carryovers from 2021 to 2025
 ## Questions

@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Form 1099-Q / records of qualified education expenses
+source_doc: Form 1099-Q / receipts for qualified education expenses
 form: Form 140
 line: "page 6 H"
 via:

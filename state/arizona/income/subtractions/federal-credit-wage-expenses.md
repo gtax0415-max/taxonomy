@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Forms 5884 (Work Opportunity Credit), 8844 (Empowerment Zone Employment Credit), 8846 (credit for employer social security on tips), 8845 (Indian Employment Credit)
+source_doc: Payroll records for wages on which the work opportunity, empowerment zone, Indian employment or FICA tip credit was claimed / state workforce agency certification letters for work opportunity credit employees
 form: Form 140
 line: "page 6 G"
 via:

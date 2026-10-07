@@ -3,7 +3,7 @@ type: filing
 category: conformity
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Laws 2026, Chapter 140 (HB 4168 / SB 1861), signed June 13, 2026 / federal return as filed under the Internal Revenue Code in effect January 1, 2026
+source_doc: Copy of the 2026 federal return as filed (Form 1040 and schedules)
 form: Form 140
 line: "12"
 via:

@@ -3,7 +3,7 @@ type: credit
 category: other-state-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Copy of the other state's or country's return (or proof of tax withheld at source) / proof of payment / brokerage statements / currency conversion statement / K-1s for entity-level tax paid in other states
+source_doc: Copy of the other state's or country's return as filed / proof of tax paid or withheld at source (Form W-2 box 17 or 1099 state withholding for that state) / Schedule K-1s showing entity-level tax paid in other states / currency conversion records for foreign tax
 form: Form 309, Form 301
 line: "Form 309 A, B, 1-17, 12a, 12b; Form 309 Schedule of Income Allocation 1-10, 9a-9d; Form 301 2, 35"
 refundable: no

@@ -3,7 +3,7 @@ type: income
 category: depreciation
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal depreciation schedules (Form 4562) by placed-in-service year / Arizona depreciation records / asset disposition records
+source_doc: Fixed asset and depreciation records by placed-in-service year (federal and Arizona) / asset sale or disposal records
 form: Form 140
 line: "17, 26; page 6 K"
 via:

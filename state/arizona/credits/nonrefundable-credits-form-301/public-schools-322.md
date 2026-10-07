@@ -3,7 +3,7 @@ type: credit
 category: school-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Public school receipts showing school name, district name and number, taxpayer, amount, date and activity / 9-digit CTDS code / prior Form 322 carryover records
+source_doc: Public school receipts showing school name, district name and number, 9-digit CTDS code, taxpayer, amount, date and activity / prior-year Arizona returns showing unused credit carryovers
 form: Form 322, Form 301
 line: "Form 322 1-22, 4a-4h, 9a-9h; Form 301 7, 40"
 refundable: no

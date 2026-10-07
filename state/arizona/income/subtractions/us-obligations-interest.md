@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Form 1099-INT box 3 (U.S. savings bonds and Treasury obligations) / Form 1099-DIV (fund statement of U.S. obligation percentage)
+source_doc: Form 1099-INT box 3 (U.S. savings bonds and Treasury obligations) / mutual fund year-end statement of the U.S. obligation percentage with Form 1099-DIV
 form: Form 140
 line: "28"
 via:

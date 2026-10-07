@@ -3,7 +3,7 @@ type: credit
 category: energy-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Invoice for the purchased solar energy device including installation / seller's certificate that the device meets Arizona requirements / address of the residence / prior Form 310 credits for the same residence (1995 through 2025) and carryover records
+source_doc: Invoice for the solar energy device including installation / seller's certificate that the device meets Arizona requirements / prior-year Arizona returns showing solar credits already claimed for the same residence and any carryover
 form: Form 310, Form 301
 line: "Form 310 1-18; Form 301 3, 36"
 refundable: no

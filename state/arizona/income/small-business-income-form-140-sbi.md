@@ -3,7 +3,7 @@ type: income
 category: small-business-income
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Schedules B, C, D, E, F and Form 4797 (small business income items) / completed Arizona Form 140-SBI
+source_doc: Forms 1099-NEC, 1099-MISC, 1099-K and business books (self-employment income) / Schedule K-1s from partnerships and S corporations / Forms 1099-INT, 1099-DIV and 1099-B / rental and farm income records / confirmations of SBI estimated or extension payments
 form: Form 140, Form 140-SBI
 line: "13, 13S, 14"
 via:
@@ -42,7 +42,6 @@ Federal AGI $180,000 includes $100,000 of Schedule C income reported on Form 140
 - Form 140 line and page 5 / page 6 item letters follow the 2025 Form 140; ADOR had not released the 2026 Form 140 when this was revised, so confirm them against it
 ## Required Information
 - Federal Schedules B, C, D, E, F and Form 4797
-- Completed Form 140-SBI (and Forms 301-SBI, 309-SBI if used)
 - Any SBI estimated or extension payments
 ## Questions
 - Do you have Schedule C, E, F, B, D or 4797 income you want taxed on Form 140-SBI?

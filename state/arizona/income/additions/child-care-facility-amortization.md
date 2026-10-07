@@ -3,7 +3,7 @@ type: income
 category: addition
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Prior Arizona amortization election records / federal depreciation schedule for the facility
+source_doc: Prior Arizona returns showing the amortization election / fixed asset and depreciation records for the facility
 form: Form 140
 line: "page 5 N"
 via:

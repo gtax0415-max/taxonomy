@@ -3,7 +3,7 @@ type: payment
 category: withholding
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Forms W-2 (Arizona withholding) / Forms 1099-R, W-2G, 1099-B, 1099-DIV, 1099-G, 1099-INT, 1099-NEC and 1099-MISC showing Arizona withholding
+source_doc: Form W-2 box 17 (Arizona tax withheld) / Forms 1099-R box 14, W-2G box 15, 1099-G box 11, 1099-INT box 17, 1099-DIV box 16, 1099-B box 16, 1099-NEC box 5 and 1099-MISC box 16 showing Arizona tax withheld
 form: Form 140
 line: "53"
 via:

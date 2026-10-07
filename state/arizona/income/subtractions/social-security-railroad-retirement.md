@@ -3,7 +3,7 @@ type: income
 category: social-security
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Form SSA-1099 / Forms RRB-1099 and RRB-1099-R / federal Form 1040 taxable Social Security amount
+source_doc: Form SSA-1099 box 5 / Forms RRB-1099 and RRB-1099-R
 form: Form 140
 line: "30"
 via:

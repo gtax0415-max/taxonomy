@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Crop donation receipts from Arizona charitable organizations / wholesale market price or most recent sale price / production cost records / federal IRC 170 deduction for the gift
+source_doc: Crop donation receipts from Arizona charitable organizations / wholesale market price or most recent sale price records / production cost records
 form: Form 140
 line: "page 6 J"
 via:

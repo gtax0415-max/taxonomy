@@ -3,7 +3,7 @@ type: credit
 category: energy-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Prior Form 336 credits and carryover records
+source_doc: Prior-year Arizona returns showing unused commercial or industrial solar credit carryovers
 form: Form 336
 line: "-"
 refundable: no

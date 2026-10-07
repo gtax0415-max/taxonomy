@@ -3,7 +3,7 @@ type: income
 category: marijuana-business
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Schedule DFE (Disallowed Federal Expense Schedule for Marijuana Establishments), line 16 / Form 120S Schedule K-1, line 7
+source_doc: Books and records of ordinary and necessary expenses for recreational sales disallowed federally / Form 120S Schedule K-1, line 7 (S corporation shareholders) / ADHS license and for-profit election
 form: Form 140
 line: "page 6 P, Q"
 via:
@@ -27,7 +27,7 @@ A licensed for-profit establishment run as a sole proprietorship reports $85,000
 ## Notes
 - Form 140 line and page 6 item letters follow the 2025 Form 140; ADOR had not released the 2026 Form 140 when this was revised, so confirm them against it
 ## Required Information
-- Arizona Schedule DFE, line 16 (sole proprietors and disregarded LLCs)
+- Expense records for recreational sales not deducted federally (sole proprietors and disregarded LLCs)
 - Form 120S Schedule K-1, line 7 (S corporation shareholders)
 - License type and the for-profit election
 ## Questions

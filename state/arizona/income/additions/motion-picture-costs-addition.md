@@ -3,7 +3,7 @@ type: income
 category: addition-related-to-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Form 334 / Form 334-P or 334-S, line 4b (pass-through share of expenses)
+source_doc: Production cost invoices and payroll records for which the credit is claimed / pass-through statement of the partner's or shareholder's share of production expenses
 form: Form 140, Form 334
 line: "page 5 Q"
 via:

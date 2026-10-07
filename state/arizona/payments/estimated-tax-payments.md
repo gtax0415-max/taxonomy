@@ -3,7 +3,7 @@ type: payment
 category: estimated-tax
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Records of 2026 Arizona estimated payments (Form 140ES vouchers, AZTaxes.gov confirmations, cancelled checks) with dates and amounts / 2025 return showing the overpayment applied to 2026 / 2026 Form 140ES worksheet
+source_doc: AZTaxes.gov confirmations, cancelled checks or bank statements for each 2026 estimated payment (date and amount) / 2025 Arizona return showing the overpayment applied to 2026
 form: Form 140, Form 140ES
 line: "Form 140 54, 54a, 54c; Form 140ES 1, 2, 95; Form 140ES worksheet 1-27"
 via:

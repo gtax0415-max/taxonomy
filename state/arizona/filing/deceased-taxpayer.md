@@ -3,7 +3,7 @@ type: filing
 category: deceased-taxpayer
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Death certificate (date of death) / letters of appointment for a personal representative / decedent's Forms W-2 and 1099 / Arizona Form 131
+source_doc: Death certificate (date of death) / letters of appointment for a personal representative / decedent's Forms W-2 and 1099
 form: Form 140, Form 131
 line: "1"
 via:

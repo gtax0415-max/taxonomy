@@ -3,7 +3,7 @@ type: deduction
 category: itemized-taxes
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Schedule A state and local income tax amounts before and after the federal limit / Arizona credit forms for amounts paid as state income tax and used for a credit
+source_doc: Form W-2 box 17 and state estimated tax payment records / pay stubs showing credit contributions made through payroll withholding / receipts for those contributions
 form: Schedule A
 line: "7; Schedule A 1A-7A"
 via:
@@ -37,7 +37,7 @@ State income taxes $9,000 before the limit, of which $500 was used for an Arizon
 - Arizona Schedule A, Form 140 and page 3 line numbers follow the 2025 forms; ADOR had not released the 2026 forms when this was revised, so confirm them against them
 ## Required Information
 - Federal Schedule A state and local tax amounts, before and after the federal limit
-- Arizona credit forms for amounts paid as state tax and used for a credit
+- Receipts for amounts paid as state tax and used for an Arizona credit
 ## Questions
 - Did you deduct state income taxes or sales taxes on federal Schedule A?
 - Was any amount you counted as state tax also used for an Arizona credit?

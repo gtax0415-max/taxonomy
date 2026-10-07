@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Families Tax Rebate payment record
+source_doc: Arizona Families Tax Rebate payment record (check stub or direct deposit notice)
 form: Form 140
 line: "page 6 U"
 via:

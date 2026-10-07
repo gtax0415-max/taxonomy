@@ -3,7 +3,7 @@ type: income
 category: community-property
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Both spouses' Forms W-2, 1099 and K-1 / joint federal return / records of separate property income / schedule of the adjustment (kept, not filed)
+source_doc: Both spouses' Forms W-2, 1099 and K-1 / records of separate property income (property owned before marriage, gifts, inheritances) / any premarital or separation agreement
 form: Form 140
 line: "page 5 A; page 6 A"
 via:

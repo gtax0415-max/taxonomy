@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Form W-2 for wages earned on the reservation / tribal enrollment / proof of residence on the tribe's reservation
+source_doc: Form W-2 Box 1 for wages earned on the reservation / tribal enrollment card / proof of residence on the tribe's reservation
 form: Form 140
 line: "31"
 via:

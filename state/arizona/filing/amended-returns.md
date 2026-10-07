@@ -3,7 +3,7 @@ type: filing
 category: amended-return
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Original Arizona return as filed and processed / amended federal return or final IRS determination / documents supporting the change
+source_doc: Copy of the original Arizona return as filed / IRS notice or revenue agent's report of a final federal determination / corrected Forms W-2, 1099 or K-1 and other documents supporting the change
 form: Form 140X
 line: "header"
 via:

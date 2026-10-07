@@ -3,7 +3,7 @@ type: deduction
 category: itemized-taxes
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Schedule A state and local taxes (income or sales, real estate, personal property) before any limit
+source_doc: Form W-2 box 17 and state estimated tax payment records (income tax) / property tax bills or Form 1098 box 10 (real estate tax) / vehicle registration showing the vehicle license tax / receipts for major purchases (if deducting sales tax)
 form: Schedule A
 line: "Schedule A"
 via:

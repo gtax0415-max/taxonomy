@@ -3,7 +3,7 @@ type: income
 category: military-pay
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Form W-2 from DFAS (active duty, reserve or National Guard pay)
+source_doc: Form W-2 Box 1 from DFAS (active duty, reserve or National Guard pay)
 form: Form 140
 line: "32"
 via:

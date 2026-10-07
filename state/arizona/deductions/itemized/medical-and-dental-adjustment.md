@@ -3,7 +3,7 @@ type: deduction
 category: itemized-medical
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Medical and dental receipts (net of insurance and other reimbursements) / federal Schedule A medical lines / Form W-2 box 1 (cafeteria plan amounts)
+source_doc: Medical and dental receipts and insurance explanation-of-benefits statements (net of reimbursements) / Form W-2 box 1 and employer cafeteria plan statements (premiums paid pre-tax)
 form: Schedule A
 line: "1, 2, 3, 4"
 via:

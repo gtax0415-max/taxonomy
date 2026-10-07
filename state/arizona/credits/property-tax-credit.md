@@ -3,7 +3,7 @@ type: credit
 category: property-tax-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Property tax statement or paid receipt for amounts actually paid in 2026 / Arizona Form 201 Renter's Certificate from the landlord or nursing home / SSA Title 16 SSI statement (if under 65) / household members' income records / date of birth
+source_doc: Property tax bill and paid receipt for 2026 taxes / Arizona Form 201 Renter's Certificate signed by the landlord or nursing home / SSA-1099 and SSI (Title 16) award letter / Forms W-2, 1099 and other income records for every household member / birth certificate (age 65 or older)
 form: Form 140, Form 140PTC
 line: "Form 140 57; Form 140PTC 1-22, 4-9, 11a, 11b, 19A, 79, 95, 98; Form 140PTC Part 1 A-J; Form 140PTC Part 2 1-6"
 refundable: yes

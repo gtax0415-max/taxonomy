@@ -3,7 +3,7 @@ type: income
 category: subtraction
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal Schedule 1-A enhanced deduction for seniors (line 37 on the 2025 schedule) / dates of birth
+source_doc: Birth certificate or other proof of date of birth (age 65 or older by December 31, 2026) / Social Security cards for taxpayer and spouse / Forms W-2 and 1099 (income for the phase-out)
 form: Form 140, MCTCP Worksheet
 line: "MCTCP 5; page 6 V"
 via:

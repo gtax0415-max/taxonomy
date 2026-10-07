@@ -3,7 +3,7 @@ type: credit
 category: refundable-credits
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Forms 308-I (Part 7, line 38), 334 (Part 1, line 6) and 349 (Part 8, line 20) / ACA Certificates of Qualification
+source_doc: Arizona Commerce Authority post-approval letter for the motion picture production credit / ACA Certificate of Qualification and installment schedule for the qualified facility credit
 form: Form 140
 line: "58, 581, 582, 583"
 refundable: yes
@@ -42,7 +42,7 @@ HB 4168 (Laws 2026, Chapter 140), signed June 13, 2026, eliminates the refundabl
 - Box numbers and line 58 follow the 2025 Form 140; ADOR may drop box 581 from the 2026 form
 - Qualified facilities (Form 349) are authorized through December 31, 2030
 ## Required Information
-- Form 334 and Form 349 with their ACA certificates
+- The ACA approvals and certificates for the Form 334 and Form 349 credits
 - The 2026 installment amount for Form 349
 ## Questions
 - Do you have an ACA-approved motion picture or qualified facilities credit?

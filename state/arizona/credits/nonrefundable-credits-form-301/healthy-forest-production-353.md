@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Form 353 and supporting records (or pass-through credit notice)
+source_doc: Arizona Commerce Authority healthy forest enterprise certification / pass-through credit statement from a partnership or S corporation / prior-year Arizona returns showing unused credit carryovers
 form: Form 353, Form 301
 line: "Form 301 21, 54"
 refundable: no
@@ -17,7 +17,7 @@ see_also:
 ---
 # Healthy Forest Production Tax Credit (Form 353; Form 301, Lines 21 and 54)
 ## Description
-A nonrefundable credit for taxpayers who meet the healthy forest production qualifications, or who receive it as a pass-through credit from a partnership or S corporation. Properly established credits may be carried forward for five years. Form 353 itself is not among the sources.
+A nonrefundable credit for taxpayers who meet the healthy forest production qualifications, or who receive it as a pass-through credit from a partnership or S corporation. Properly established credits may be carried forward for five years.
 ## Form 301 entries
 Column (a) Form 353, line 15; column (b) line 16; column (c) line 17. Line 54: credit used, not more than line 21, column (c).
 ## Example
@@ -27,7 +27,7 @@ A partner's pass-through healthy forest credit of $800 against $2,000 of tax is 
 - Certification comes from the Arizona Commerce Authority
 - Form 301 line numbers follow the 2025 Form 301; ADOR had not released the 2026 Form 301 when this was revised, so confirm line numbers against it
 ## Required Information
-- Form 353, or the partnership or S corporation's pass-through credit notice
+- The partnership or S corporation's pass-through credit notice, if the credit passes through
 - The healthy forest enterprise certification from the Arizona Commerce Authority
 - Prior Form 353 carryovers from 2021 to 2025
 ## Questions

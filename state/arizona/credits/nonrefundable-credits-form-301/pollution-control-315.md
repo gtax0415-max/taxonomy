@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Form 315 and supporting records (carryover records)
+source_doc: Prior-year Arizona returns showing unused pollution control credit and the year each credit was established / sale or disposal records for the credit property
 form: Form 315, Form 301
 line: "Form 301 5, 38"
 refundable: no
@@ -19,7 +19,7 @@ see_also:
 ---
 # Pollution Control Credit (Carryover Only) (Form 315; Form 301, Lines 5 and 38)
 ## Description
-The pollution control credit was repealed for individual taxpayers for tax years beginning from and after December 31, 2021. Credits properly established before then may be carried forward for the respective five-year period. No current-year credit is entered. Form 315 itself is not among the sources.
+The pollution control credit was repealed for individual taxpayers for tax years beginning from and after December 31, 2021. Credits properly established before then may be carried forward for the respective five-year period. No current-year credit is entered.
 ## Form 301 entries
 Column (a): no entry. Column (b) Form 315, line 26; column (c) line 27. Line 38: credit used, not more than line 5, column (c).
 ## Example
@@ -29,7 +29,7 @@ A $1,200 carryover from a credit established in 2021 is available for 2026, the 
 - Laws 2026, Chapter 140 repealed the separate corporate pollution control equipment credit; that does not change this individual carryover
 - Form 301 line numbers follow the 2025 Form 301; ADOR had not released the 2026 Form 301 when this was revised, so confirm line numbers against it
 ## Required Information
-- Form 315 and the carryover records showing the year each credit was established and amounts used
+- Carryover records showing the year each credit was established and amounts used
 - Sale records if the property was sold (for the page 5, H(c) and R adjustments)
 ## Questions
 - Do you have a pollution control credit carryover still within its five-year period?

@@ -3,7 +3,7 @@ type: credit
 category: dependent-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Federal return dependents and their ages at the end of 2026 / federal AGI (Form 140, line 12)
+source_doc: Social Security cards or ITIN letters and birth certificates for each dependent (age at the end of 2026) / Forms W-2 Box 1, 1099 and SSA-1099 and other income records (for the AGI phase-out)
 form: Form 140
 line: "49"
 refundable: no

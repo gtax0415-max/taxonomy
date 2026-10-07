@@ -3,7 +3,7 @@ type: income
 category: pensions
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Form 1099-R from a qualifying federal, Arizona state or local government retirement system (taxable amount)
+source_doc: Form 1099-R box 2a from a qualifying federal, Arizona state or local government retirement system
 form: Form 140
 line: "29a"
 via:

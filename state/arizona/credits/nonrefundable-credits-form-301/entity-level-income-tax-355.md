@@ -3,7 +3,7 @@ type: credit
 category: pass-through-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Form 165 Schedule K-1 or K-1(NR) / Form 120S Schedule K-1 or K-1(NR) / Form 141AZ Schedule K-1 or K-1(NR) showing entity-level tax paid or credit distributed / prior Form 355 carryover records
+source_doc: Arizona Schedule K-1 or K-1(NR) from Form 165, 120S or 141AZ showing entity-level tax paid on your behalf or credit distributed / prior-year Arizona returns showing unused credit carryovers
 form: Form 355, Form 301
 line: "Form 355 1-13; Form 301 23, 56"
 refundable: no

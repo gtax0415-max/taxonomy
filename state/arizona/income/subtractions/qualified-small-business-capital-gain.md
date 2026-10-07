@@ -3,7 +3,7 @@ type: income
 category: capital-gains
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Commerce Authority certification of the qualified small business and its certification dates / investment and sale records / Forms 165, 120S and 141AZ Schedule K-1
+source_doc: Arizona Commerce Authority certification of the qualified small business and its certification dates / investment and sale records / Arizona Schedule K-1 from Form 165, 120S or 141AZ
 form: Form 140
 line: "25"
 via:

@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Arizona Form 345 and supporting records (prior Form 345 credits and carryovers)
+source_doc: Prior-year Arizona returns (2021 to 2025) showing unused new employment credit by year established
 form: Form 345, Form 301
 line: "Form 301 17, 50"
 refundable: no
@@ -17,7 +17,7 @@ see_also:
 ---
 # Credit for New Employment (Repealed from 2026) (Form 345; Form 301, Lines 17 and 50)
 ## Description
-Through 2025, a business with a net increase in qualified employment positions could claim this credit on Form 345, with a five-year carryforward. HB 4168 (Laws 2026, Chapter 140), signed June 13, 2026, repeals the individual, corporate and insurance premium credits for new employment for taxable years beginning January 1, 2026. The act includes a savings clause for the repealed credits, so credits properly established before 2026 should remain usable for the rest of their five-year carryforward; confirm against the 2026 Form 301 instructions. Form 345 itself is not among the sources.
+Through 2025, a business with a net increase in qualified employment positions could claim this credit on Form 345, with a five-year carryforward. HB 4168 (Laws 2026, Chapter 140), signed June 13, 2026, repeals the individual, corporate and insurance premium credits for new employment for taxable years beginning January 1, 2026. The act includes a savings clause for the repealed credits, so credits properly established before 2026 should remain usable for the rest of their five-year carryforward; confirm against the 2026 Form 301 instructions.
 ## Form 301 entries
 2025: column (a) Form 345, line 22; column (b) line 23; column (c) line 24. Line 50: credit used, not more than line 17, column (c). 2026: no current-year amount in column (a); only a pre-2026 carryover can appear in column (b).
 ## Example

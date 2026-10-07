@@ -3,7 +3,7 @@ type: tax-computation
 category: balance-of-tax
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Completed Form 140, lines 46 to 51
+source_doc: Receipts, approval letters and certificates supporting each nonrefundable credit / prior-year Arizona returns showing unused credit carryovers / recapture notices
 form: Form 140
 line: "48, 52"
 via:

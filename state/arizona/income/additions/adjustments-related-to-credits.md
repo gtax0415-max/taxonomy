@@ -3,7 +3,7 @@ type: income
 category: addition-related-to-credit
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Depreciation schedules under the IRC and on the Arizona adjusted basis for Form 325 and Form 315 credit property / Form 310 credit records
+source_doc: Invoices and fixed asset and depreciation records for property on which the agricultural pollution control, pollution control or solar energy device credit was claimed
 form: Form 140
 line: "page 5 R"
 via:

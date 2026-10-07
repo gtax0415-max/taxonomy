@@ -3,7 +3,7 @@ type: payment
 category: refund
 jurisdiction: AZ
 tax_year: 2026
-source_doc: Bank routing number (nine digits) and account number (up to 17 characters) / whether the deposit will end up in a foreign account
+source_doc: Voided check or bank statement showing the routing number (nine digits) and account number (up to 17 characters) / whether the deposit will end up in a foreign account
 form: Form 140
 line: "79, 79A, 98"
 via:
