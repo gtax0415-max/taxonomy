@@ -3,7 +3,7 @@ type: refund
 category: charitable-contributions
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Taxpayer election
+source_doc: No external source document — taxpayer election on the return
 form: Form NJ-1040
 line: "70-77"
 via:

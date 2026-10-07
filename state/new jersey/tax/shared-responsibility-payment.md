@@ -3,7 +3,7 @@ type: tax
 category: health-coverage
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Forms 1095-A, 1095-B, 1095-C / NJ coverage exemption numbers / NJ-EZ Enroll form / Schedule NJ-HCC / household members' NJ-1040 Line 27 and Line 16b
+source_doc: Forms 1095-A, 1095-B and 1095-C / health coverage exemption approval letter (exemption number) / income documents for every household member (Forms W-2 and 1099)
 form: Form NJ-1040
 line: "53a, 53b, 53c"
 via:

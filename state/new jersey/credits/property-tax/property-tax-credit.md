@@ -3,7 +3,7 @@ type: credit
 category: property-tax
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Municipal property tax bills and receipts (homeowners) / rent receipts or lease (tenants — 18% of rent) / mobile home park site fee receipts / Form NJ-1040 Line 40a
+source_doc: Municipal property tax bills and payment receipts (homeowners) / Form 1098 Box 10 (real estate taxes) / lease and rent receipts (tenants) / mobile home park site fee receipts
 form: Form NJ-1040
 line: "56"
 refundable: yes

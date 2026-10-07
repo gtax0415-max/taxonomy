@@ -3,7 +3,7 @@ type: payment
 category: estimated-payments
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form NJ-1040-ES payment records / NJ-630 extension payment / 2025 NJ-1040 Line 69 (overpayment credited to 2026) / Division online account payment history
+source_doc: Bank or online payment confirmations for each 2026 estimated payment and any extension payment / records of the prior-year overpayment applied to 2026
 form: Form NJ-1040
 line: "57"
 via:

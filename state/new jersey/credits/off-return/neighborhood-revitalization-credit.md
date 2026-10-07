@@ -3,7 +3,7 @@ type: credit
 category: off-return
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Tax credit certificate from the NJ Department of Community Affairs / Schedule NJ-BUS-1 income of the business that earned the credit
+source_doc: NJ Department of Community Affairs tax credit certificate / federal Schedule C, Schedule E or Schedule K-1 showing the income of the business that provided the funds
 form: Form GIT-311
 line: "none (separate claim)"
 refundable: no

@@ -3,7 +3,7 @@ type: income
 category: investment
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form 1099-INT Box 3 and Box 8 / Form 1099-DIV Box 12 with fund year-end statement of NJ-exempt and federal-obligation percentages / NJ qualified investment fund statements
+source_doc: Form 1099-INT Box 3 and Box 8 / Form 1099-DIV Box 12 / fund year-end statements (U.S. obligation and NJ-exempt percentages)
 form: Form NJ-1040
 line: "16b"
 via:

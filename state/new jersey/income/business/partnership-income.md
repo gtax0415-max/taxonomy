@@ -3,7 +3,7 @@ type: income
 category: business
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Schedule NJK-1 (Form NJ-1065), column A "Distributive Share of Partnership Income" / Schedule PTE-K-1 (BAIT share) / federal Schedule K-1 (Form 1065) plus GIT-9P Reconciliation Worksheet A if no NJK-1
+source_doc: Federal Schedule K-1 (Form 1065) / statement from the partnership showing the partner's New Jersey distributive share and share of BAIT paid
 form: Form NJ-1040
 line: "21"
 via:

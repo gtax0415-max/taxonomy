@@ -3,7 +3,7 @@ type: deduction
 category: business
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Schedule NJK-1 (Form NJ-1065) Part III / Schedule NJ-K-1 (Form CBT-100S) Part V / sole proprietor's own HEZ computation
+source_doc: Practice's statement of the owner's Health Enterprise Zone deduction share (partners and S corporation shareholders) / federal Schedule C (sole proprietors) / records showing the practice is in or within five miles of a designated Health Enterprise Zone
 form: Form NJ-1040
 line: "34"
 via:

@@ -3,7 +3,7 @@ type: refund
 category: gubernatorial-elections-fund
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Taxpayer election
+source_doc: No external source document — taxpayer election on the return
 form: Form NJ-1040
 line: "page 4 (Gubernatorial Elections Fund)"
 ---

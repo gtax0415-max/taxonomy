@@ -3,7 +3,7 @@ type: income
 category: compensation
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form W-2 Box 16 (State wages, Box 15 = NJ) / Box 14 (UI/WF/SWF, DI, FLI) / Box 12 codes D, E, G, EE (retirement deferrals) / Form NJ-2440 (sick pay exclusion) / federal Form 2106 (reimbursed employee expenses)
+source_doc: Form W-2 Boxes 1, 12, 14, 15 and 16 / employer statement of sick pay paid under an accident or health plan / federal Form 2106 and employer reimbursement records
 form: Form NJ-1040
 line: "15"
 via:

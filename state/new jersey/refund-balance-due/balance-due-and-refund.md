@@ -3,7 +3,7 @@ type: refund
 category: refund-balance-due
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form NJ-1040 Lines 54 and 66 / Form NJ-1040-V (payment voucher) / bank account details for direct deposit or e-check
+source_doc: No external source document — computed on the return / bank routing and account numbers (e-check or direct deposit)
 form: Form NJ-1040
 line: "67, 68, 69, 78, 79, 80"
 via:

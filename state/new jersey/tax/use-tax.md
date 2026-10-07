@@ -3,7 +3,7 @@ type: tax
 category: use-tax
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Receipts and invoices for online, mail-order, phone, and out-of-state purchases / sales tax paid to other states / Form ST-18 (if use tax already paid)
+source_doc: Receipts and invoices for online, mail-order, phone and out-of-state purchases / proof of sales tax paid to another state
 form: Form NJ-1040
 line: "51"
 via:

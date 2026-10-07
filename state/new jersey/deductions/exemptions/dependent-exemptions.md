@@ -3,7 +3,7 @@ type: exemption
 category: exemptions
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Dependent SSN / ITIN / ATIN / federal return dependent listing / college enrollment and tuition records
+source_doc: Federal Form 1040 as filed (dependents section) / each dependent's SSN, ITIN or ATIN / college enrollment records and tuition and support records (dependent student exemption)
 form: Form NJ-1040
 line: "10-12, 14"
 via:

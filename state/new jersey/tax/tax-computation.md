@@ -3,7 +3,7 @@ type: tax
 category: tax-computation
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form NJ-1040 Lines 39 and 41 / NJ Tax Table / NJ Tax Rate Schedules
+source_doc: No external source document — computed from New Jersey taxable income
 form: Form NJ-1040
 line: "42, 43, 45, 49, 50, 54"
 via:

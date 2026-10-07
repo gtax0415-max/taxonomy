@@ -3,7 +3,7 @@ type: payment
 category: withholding
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form W-2 Box 17 (Box 15 = NJ) / Form W-2G Box 15 (Box 13 = NJ) / Form 1099-R Box 14 (Box 15 = NJ) / Form 1099-MISC Box 16 (Box 17 = NJ) / Form 1099-NEC Box 5 (Box 6 = NJ)
+source_doc: Form W-2 Box 17 / Form W-2G Box 15 / Form 1099-R Box 14 / Form 1099-MISC Box 16 / Form 1099-NEC Box 5
 form: Form NJ-1040
 line: "55"
 via:

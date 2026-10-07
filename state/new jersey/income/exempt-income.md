@@ -3,7 +3,7 @@ type: income
 category: exempt
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form SSA-1099 / Form RRB-1099 / Form 1099-G (unemployment) / NJ TDI and FLI benefit statements / Form 1099-R (military retirement) / Form 1099-INT Box 3 and Box 8 / Form 1099-DIV fund statements (federal-obligation and NJ-exempt percentages)
+source_doc: Form SSA-1099 / Form RRB-1099 / Form 1099-G (unemployment) / temporary disability and family leave insurance benefit statements / Form 1099-R (military retirement) / Form 1099-INT Box 3 and Box 8 / Form 1099-DIV and fund year-end statements (U.S. obligation and NJ-exempt percentages)
 form: Form NJ-1040
 line: "none (tax-exempt interest only → Line 16b)"
 routing:

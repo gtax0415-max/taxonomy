@@ -3,7 +3,7 @@ type: filing
 category: filing-requirements
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Prior-year NJ-1040 / federal return / residency records (lease, deed, driver's license, voter registration) / federal extension (Form 4868) or Form NJ-630 / Forms 1099-DA and digital asset exchange records
+source_doc: Federal Form 1040 as filed / residency records (lease or deed, driver's license, voter registration) / federal Form 4868 (extension) / Form 1099-DA and digital asset exchange records
 form: Form NJ-1040
 line: "page 1 header"
 routing:

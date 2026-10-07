@@ -3,7 +3,7 @@ type: credit
 category: employer
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form GIT-317 / payroll records (wages) for each qualified person / sheltered workshop placement records / Schedule NJK-1 (partners and multi-member LLC members) / prior-year GIT-317 Part IV Line 13 (carryforward)
+source_doc: Payroll records (wages, weeks and hours worked) for each qualified person / sheltered workshop placement or referral records showing each employee is a qualified person / partnership statement of the partner's share of the credit (partners and multi-member LLC members) / records of unused credit from prior years
 form: Form NJ-1040
 line: "46"
 refundable: no

@@ -3,7 +3,7 @@ type: exclusion
 category: retirement-exclusions
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form NJ-1040 Lines 15, 18, 21, 22, 27, 28a / proof of age / employer statement of non-participation in Social Security (Special Exclusion)
+source_doc: Form W-2, federal Schedule C and federal Schedules K-1 (earned income test) / Forms 1099-INT, 1099-DIV, 1099-B and other income documents / proof of age (birth certificate or driver's license) / employer statement that it does not participate in Social Security or Railroad Retirement (Special Exclusion)
 form: Form NJ-1040
 line: "28b"
 via:

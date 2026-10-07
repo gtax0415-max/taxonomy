@@ -3,7 +3,7 @@ type: income
 category: business
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Schedule NJ-K-1 (Form CBT-100S) / Schedule PTE-K-1 (BAIT share) / federal Schedule K-1 (Form 1120-S) plus GIT-9S Reconciliation Worksheet B (or B-Liquidated) if no NJ-K-1
+source_doc: Federal Schedule K-1 (Form 1120-S) / statement from the S corporation showing the shareholder's New Jersey pro rata share and share of BAIT paid / stock basis records
 form: Form NJ-1040
 line: "22"
 via:

@@ -3,7 +3,7 @@ type: credit
 category: military-veterans
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Practitioner records of counseling hours provided through the Gold Star Family Counseling program / TRICARE reimbursement rate for the service
+source_doc: Practitioner's log of counseling hours provided through the Gold Star Family Counseling program / TRICARE reimbursement rate schedule for each service
 form: Form NJ-1040
 line: "47"
 refundable: no

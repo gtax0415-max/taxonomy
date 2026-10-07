@@ -3,7 +3,7 @@ type: credit
 category: off-return
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Letter of approval from the NJ Department of Labor and Workforce Development (Apprenticeship Start-Up Grant Program)
+source_doc: Letter of approval from the NJ Department of Labor and Workforce Development (Apprenticeship Start-Up Grant Program) / records of apprenticeship start-up costs
 form: Form GIT-330
 line: "none (separate claim)"
 refundable: no

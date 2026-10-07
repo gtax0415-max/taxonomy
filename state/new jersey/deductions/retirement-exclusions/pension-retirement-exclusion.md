@@ -3,7 +3,7 @@ type: exclusion
 category: retirement-exclusions
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form NJ-1040 Line 20a / Line 27 / proof of age / Social Security disability determination
+source_doc: Form 1099-R / proof of age (birth certificate or driver's license) / Social Security Administration disability determination letter (if under 62)
 form: Form NJ-1040
 line: "28a"
 via:

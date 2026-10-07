@@ -3,7 +3,7 @@ type: tax
 category: estimated-tax-interest
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form NJ-2210 / records of 2026 estimated payments and withholding by date / 2025 NJ-1040 (prior-year tax)
+source_doc: Form W-2 and pay stubs (NJ withholding by pay date) / payment confirmations for each 2026 estimated payment with dates / prior-year return (prior-year tax)
 form: Form NJ-1040
 line: "52"
 via:

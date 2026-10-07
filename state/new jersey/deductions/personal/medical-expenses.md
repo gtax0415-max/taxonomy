@@ -3,7 +3,7 @@ type: deduction
 category: personal
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Medical bills and receipts / insurance EOBs / Form 1095 and premium statements / Medicare Part B premium statements (SSA-1099) / federal Form 8853 (Archer MSA) / self-employed health insurance premium records
+source_doc: Medical bills and receipts / insurance explanations of benefits / Forms 1095 and premium statements / Form SSA-1099 (Medicare Part B premiums) / federal Form 8853 (Archer MSA) / self-employed health insurance premium records
 form: Form NJ-1040
 line: "31"
 via:

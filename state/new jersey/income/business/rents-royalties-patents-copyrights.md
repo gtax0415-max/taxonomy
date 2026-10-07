@@ -3,7 +3,7 @@ type: income
 category: business
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Federal Schedule E Part I / Forms 1099-MISC Box 1 (rents) and Box 2 (royalties) / Worksheet GIT-DEP Part I, Lines 4 and 6
+source_doc: Federal Schedule E Part I / Forms 1099-MISC Box 1 (rents) and Box 2 (royalties) / Form 1099-K / federal Form 4562 / rental expense records
 form: Form NJ-1040
 line: "23"
 via:

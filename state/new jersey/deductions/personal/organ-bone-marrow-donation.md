@@ -3,7 +3,7 @@ type: deduction
 category: personal
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Receipts for travel and lodging / employer pay statements showing lost wages / physician letter confirming the transplant
+source_doc: Receipts for travel and lodging / employer pay statements showing lost wages / physician or transplant center letter confirming the transplant
 form: Form NJ-1040
 line: "36"
 via:

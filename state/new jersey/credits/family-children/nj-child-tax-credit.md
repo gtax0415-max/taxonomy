@@ -3,7 +3,7 @@ type: credit
 category: family-children
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Birth certificates / dependent Social Security numbers / Form NJ-1040 Line 14 dependent information / Form NJ-1040 Line 42 (NJ taxable income)
+source_doc: Federal Form 1040 as filed (dependents section) / each child's Social Security card or ITIN / each child's birth certificate
 form: Form NJ-1040
 line: "65"
 refundable: yes

@@ -3,7 +3,7 @@ type: filing
 category: signature
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Driver's license or NJ non-driver ID / death certificate (deceased taxpayer) / Surrogate's Short Certificate (estate) / Form NJ-1040-O
+source_doc: Driver's license or non-driver ID / death certificate (deceased taxpayer) / Surrogate's Short Certificate (estate)
 form: Form NJ-1040
 line: "page 4 signature block"
 ---

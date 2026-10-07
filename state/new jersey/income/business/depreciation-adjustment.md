@@ -3,7 +3,7 @@ type: income-adjustment
 category: business
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Federal Form 4562 / fixed asset records / prior-year Worksheets GIT-DEP
+source_doc: Federal Form 4562 / fixed asset and depreciation records (cost, date placed in service, prior depreciation claimed)
 form: Worksheet GIT-DEP
 line: "feeds NJ-1040 Lines 18, 19, 21, 22, 23"
 via:

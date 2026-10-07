@@ -3,7 +3,7 @@ type: credit
 category: earned-income
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Federal Form 1040 earned income credit line and Schedule EIC / Form W-2 Box 1 and Box 16 / Schedule C net profit / IRS EIC computation notice if the IRS calculated the credit
+source_doc: Federal Form 1040 as filed (earned income credit line) / federal Schedule EIC / Form W-2 Box 1 / federal Schedule C net profit / IRS notice if the IRS computed the earned income credit
 form: Form NJ-1040
 line: "58"
 refundable: yes

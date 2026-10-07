@@ -3,7 +3,7 @@ type: income
 category: investment
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form 1099-DIV Box 1a (ordinary dividends), Box 2a (capital gain distributions → NJ-DOP), Box 3 (return of capital), Box 12 (exempt-interest dividends) / fund year-end NJ-exempt and federal-obligation percentages
+source_doc: Form 1099-DIV Box 1a (ordinary dividends), Box 2a (capital gain distributions), Box 3 (return of capital), Box 12 (exempt-interest dividends) / fund year-end statements (U.S. obligation and NJ-exempt percentages)
 form: Form NJ-1040
 line: "17"
 via:

@@ -3,7 +3,7 @@ type: credit
 category: other-jurisdictions
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Other state's nonresident return (e.g., New York IT-203 "New York State amount") / Form W-2 Boxes 15–20 for other state and local tax / Philadelphia wage tax records / Schedule K-1 state tax detail / payment records for other-jurisdiction tax
+source_doc: Other state's filed nonresident return showing the tax due / Form W-2 Boxes 15–20 (other state and local wages and tax) / Philadelphia wage tax statements / federal Schedule K-1 state tax detail / proof of payment of the other jurisdiction's tax
 form: Form NJ-1040
 line: "44"
 refundable: no

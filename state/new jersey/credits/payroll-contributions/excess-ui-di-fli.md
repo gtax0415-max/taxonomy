@@ -3,7 +3,7 @@ type: credit
 category: payroll-contributions
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form W-2 Box 14 (NJ UI/WF/SWF, DI, and FLI contributions) from each employer
+source_doc: Form W-2 Box 14 (UI/WF/SWF, DI and FLI contributions) from each employer
 form: Form NJ-1040
 line: "59, 60, 61"
 refundable: yes

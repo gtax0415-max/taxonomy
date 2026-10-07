@@ -3,7 +3,7 @@ type: credit
 category: off-return
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: NJ Department of Environmental Protection approval / tax credit certificate from the Division of Taxation / prior-year GIT-337 carryforward
+source_doc: NJ Department of Environmental Protection approval letter / tax credit certificate / records of unused credit from prior years
 form: Form GIT-337
 line: "none (separate claim)"
 refundable: no

@@ -3,7 +3,7 @@ type: income
 category: investment
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form 1099-INT Box 1, Box 3 (U.S. obligations — EXEMPT), Box 8 (tax-exempt, check issuing state), Box 2 (early withdrawal penalty) / Form 1099-OID / Form 1099-Q and 1099-QA (earnings on nonqualified distributions) / grantor trust statements
+source_doc: Form 1099-INT Box 1, Box 2 (early withdrawal penalty), Box 3 (U.S. obligations) and Box 8 (issuing state) / Form 1099-OID / Forms 1099-Q and 1099-QA (nonqualified distributions) / grantor trust statements
 form: Form NJ-1040
 line: "16a"
 via:

@@ -3,7 +3,7 @@ type: credit
 category: military-veterans
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Caregiver approval letter / veteran's VA disability rating and compensation statement (federal disability compensation for the year) / record of care expenses when care is shared
+source_doc: Caregiver approval letter / VA disability rating decision letter and VA statement of the service member's disability compensation for the year / service member's DD-214 showing honorable discharge / records of care expenses when care is shared
 form: Form NJ-1040
 line: "62"
 refundable: yes

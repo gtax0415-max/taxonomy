@@ -3,7 +3,7 @@ type: exemption
 category: exemptions
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Birth certificate or driver's license (age) / physician's certificate or medical records (blindness, total and permanent disability) / DD-214 or other discharge documentation showing character of service (veteran) / NJ Certificate of Domestic Partnership
+source_doc: Birth certificate or driver's license (age) / physician's certificate or medical records (blindness, total and permanent disability) / DD-214 or other discharge document showing character of service (veteran) / Certificate of Domestic Partnership
 form: Form NJ-1040
 line: "6-9"
 via:

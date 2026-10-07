@@ -3,7 +3,7 @@ type: deduction
 category: property-tax
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Municipal property tax bills and receipts / lease and rent receipts / mobile home park site fee receipts / deed (ownership share) / 2026 PAS-1 (Senior Freeze base year amount)
+source_doc: Municipal property tax bills and payment receipts / Form 1098 Box 10 (real estate taxes) / lease and rent receipts / mobile home park site fee receipts / deed (ownership share) / Senior Freeze records showing base-year property taxes
 form: Form NJ-1040
 line: "41"
 via:

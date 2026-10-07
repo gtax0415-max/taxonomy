@@ -3,7 +3,7 @@ type: credit
 category: off-return
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: NJEDA approval / tax credit or credit transfer certificate issued by the Division of Taxation / prior-year GIT-327 carryforward
+source_doc: NJEDA approval letter / tax credit certificate or credit transfer certificate / records of unused credit from prior years
 form: Form GIT-327
 line: "none (separate claim)"
 refundable: no

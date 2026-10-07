@@ -3,7 +3,7 @@ type: credit
 category: pass-through-business
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Schedule PTE-K-1 (owner's share of BAIT paid) / Schedule NJK-1 (partnership) / Schedule NJ-K-1 (S corporation) / Schedule NJK-1 from an estate or trust
+source_doc: Statement from the partnership or S corporation showing the owner's share of the Pass-Through Business Alternative Income Tax paid / federal Schedule K-1 (Form 1065 or Form 1120-S)
 form: Form NJ-1040
 line: "63"
 refundable: yes

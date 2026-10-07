@@ -3,7 +3,7 @@ type: income
 category: other
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Schedule NJK-1 (Form NJ-1041) "Total Distribution" / federal Schedule K-1 (Form 1041) / Forms 1099-MISC (prizes, awards) / Form 1098-T and grant letters / grantor trust statements / decedent income records
+source_doc: Federal Schedule K-1 (Form 1041) and the estate or trust's statement of the New Jersey distribution / Form 1099-MISC Box 3 (prizes and awards) / Form 1098-T and scholarship or grant letters / grantor trust statements / records of income in respect of a decedent
 form: Form NJ-1040
 line: "26"
 via:

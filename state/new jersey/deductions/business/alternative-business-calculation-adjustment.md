@@ -3,7 +3,7 @@ type: deduction
 category: business
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Schedule NJ-BUS-1 Parts I–IV Line 4 (including losses) / Form NJ-1040 Lines 18, 21, 22, 23 / prior-year Schedule NJ-BUS-2 Line 12 (loss carryforward) / NJ gross income (Line 29)
+source_doc: Federal Schedule C, Schedule E and Schedules K-1 (Form 1065 and Form 1120-S) showing each business's income or loss / records of unused business losses from prior years
 form: Form NJ-1040
 line: "35"
 via:

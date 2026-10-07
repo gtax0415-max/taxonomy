@@ -3,7 +3,7 @@ type: income
 category: business
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Federal Schedule C / Schedule F / Forms 1099-NEC, 1099-K, 1099-MISC / Worksheet GIT-DEP Part I, Line 7 / self-employed 401(k) contribution records
+source_doc: Federal Schedule C / federal Schedule F / Forms 1099-NEC, 1099-K and 1099-MISC / federal Form 4562 / self-employed 401(k) plan contribution records
 form: Form NJ-1040
 line: "18"
 via:

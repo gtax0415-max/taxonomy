@@ -3,7 +3,7 @@ type: filing
 category: filing-status
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Federal return filing status / marriage or civil union certificate / spouse's date of death
+source_doc: Federal Form 1040 as filed (filing status) / marriage or civil union certificate / spouse's death certificate
 form: Form NJ-1040
 line: "1-5"
 routing:

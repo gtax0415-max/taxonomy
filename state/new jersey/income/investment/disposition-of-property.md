@@ -3,7 +3,7 @@ type: income
 category: investment
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form 1099-B / Form 1099-DA (digital assets) / Form 1099-S / federal Schedule D and Form 8949 / Form 1099-DIV Box 2a (capital gain distributions) / closing statements / Worksheet GIT-DEP Part I, Line 7 (depreciation adjustment on disposition)
+source_doc: Form 1099-B / Form 1099-DA (digital assets) / Form 1099-S / federal Schedule D and Form 8949 / Form 1099-DIV Box 2a (capital gain distributions) / closing statements / federal Form 4562 and depreciation records
 form: Form NJ-1040
 line: "19"
 via:

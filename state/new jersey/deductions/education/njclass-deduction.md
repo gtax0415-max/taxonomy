@@ -3,7 +3,7 @@ type: deduction
 category: education
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: NJCLASS loan annual statement (principal and interest paid) from HESAA
+source_doc: HESAA NJCLASS loan annual statement (principal and interest paid)
 form: Form NJ-1040
 line: "37b"
 via:

@@ -3,7 +3,7 @@ type: credit
 category: family-children
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Federal Form 2441 (credit for child and dependent care expenses) / care provider statements / Form W-2 Box 10 (dependent care benefits) / Form NJ-1040 Line 42 (NJ taxable income)
+source_doc: Federal Form 2441 as filed / care provider name, EIN or SSN, and amount paid / Form W-2 Box 10 (dependent care benefits)
 form: Form NJ-1040
 line: "64"
 refundable: yes

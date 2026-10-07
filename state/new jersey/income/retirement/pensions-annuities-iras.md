@@ -3,7 +3,7 @@ type: income
 category: retirement
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form 1099-R (Box 1 gross distribution, Box 2a federal taxable amount, Box 7 codes) / plan records of employee contributions / IRA contribution history / prior-year NJ Worksheets B and C / Form 5498
+source_doc: Form 1099-R (Box 1, Box 2a, Box 7) / Form 5498 / plan statement of employee after-tax contributions / IRA contribution history and records of prior withdrawals / federal Form 8606
 form: Form NJ-1040
 line: "20a, 20b"
 via:

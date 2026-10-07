@@ -3,7 +3,7 @@ type: income
 category: other
 jurisdiction: new-jersey
 tax_year: 2026
-source_doc: Form W-2G (Box 1 winnings, Box 15 NJ withholding) / casino win-loss statements / wagering logs / losing tickets
+source_doc: Form W-2G (Box 1 winnings) / casino win-loss statements / wagering logs / losing tickets
 form: Form NJ-1040
 line: "24"
 via:
