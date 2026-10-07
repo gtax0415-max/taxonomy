@@ -3,8 +3,7 @@ type: credit
 category: personal
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 Schedule 1 (page 4) and Form 1 instructions line 13; Schedule I Part II; Wisconsin Tax Bulletin 234 (2026 conformity)"
-source_doc: Federal Schedule A (or a pro forma Schedule A marked "Wisconsin" if not itemizing federally) / Schedule I Part II / Schedule SB lines 6-7 / Schedule 5K-1, 3K-1
+source_doc: Medical and dental receipts, Form 1095-A/B/C and premium statements / Form 1098 Box 1 (mortgage interest, Wisconsin home) / charitable contribution receipts and acknowledgments / receipts for casualty losses to a Wisconsin home / union and professional dues statements / child and dependent care receipts (portion not used for WI-2441)
 form: Wisconsin Form 1
 line: "13"
 refundable: no

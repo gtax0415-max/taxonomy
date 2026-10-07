@@ -3,8 +3,7 @@ type: credit
 category: property-tax-relief
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 line 34 and Form 1 instructions (Worksheets 1-2)"
-source_doc: Wisconsin Department of Veterans Affairs certification / property tax bill and payment dates / rental agreement and proof of payment if renter pays taxes
+source_doc: Wisconsin Department of Veterans Affairs certification of eligibility (WDVA Form 2007) / 2026 property tax bill and proof of payment / rental agreement and proof of payment if a renter pays the property taxes
 form: Wisconsin Form 1
 line: "34"
 refundable: yes

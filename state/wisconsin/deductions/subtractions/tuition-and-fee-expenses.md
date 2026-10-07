@@ -3,8 +3,7 @@ type: subtraction
 category: subtractions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule SB line 8; Schedule M instructions (R. 10-25) line 42 worksheet; DOR College Tuition FAQ"
-source_doc: Form 1098-T / tuition and mandatory fee statements / scholarship and employer reimbursement records
+source_doc: Form 1098-T Box 1 (payments received) and Box 5 (scholarships or grants) / tuition and mandatory fee statements / employer reimbursement records
 form: Wisconsin Form 1
 line: "6"
 via:

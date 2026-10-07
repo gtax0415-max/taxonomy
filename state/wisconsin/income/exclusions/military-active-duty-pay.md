@@ -3,8 +3,7 @@ type: income-exclusion
 category: exclusions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule SB lines 18-19; Schedule M instructions (R. 10-25) lines 52-53; Wisconsin Tax Bulletin 234"
-source_doc: Form W-2 / Leave and Earnings Statements / military orders / DD Form 1300
+source_doc: Form W-2 Box 1 / Leave and Earnings Statements / military orders
 form: Wisconsin Form 1
 line: "6"
 via:

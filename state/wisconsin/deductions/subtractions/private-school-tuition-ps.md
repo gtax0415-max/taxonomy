@@ -3,8 +3,7 @@ type: subtraction
 category: subtractions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule PS, I-094 (R. 05-25) with instructions; DOR Private School Tuition FAQ"
-source_doc: School tuition statements / school name, address, FEIN / child's SSN and grade
+source_doc: Private school tuition statements (school name, address, FEIN, amount paid) / child's name, SSN, and grade
 form: Wisconsin Form 1
 line: "6"
 via:

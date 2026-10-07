@@ -3,8 +3,7 @@ type: credit
 category: research-and-venture-capital
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule R, IC-031 (R. 8-25); instructions IC-131 (R. 12/25) — 2025 revision; confirm 2026 revision"
-source_doc: Wisconsin research wage records (W-2), supply and computer rental invoices, contract research agreements / prior three years' Wisconsin QREs / Wisconsin Schedule 3K-1, 5K-1, 2K-1
+source_doc: Payroll records for Wisconsin research employees (Form W-2 Box 1) / invoices for research supplies and computer rental / contract research agreements and invoices / prior three years' Wisconsin qualified research expense records / Wisconsin Schedule 2K-1, 3K-1, or 5K-1 (pass-through credit)
 form: Wisconsin Form 1
 line: "19 (nonrefundable) and 35 (refundable portion)"
 refundable: partial (up to 25% of current-year credit)

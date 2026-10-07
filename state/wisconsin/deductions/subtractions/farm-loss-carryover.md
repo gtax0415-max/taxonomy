@@ -3,8 +3,7 @@ type: subtraction
 category: subtractions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule SB line 24; Schedule M instructions (R. 10-25) line 58"
-source_doc: 2007-2013 Wisconsin returns showing disallowed farm losses / current-year Schedule F and Form 4797
+source_doc: 2007-2013 Wisconsin returns showing farm losses added back / current-year farm income records (Schedule F, Form 4797)
 form: Wisconsin Form 1
 line: "6"
 via:

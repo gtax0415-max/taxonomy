@@ -3,8 +3,7 @@ type: income-adjustment
 category: pass-through
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule T, I-019 (R. 5-25) and instructions I-119 (R. 11-25); Schedule AD line 10; Schedule SB line 39; Schedule M lines 10 and 72"
-source_doc: Federal and Wisconsin basis records / depreciation schedules / Schedule CG (deferred gains) / like-kind exchange records / Wisconsin K-1s / recomputed "Wisconsin" Form 4797
+source_doc: Federal and Wisconsin basis and depreciation records for each asset / like-kind exchange documents / Schedule K-1 and Wisconsin 2K-1, 3K-1, 5K-1 / closing statement or bill of sale for assets sold
 form: Wisconsin Form 1
 line: "4 or 6 (and Schedule WD lines 6, 15)"
 via:

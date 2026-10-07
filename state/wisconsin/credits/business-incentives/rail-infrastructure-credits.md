@@ -3,9 +3,7 @@ type: credit
 category: business-incentives
 jurisdiction: wisconsin
 tax_year: 2026
-status: NEW for 2026 (taxable years beginning after December 31, 2025 and before January 1, 2031)
-form_basis: "2025 Wis. Act 242 (secs. 71.07(8t), (8v)); Wisconsin Tax Bulletin 233 (April 2026)"
-source_doc: WEDC certification and verification / capital and maintenance expenditure records / track mileage on December 31
+source_doc: WEDC certification and verification of the credit amount / invoices for rail infrastructure capital and maintenance expenditures / railroad track-mileage records as of December 31 / Wisconsin Schedule 3K-1 or 5K-1 (pass-through credit)
 form: Wisconsin Form 1
 line: "TBD — expected on Schedule CR (nonrefundable)"
 refundable: no
@@ -13,6 +11,7 @@ carryforward: 5 years
 transferable: yes
 ---
 # Rail Infrastructure Modernization and Maintenance Credits (NEW 2026)
+**Status:** NEW for 2026 (taxable years beginning after December 31, 2025 and before January 1, 2031)
 ## Modernization credit
 - WEDC-certified class II or III railroads in Wisconsin, owners/lessees of a rail siding, spur, or industry track, and local governments
 - 50% of qualified new rail infrastructure capital expenditures in Wisconsin placed in service after December 31, 2025 (right of way, engineering, new track, reactivating inactive track, loading docks, transload structures)

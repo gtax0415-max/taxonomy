@@ -3,8 +3,7 @@ type: income-adjustment
 category: pass-through
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule AD line 12; Schedule SB line 41; Schedule M lines 12 and 74 (R. 10-25); Publication 109 / 113"
-source_doc: Both spouses' income records / marital property agreements / divorce or separate maintenance decree
+source_doc: Both spouses' Form W-2, 1099, and K-1 income records / marital property agreement or unilateral statement / divorce or separate maintenance decree
 form: Wisconsin Form 1
 line: "4 or 6"
 via:

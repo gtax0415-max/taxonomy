@@ -3,8 +3,7 @@ type: credit
 category: property-tax-relief
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule H I-016i, Schedule H-EZ I-015i, instructions I-016a and I-0151 (R. 9-25), Rent Certificate I-017i — all 2025 revisions; 2026 dollar figures not yet published"
-source_doc: Rent Certificate (Line 8a rent for occupancy, Line 8b heat included, Line 3c mobile home fees) or Shared Living Expenses Schedule Line 7 / 2026 property tax bill / W-2 Box 1 and Box 12 / SSA-1099 and SSI statements / 1099-R / 1099-G / child support and public assistance records
+source_doc: Rent Certificate signed by the landlord (rent paid, heat included) or 2026 property tax bill / Form W-2 Box 1 and Box 12 / Form SSA-1099 Box 5 and SSI statements / Form 1099-R Box 1 / Form 1099-G Box 1 / Form 1099-INT, 1099-DIV / child support, W-2 program, and public assistance statements / physician's or Veterans Administration statement of disability (if under 62)
 form: Wisconsin Form 1
 line: "33"
 refundable: yes

@@ -3,8 +3,7 @@ type: filing-status
 category: filing-status
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 (page 1 filing status) and Form 1 instructions (I-111), Filing Status"
-source_doc: Spouse's name and SSN / marital property agreement or unilateral statement (if any) / both spouses' income records
+source_doc: Spouse's name and SSN / marital property agreement or unilateral statement, if any / both spouses' Form W-2, 1099, and K-1 income records
 form: Wisconsin Form 1
 line: "Filing status (page 1)"
 ---

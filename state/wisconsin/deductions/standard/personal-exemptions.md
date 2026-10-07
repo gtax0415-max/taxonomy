@@ -3,8 +3,7 @@ type: deduction
 category: standard
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2026 Form 1-ES Instructions (R. 1-26); 2025 Form 1 instructions line 10"
-source_doc: Federal Form 1040 dependents section / ages of taxpayer and spouse
+source_doc: Taxpayer's, spouse's, and dependents' names, SSNs, and dates of birth
 form: Wisconsin Form 1
 line: "10a-10c"
 via:

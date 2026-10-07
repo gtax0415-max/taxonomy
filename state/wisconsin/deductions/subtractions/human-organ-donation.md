@@ -3,8 +3,7 @@ type: subtraction
 category: subtractions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule SB line 31; Schedule M instructions (R. 10-25) line 65"
-source_doc: Receipts for travel and lodging / employer records of lost wages / transplant date documentation
+source_doc: Receipts for travel and lodging / employer records of lost wages / hospital documentation of the transplant date
 form: Wisconsin Form 1
 line: "6"
 via:

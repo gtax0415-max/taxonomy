@@ -3,8 +3,7 @@ type: subtraction
 category: subtractions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule SB lines 10-11; Schedule M lines 44-45 (R. 10-25); Schedule CS; DFI Wisconsin 529 program (2026 limit)"
-source_doc: Edvest / Tomorrow's Scholar contribution statements / Form 1099-Q / rollover documentation
+source_doc: Edvest or Tomorrow's Scholar contribution statements (beneficiary, amount, date) / Form 1099-Q Boxes 1-3 / rollover documentation
 form: Wisconsin Form 1
 line: "6"
 via:

@@ -3,7 +3,7 @@ type: credit
 category: personal
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 line 17 and Form 1 instructions"
+source_doc: No source document — DOR instructs filers to leave this line blank
 form: Wisconsin Form 1
 line: "17"
 refundable: no

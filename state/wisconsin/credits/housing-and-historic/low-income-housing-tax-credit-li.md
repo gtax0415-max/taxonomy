@@ -3,8 +3,7 @@ type: credit
 category: housing-and-historic
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule LI, IC-833 (R. 9-25); instructions IC-1833 (R 12/25) — 2025 revision; confirm 2026 revision"
-source_doc: WHEDA allocation certificate / Wisconsin Schedule 3K-1, 5K-1, 2K-1 / partnership written allocation agreement
+source_doc: WHEDA allocation certificate / written partnership allocation agreement / Wisconsin Schedule 2K-1, 3K-1, or 5K-1 (pass-through credit)
 form: Wisconsin Form 1
 line: "19"
 refundable: no

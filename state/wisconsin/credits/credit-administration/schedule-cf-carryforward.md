@@ -3,8 +3,7 @@ type: schedule
 category: credit-administration
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule CF, I-047 (R. 05-25); instructions I-147 (R. 11-25) — 2025 revision; years rolled forward for 2026"
-source_doc: Prior-year Schedule CF / prior-year Schedule CR Column B / credit schedules and K-1s for each computation year / transfer documents
+source_doc: Prior-year Wisconsin return showing unused credits (credit schedules and Schedule CR) / Wisconsin Schedule 2K-1, 3K-1, or 5K-1 for each year a pass-through credit arose / DOR transfer approval notices for purchased credits
 form: Wisconsin Schedule CR
 line: "Column A and B of the matching Schedule CR line"
 carryforward: 15 years

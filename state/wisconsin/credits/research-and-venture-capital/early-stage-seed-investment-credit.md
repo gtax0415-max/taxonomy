@@ -3,8 +3,7 @@ type: credit
 category: research-and-venture-capital
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule VC, IC-039 (R. 7-25), Parts II and III; instructions IC-139 (R. 10-25) — confirm 2026 revision"
-source_doc: WEDC certification of the fund manager and the business / fund manager statement (dates, amounts invested in each QNBV, credit amount) / Wisconsin Schedule 5K-1, 3K-1, 2K-1
+source_doc: WEDC certification of the fund manager / fund manager statement (investment dates, amounts invested in each qualified new business venture, credit amount) / Wisconsin Schedule 2K-1, 3K-1, or 5K-1 (pass-through credit)
 form: Wisconsin Form 1
 line: "19"
 refundable: no

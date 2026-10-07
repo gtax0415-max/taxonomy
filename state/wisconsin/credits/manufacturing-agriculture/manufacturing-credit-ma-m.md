@@ -3,8 +3,7 @@ type: credit
 category: manufacturing-agriculture
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule MA-M, IC-016 (R. 7-25); instructions IC-116 (R. 10-25) — 2025 revision; confirm 2026 revision"
-source_doc: DOR Business Activity Roll account number (personal property) / DOR Notice of Real Property Assessment parcel number / cost accounting records (production gross receipts, COGS, direct and indirect costs) / fixed-asset records at original cost / Wisconsin Schedule 3K-1, 5K-1, 2K-1
+source_doc: DOR manufacturing property assessment notices (personal property account numbers and real property parcel numbers) / cost accounting records (production gross receipts, cost of goods sold, direct and indirect costs) / fixed-asset records at original cost / Wisconsin Schedule 2K-1, 3K-1, or 5K-1 (pass-through credit)
 form: Wisconsin Form 1
 line: "19"
 refundable: no

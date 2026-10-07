@@ -3,8 +3,7 @@ type: subtraction
 category: retirement
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule SB lines 12-17 (I-0103, R. 08-25); Schedule M instructions (R. 10-25) lines 46-51; 2025 Wis. Act 15; Wisconsin Tax Bulletin 230"
-source_doc: Form 1099-R (Boxes 2a, 7) / RRB-1099 and RRB-1099-R / DFAS, OPM, ETF statements / ages of taxpayer and spouse
+source_doc: Form 1099-R Boxes 1, 2a, 7 / Form RRB-1099 and RRB-1099-R / Form CSA 1099-R (OPM), DFAS Form 1099-R (military retirement), ETF Form 1099-R (Wisconsin Retirement System) / dates of birth of taxpayer and spouse
 form: Wisconsin Form 1
 line: "6"
 via:

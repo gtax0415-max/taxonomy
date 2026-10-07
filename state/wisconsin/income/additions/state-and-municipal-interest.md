@@ -3,8 +3,7 @@ type: income-addition
 category: additions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule AD instructions I-0102 (R. 10-25), line 1; Schedule M instructions I-1053 (R. 10-25), line 1"
-source_doc: Form 1099-INT Box 8 / 1099-DIV Box 12 (exempt-interest dividends) / federal Form 1040, line 2a / mutual fund state-by-state breakdown
+source_doc: Form 1099-INT Box 8 (tax-exempt interest) and Box 9 / Form 1099-DIV Box 12 (exempt-interest dividends) / mutual fund state-by-state tax-exempt income statement / Wisconsin Schedule 2K-1, 3K-1, or 5K-1
 form: Wisconsin Form 1
 line: "4"
 via:

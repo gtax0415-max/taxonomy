@@ -3,8 +3,7 @@ type: income-exclusion
 category: exclusions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule SB line 3; Schedule M instructions (R. 10-25) line 37 worksheets"
-source_doc: Form 1099-G Box 1 / federal Schedule 1, line 7
+source_doc: Form 1099-G Box 1 (unemployment compensation) / Form W-2 and other gross income records (partial exclusion computation)
 form: Wisconsin Form 1
 line: "6"
 via:

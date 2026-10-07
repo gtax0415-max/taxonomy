@@ -3,8 +3,7 @@ type: administration
 category: administration
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Form 804, I-804 (R. 9-21); 2025 Form 1 instructions (Death of a Taxpayer)"
-source_doc: Death certificate or government notice of death (keep, do not attach) / domiciliary letter for a court-appointed personal representative
+source_doc: Death certificate or government notice of death (keep, do not attach) / domiciliary letter or court appointment of the personal representative
 form: Wisconsin Form 804
 ---
 # Claim for Decedent's Wisconsin Refund (Form 804)

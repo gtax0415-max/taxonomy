@@ -3,8 +3,7 @@ type: income-adjustment
 category: pass-through
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule RT, IC-075 (R. 8-25) and instructions IC-175 (R. 9/25); Schedule RT-1, IC-076 (R. 8-25) and instructions IC-176 (R. 9/25); Schedule AD line 8; SB lines 32-33; Schedule M lines 8, 66-67"
-source_doc: General ledger of interest, rent, management fees, and intangible expenses paid to related parties / payee tax information / Schedule RT-1 from payer
+source_doc: General ledger of interest, rent, management fees, and intangible expenses paid to related parties / related payee's tax information / Schedule RT-1 from the payer
 form: Wisconsin Form 1
 line: "4 and 6"
 via:

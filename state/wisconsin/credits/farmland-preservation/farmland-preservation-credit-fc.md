@@ -3,8 +3,7 @@ type: credit
 category: farmland-preservation
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule FC, I-025 (R. 7-25); instructions I-126 (R. 11-25) — 2025 revision; confirm 2026 revision"
-source_doc: 2026 property tax bills (signed treasurer printouts acceptable) / DATCP farmland preservation agreement (5-digit agreement number) / Wisconsin Form 1 Line 7 income / ownership documents (deed, closing statement, 3K-1, 5K-1)
+source_doc: 2026 property tax bills or treasurer-signed printouts / executed farmland preservation agreement (5-digit agreement number) and any transfer statement / closing statement and deed if land was bought or sold / document showing ownership percentage (deed, Wisconsin Schedule 3K-1 or 5K-1) / county treasurer statement if prior-year property taxes are unpaid
 form: Wisconsin Form 1
 line: "31a"
 refundable: yes

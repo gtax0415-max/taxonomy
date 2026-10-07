@@ -3,8 +3,7 @@ type: income-addition
 category: additions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule AD instructions (R. 10-25) lines 3-4; Schedule M instructions lines 3-4; Schedule CS"
-source_doc: Form 1099-Q / Edvest or Tomorrow's Scholar statements / Form 1099-QA (ABLE) / prior-year Schedule CS
+source_doc: Form 1099-Q Boxes 1-3 and Box 4 (trustee-to-trustee transfer) / Edvest or Tomorrow's Scholar account statements / Form 1099-QA Boxes 1-3 (ABLE) / records of prior-year Wisconsin contribution subtractions
 form: Wisconsin Form 1
 line: "4"
 via:

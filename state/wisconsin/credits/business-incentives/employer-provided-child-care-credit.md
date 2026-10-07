@@ -3,15 +3,14 @@ type: credit
 category: business-incentives
 jurisdiction: wisconsin
 tax_year: 2026
-status: NEW for 2026 — schedule not yet published
-form_basis: "2025 Wis. Act 183 (secs. 71.07(8s), 71.10(4)(cu)); Wisconsin Tax Bulletin 233 (April 2026)"
-source_doc: Federal Form 8882 (IRC 45F employer-provided child care credit) / facility location and service records / Schedule 3K-1 or 5K-1
+source_doc: Child care facility acquisition, construction, and operating cost records / payments to licensed child care providers and resource-and-referral contracts / Wisconsin Schedule 3K-1 or 5K-1 (pass-through credit)
 form: Wisconsin Form 1
 line: "TBD — expected on Schedule CR (nonrefundable)"
 refundable: no
 carryforward: 15 years
 ---
 # Wisconsin Employer-Provided Child Care Credit (NEW 2026)
+**Status:** NEW for 2026 — schedule not yet published
 ## Description
 Nonrefundable Wisconsin credit equal to the federal employer-provided child care credit (IRC 45F, as in effect for federal purposes on April 5, 2026) claimed on the federal return, for taxable years beginning after December 31, 2025.
 ## Rules

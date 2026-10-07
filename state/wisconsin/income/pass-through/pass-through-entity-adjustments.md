@@ -3,8 +3,7 @@ type: income-adjustment
 category: pass-through
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule AD instructions (R. 10-25) lines 28-31; Schedule SB lines 42-48; Schedule M instructions (R. 10-25) lines 29-32, 76-82"
-source_doc: Wisconsin Schedule 5K-1 (Part II Item B boxes 3-4), 3K-1 (Part C boxes 3-4), 2K-1 (Part II Box D) and supplemental statements / federal Schedule E
+source_doc: Wisconsin Schedule 5K-1 (Part II Item B boxes 3-4), 3K-1 (Part C boxes 3-4), 2K-1 (Part II Box D) and supplemental statements / federal Schedule K-1 (Form 1065, 1120-S, 1041)
 form: Wisconsin Form 1
 line: "4 and 6"
 via:

@@ -3,8 +3,7 @@ type: credit
 category: business-incentives
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule EIT, IC-834 (R. 8-25); instructions IC-1834 (R 12/25) — 2025 revision; confirm 2026 revision"
-source_doc: WEDC certification/verification of the zone payroll credit and capital expenditure credit / Wisconsin Schedule 3K-1, 5K-1, or 2K-1
+source_doc: WEDC certification and verification of the zone payroll credit and capital expenditure credit / payroll records for zone employees (Form W-2 Box 1) / capital expenditure invoices / Wisconsin Schedule 2K-1, 3K-1, or 5K-1 (pass-through credit)
 form: Wisconsin Form 1
 line: "35"
 refundable: yes

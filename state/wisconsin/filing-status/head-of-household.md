@@ -3,8 +3,7 @@ type: filing-status
 category: filing-status
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 (page 1 filing status) and Form 1 instructions (I-111), Filing Status"
-source_doc: Federal Form 1040 filing status / household cost records / qualifying person's relationship and residency / spouse's name and SSN (married HOH)
+source_doc: Marital status on December 31, 2026 / household cost records (rent, mortgage, utilities, food) / qualifying person's name, SSN, relationship, and residency records / spouse's name and SSN (married filing as head of household)
 form: Wisconsin Form 1
 line: "Filing status (page 1)"
 ---

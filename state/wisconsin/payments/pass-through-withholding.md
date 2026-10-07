@@ -3,8 +3,7 @@ type: payment
 category: payments
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 instructions (I-111), line 28; 2025 Wis. Act 137 (Wisconsin Tax Bulletin 233)"
-source_doc: Wisconsin Schedule 2K-1, 3K-1, or 5K-1 / Form PW-1 statements from the entity
+source_doc: Wisconsin Schedule 2K-1, 3K-1, or 5K-1 (withholding on the owner's share of income) / Form PW-1 withholding statements from the entity
 form: Wisconsin Form 1
 line: "28"
 via:

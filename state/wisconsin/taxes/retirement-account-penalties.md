@@ -3,8 +3,7 @@ type: other-tax
 category: taxes
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 (line 25) and Form 1 instructions (I-111)"
-source_doc: Form 1099-R / Form 1099-SA / federal Schedule 2 line 8 / Forms 5329, 5330, 8853, 8889
+source_doc: Form 1099-R Box 1, 2a, 7 (distribution code) / Form 1099-SA Boxes 1, 3 / Form 5498 and 5498-SA (excess contributions)
 form: Wisconsin Form 1
 line: "25"
 via:

@@ -3,8 +3,7 @@ type: administration
 category: administration
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 instructions (I-111): How to Get an Extension, Filing Your Return, Where to File, Special Conditions, Rounding, Period Covered"
-source_doc: Federal Form 4868 or extension statement / Form 1-ES extension payment / records supporting special conditions
+source_doc: Federal Form 4868 or federal extension approval / Form 1-ES extension payment confirmation / records supporting special conditions (disaster area, combat zone orders)
 form: Wisconsin Form 1
 ---
 # Filing Deadlines, Extensions, Special Conditions, and How to File

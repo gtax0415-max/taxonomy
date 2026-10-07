@@ -3,9 +3,7 @@ type: credit
 category: business-incentives
 jurisdiction: wisconsin
 tax_year: 2026
-status: NEW for 2026 — schedule and line not yet published by DOR
-form_basis: "2025 Wis. Act 15; Wisconsin Tax Bulletin 230 (July 2025). No DOR schedule in the source set"
-source_doc: State Film Office written certification of expenses to establish a film production company / purchase and construction records
+source_doc: State Film Office written certification of the film production company / invoices and closing documents for depreciable property purchased or built in Wisconsin / Wisconsin Schedule 3K-1 or 5K-1 (pass-through credit)
 form: Wisconsin Form 1
 line: "TBD — expected on Schedule CR, nonrefundable section"
 refundable: no
@@ -14,6 +12,7 @@ via:
   - New schedule (TBD) → Schedule CR (nonrefundable) → Form 1, Line 19 (2025 numbering)
 ---
 # Film Production Company Investment Credit (NEW 2026)
+**Status:** NEW for 2026 — schedule and line not yet published by DOR
 ## Description
 New nonrefundable credit from 2025 Wis. Act 15 for establishing a film production company in Wisconsin. Available for the first THREE taxable years the claimant does business in Wisconsin as a film production company. Effective for tax years beginning after December 31, 2025.
 ## How it works

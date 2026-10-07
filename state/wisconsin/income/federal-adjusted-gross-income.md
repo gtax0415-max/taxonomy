@@ -3,8 +3,7 @@ type: income
 category: income
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 (lines 1-7) and Form 1 instructions (I-111)"
-source_doc: Federal Form 1040 (line 11) / Forms W-2 (Box 1) / Wisconsin Schedules I, AD, SB
+source_doc: Form W-2 Box 1 / Forms 1099-INT, 1099-DIV, 1099-B, 1099-R, 1099-G, 1099-NEC, 1099-MISC, SSA-1099 / Schedule K-1 / records of adjustments to income (IRA contributions on Form 5498, Form 1098-E student loan interest, HSA contributions on Form 5498-SA)
 form: Wisconsin Form 1
 line: "1-7"
 via:

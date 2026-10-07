@@ -3,8 +3,7 @@ type: credit
 category: business-incentives
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule EC, IC-067 (R. 8-25) — 2025 revision; confirm 2026 revision"
-source_doc: WEDC certification/verification of the credit amount / Wisconsin Schedule 3K-1, 5K-1, or 2K-1 (pass-through amount)
+source_doc: WEDC certification and verification of the credit amount (enterprise zone contract) / payroll records for zone employees (Form W-2 Box 1), training, and capital investment records / Wisconsin Schedule 2K-1, 3K-1, or 5K-1 (pass-through credit)
 form: Wisconsin Form 1
 line: "35"
 refundable: yes

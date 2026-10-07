@@ -3,8 +3,7 @@ type: credit
 category: property-tax-relief
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 line 16 and Form 1 instructions (renter's and homeowner's tables)"
-source_doc: Rent receipts or lease (heat included or not) / 2026 property tax bill and payment dates / closing statement if bought or sold
+source_doc: Rent receipts or lease showing rent paid and whether heat is included / 2026 property tax bill and proof of payment / closing statement if the home was bought or sold
 form: Wisconsin Form 1
 line: "16a, 16b"
 refundable: no

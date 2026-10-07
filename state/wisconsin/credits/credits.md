@@ -36,7 +36,7 @@ Every Wisconsin schedule in the source set is the 2025 revision (Wisconsin DOR d
   - Research Credits (research-credits-r.md) — Schedule R → Schedule CR, Lines 17 and 39. Up to 25% refundable
   - Angel Investment Credit (angel-investment-credit.md) — Schedule VC Part I → Schedule CR, Line 31. Individuals only, transferable
   - Early Stage Seed Investment Credit (early-stage-seed-investment-credit.md) — Schedule VC Part II → Schedule CR, Line 30. Transferable
-- family-and-dependent-care/
+- family-dependent/
   - Credit for Stillborn Child (stillborn-child-credit.md) — NEW 2026 (Act 241). $2,000 joint / $1,000 per parent. Nonrefundable
   - Additional Child and Dependent Care Credit (additional-child-dependent-care-credit-wi-2441.md) — Schedule WI-2441 → Form 1, Line 14. Nonrefundable
 - multistate/
@@ -56,7 +56,7 @@ Every Wisconsin schedule in the source set is the 2025 revision (Wisconsin DOR d
 - credit-administration/
   - Schedule CR, Other Credits (schedule-cr-other-credits.md) — the routing hub for business credits
   - Schedule CF, Carryforward of Unused Credits (schedule-cf-carryforward.md)
-  - Schedule I, Federal-to-Wisconsin Conformity (schedule-i-federal-conformity.md) — feeds the Wisconsin EIC and itemized deduction credit
+  - Schedule I, Federal-to-Wisconsin Conformity (../income/schedule-i-federal-adjustments.md) — feeds the Wisconsin EIC and itemized deduction credit
 ## Wisconsin concepts that have no federal equivalent
 - CREDIT IS INCOME. Most Wisconsin business credits (EC, BD, EIT, CM, farmland preservation) must be reported as income on the Wisconsin return for the year computed — even if the credit is carried forward rather than used. EXCEPTION: manufacturing and agriculture credits are income on the return for the year AFTER they are computed (the 2025 M&A credit is income on the 2026 return)
 - BUSINESS INCOME LIMITATION. Individual M&A credits can only offset Wisconsin tax on the income of the business that generated them
@@ -68,8 +68,9 @@ Every Wisconsin schedule in the source set is the 2025 revision (Wisconsin DOR d
 ## Related taxonomy
 - Income (additions, exclusions, capital gains, pass-through adjustments): ../income/income.md
 - Deductions (standard deduction, exemptions, subtractions, retirement, NOL): ../deductions/deductions.md
-- Administration (Form 9b, Form 804, Form C): ../administration/administration.md
-- Tax computation, Schedule U, use tax, penalties, Form 1 line map: ../tax/tax.md
+- Filing (status, residency, special conditions, amended returns, signatures, Form 804): ../filing-status/filing-status.md
+- Other taxes (use tax, retirement-plan penalty, other penalties): ../taxes/taxes.md
+- Payments (withholding, estimates, refund, underpayment interest, donations): ../payments/payments.md
 ## 2026 law changes reflected (Wisconsin Tax Bulletins 232-234)
 - New credits: stillborn child, employer-provided child care, rail infrastructure (2026); film credits (Act 15) clarified by Act 174
 - Research credit carryforward extended to 50 years (Act 220); low-income housing bond-financing requirement removed (Act 236); historic supplement: $50,000 substantial-rehabilitation test and 15-year parcel cap (Act 238); enterprise zone expanded to one aviation biofuel business (Act 164); business development credit covers third-party workforce housing/child care contributions (WTB 232)

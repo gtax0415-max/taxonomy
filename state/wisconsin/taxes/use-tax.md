@@ -3,8 +3,7 @@ type: other-tax
 category: taxes
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 (line 23) and Form 1 instructions (I-111), Sales and Use Tax worksheet and rate chart; DOR County and City Sales and Use Taxes FAQ (laws as of February 11, 2026)"
-source_doc: Receipts and order confirmations for internet, mail-order, catalog, out-of-state, and foreign purchases on which no Wisconsin sales or use tax was charged; credit card statements
+source_doc: Receipts and order confirmations for internet, mail-order, catalog, out-of-state, and foreign purchases on which no Wisconsin sales or use tax was charged / credit card statements
 form: Wisconsin Form 1
 line: "23"
 via:

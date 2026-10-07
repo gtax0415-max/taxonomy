@@ -3,8 +3,7 @@ type: subtraction
 category: subtractions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Form SPL-01 (R. 12-25) model form; Schedule SB instructions (I-0104, R. 10-25) line 34"
-source_doc: Legislative session and committee day records / W-2 (per diem included as wages; Box 12 code L) / residence distance from the Capitol
+source_doc: Form W-2 Box 1 (per diem included in wages) / legislative session and committee attendance records / Form SPL-01
 form: Wisconsin Form 1
 line: "6 (SB line 34) — or federal deduction via the 162(h) election"
 via:

@@ -3,8 +3,7 @@ type: credit
 category: family-dependent
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule WI-2441, I-244 (R. 10-25); instructions I-1244 (R. 11-25) — 2025 revision; confirm 2026 revision"
-source_doc: Federal Form 2441 (Part III lines 24-25 dependent care benefits; earned income) / W-2 Box 10 / provider Form W-10 (name, address, SSN/EIN) / care receipts / federal Form 1040 Line 11
+source_doc: Care provider statements or receipts (provider name, address, SSN/EIN — Form W-10) / Form W-2 Box 10 (dependent care benefits) / qualifying persons' names and SSNs / records of 2025 care expenses paid in 2026
 form: Wisconsin Form 1
 line: "14"
 refundable: no

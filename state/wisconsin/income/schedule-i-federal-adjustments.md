@@ -3,8 +3,7 @@ type: schedule
 category: income
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule I, I-028 (R. 05-25); instructions I-128 (R. 12-25) — 2025 revision; 2026 conformity date to be confirmed"
-source_doc: Federal Form 1040 and schedules / federal depreciation and Section 179 records / federal credit computations (e.g., EIC worksheet) / Wisconsin Schedules 2K-1, 3K-1, 5K-1
+source_doc: Form W-2, 1099, and K-1 income records / depreciation and Section 179 records (federal and Wisconsin) / Form 1098-E, 5498, 5498-SA (adjustments to income) / Wisconsin Schedule 2K-1, 3K-1, or 5K-1
 form: Wisconsin Form 1
 line: "2 (FAGI adjustment); 30 (federal EIC used for Wisconsin EIC)"
 via:

@@ -3,8 +3,7 @@ type: income-addition
 category: additions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule AD instructions (R. 10-25) lines 6, 7, 9, 32; Schedule M lines 6, 7, 9, 26, 33"
-source_doc: Federal Form 4972 / Form 8621 / business moving expense records / federal Schedule 1
+source_doc: Form 1099-R Box 1 and Box 3 (lump-sum distribution) / Form 1099-DIV and PFIC statements / business moving expense records / Wisconsin Schedule 2K-1, 3K-1, or 5K-1
 form: Wisconsin Form 1
 line: "4"
 via:
@@ -22,6 +21,6 @@ Any federal deduction not allowed for Wisconsin, e.g., a passive activity loss i
 ## Form 1NPR only
 Schedule M line 26: other income from federal Schedule 1, line 9, received while a resident or from Wisconsin sources (exclude any federal NOL shown as a negative).
 ## Note — federal-law differences go on Schedule I, not here
-Bonus depreciation, OBBBA-only deductions, and other IRC-conformity differences are adjusted on Schedule I (see ../../credits/credit-administration/schedule-i-federal-conformity.md).
+Bonus depreciation, OBBBA-only deductions, and other IRC-conformity differences are adjusted on Schedule I (see ../schedule-i-federal-adjustments.md).
 ## Prompt
 - I moved my business out of Wisconsin.

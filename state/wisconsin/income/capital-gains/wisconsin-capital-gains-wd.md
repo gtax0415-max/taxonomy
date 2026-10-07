@@ -3,8 +3,7 @@ type: income
 category: capital-gains
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule WD, I-070i (R. 05-25) and instructions I-170 (R. 10-25); Schedule SB line 5 and Schedule AD line 2 instructions (2025)"
-source_doc: Federal Schedule D / Form 8949 / Form 4797 (and a recomputed "Wisconsin" 4797 if basis differs) / Forms 2439, 4684, 6252, 6781, 8824 / Schedules K-1 and Wisconsin 2K-1, 3K-1, 5K-1 / 1099-B / 1099-DIV Box 2a / 2025 Wisconsin Schedule WD (carryovers) / Schedules T, QI, CG
+source_doc: Form 1099-B Boxes 1a-1g (proceeds, basis, gain or loss) / Form 1099-DIV Box 2a (capital gain distributions) / Form 1099-S (real estate sales) / Form 2439 / Schedule K-1 and Wisconsin 2K-1, 3K-1, 5K-1 / basis and depreciation records (federal and Wisconsin) / prior-year Wisconsin capital loss carryover records
 form: Wisconsin Form 1
 line: "4 or 6"
 via:

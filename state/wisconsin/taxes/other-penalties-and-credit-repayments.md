@@ -3,8 +3,7 @@ type: other-tax
 category: taxes
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 (line 26) and Form 1 instructions (I-111): Other Penalties; Credit Repayments"
-source_doc: Federal Form 4255 marked "Wisconsin" / sale documents / WEDC and WHEDA notices / estate basis statements (Form 8971 Schedule A)
+source_doc: Sale or disposition documents for credit property / WEDC and WHEDA recapture or repayment notices / estate basis statements (Form 8971 Schedule A)
 form: Wisconsin Form 1
 line: "26"
 via:

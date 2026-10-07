@@ -3,8 +3,7 @@ type: credit
 category: housing-and-historic
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule HR, IC-034 (R. 2-25), Part I and Part III; Schedule HR-5, IC-534 (R. 2-25); instructions IC-434 / IC-634 (R. 2-25); confirm 2026 revisions"
-source_doc: WEDC contract and certification / NPS or Wisconsin Historic Preservation Certification Application Parts 2 and 3 / occupancy certificate / QRE records / Wisconsin Schedule 3K-1, 5K-1, 2K-1 / DOR Notice of Certification for transfers
+source_doc: WEDC contract and certification / approved National Park Service or Wisconsin Historical Society Historic Preservation Certification Application Part 2 and Part 3 / receipts and invoices for qualified rehabilitation expenditures / Wisconsin Schedule 2K-1, 3K-1, or 5K-1 (pass-through credit) / DOR Notice of Certification (transferred credits)
 form: Wisconsin Form 1
 line: "19"
 refundable: no

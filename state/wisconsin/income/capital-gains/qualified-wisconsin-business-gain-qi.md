@@ -3,8 +3,7 @@ type: income
 category: capital-gains
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule QI, I-077 (R. 7-25); instructions I-177 (R. 8-26) — 2025 schedule; instructions revised August 2026"
-source_doc: Form 8949 / 1099-B / purchase records by lot / DOR list of registered qualified Wisconsin businesses / prior Schedule CG (deferred gains) / Schedule T / 3K-1 or 5K-1
+source_doc: Form 1099-B Boxes 1a-1e (sale date, proceeds, basis) / purchase records by lot / DOR list of registered qualified Wisconsin businesses / Wisconsin Schedule 3K-1 or 5K-1
 form: Wisconsin Form 1
 line: "4 or 6 (via Schedule WD)"
 via:

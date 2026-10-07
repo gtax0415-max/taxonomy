@@ -3,8 +3,7 @@ type: subtraction
 category: subtractions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule SB line 21; Schedule M instructions (R. 10-25) line 55 worksheet; Wisconsin Tax Bulletin 234 (2026 limit)"
-source_doc: ABLE account contribution statements (Form 5498-QA) / beneficiary's W-2
+source_doc: ABLE account contribution statements / Form 5498-QA Box 1 (ABLE contributions) / account owner and beneficiary information
 form: Wisconsin Form 1
 line: "6"
 via:

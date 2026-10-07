@@ -3,8 +3,7 @@ type: credit
 category: business-incentives
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule ES, I-832 (R. 6-25); instructions I-1832 (R. 11-25) — 2025 revision; 2026 maximum from DFI"
-source_doc: Employer contribution records to employees' Wisconsin 529 accounts (Edvest / Tomorrow's Scholar) / employee Form W-2 / Wisconsin Schedule 3K-1, 5K-1
+source_doc: Employer contribution records to employees' Edvest or Tomorrow's Scholar accounts (account owner, beneficiary, amount, date) / employee Form W-2 / Wisconsin Schedule 3K-1 or 5K-1 (pass-through credit)
 form: Wisconsin Form 1
 line: "19"
 refundable: no

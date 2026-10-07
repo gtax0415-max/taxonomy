@@ -3,9 +3,7 @@ type: credit
 category: family-dependent
 jurisdiction: wisconsin
 tax_year: 2026
-status: NEW for 2026 — form line not yet published
-form_basis: "2025 Wis. Act 241 (secs. 71.07(8n), 71.10(4)(ct)); Wisconsin Tax Bulletin 233 (April 2026)"
-source_doc: Fetal death report filed under sec. 69.18(1)(e)1., Wis. Stats.
+source_doc: Copy of the fetal death report (report of fetal death filed with the Wisconsin State Vital Records Office)
 form: Wisconsin Form 1
 line: "TBD — expected among the nonrefundable credits"
 refundable: no
@@ -13,6 +11,7 @@ via:
   - New 2026 credit line (TBD) → reduces net tax
 ---
 # Credit for Stillborn Child (NEW 2026)
+**Status:** NEW for 2026 — form line not yet published
 ## Description
 Nonrefundable credit for parents who experience a stillbirth during the year that required a fetal death report. Effective for taxable years beginning on or after January 1, 2026.
 ## Amount (lesser of tax or)

@@ -3,8 +3,7 @@ type: subtraction
 category: subtractions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule SB line 6; Schedule M instructions (R. 10-25) line 40 worksheets; Form 1 instructions line 13 worksheet"
-source_doc: Premium statements / Form 1095-A / SSA-1099 Medicare premiums withheld / W-2 Box 1 (to confirm after-tax premiums) / Form 8962 / federal Schedule 1 line 17 / Schedule 2 line 1a / Schedule 3 line 9
+source_doc: Health insurance premium statements / Form 1095-A Part III Columns A-C / Form 1095-B, 1095-C / Form SSA-1099 Box 3 (Medicare premiums withheld) / Form W-2 Box 1 and Box 12 code DD (to confirm after-tax premiums)
 form: Wisconsin Form 1
 line: "6"
 via:

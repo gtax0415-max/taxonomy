@@ -3,8 +3,7 @@ type: credit
 category: multistate
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule OS instructions, I-123 (R. 11-25) — 2025 revision; confirm 2026 revision"
-source_doc: Other state's income tax return (net tax after all credits) / other-state W-2 or withholding statements / Wisconsin Schedule 3K-1 or 5K-1 (or federal K-1 plus entity statement of states, income type, and tax)
+source_doc: Copy of the other state's income tax return / Form W-2 Boxes 15-17 and 1099 state boxes (other-state withholding) / Wisconsin Schedule 3K-1 or 5K-1 (or federal K-1 plus the entity's statement listing each state, income, and tax paid)
 form: Wisconsin Form 1
 line: "20"
 refundable: no

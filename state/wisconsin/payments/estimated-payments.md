@@ -3,8 +3,7 @@ type: payment
 category: payments
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2026 Form 1-ES Instructions D-101A (R. 1-26); 2025 Form 1 instructions (line 29); Wisconsin Tax Bulletin 234"
-source_doc: Form 1-ES voucher confirmations / online payment confirmations (tap.revenue.wi.gov/eslookup) / prior-year return showing overpayment applied
+source_doc: Form 1-ES voucher payment records / online payment confirmations from My Tax Account / prior-year Wisconsin return showing overpayment applied to 2026
 form: Wisconsin Form 1
 line: "29"
 via:

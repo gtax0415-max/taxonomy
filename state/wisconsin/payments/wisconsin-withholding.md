@@ -3,8 +3,7 @@ type: payment
 category: payments
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 (line 28) and Form 1 instructions (I-111)"
-source_doc: Form W-2 (Boxes 15-17) / Form 1099-R (Boxes 14-15) / Form W-2G / Form 1099-MISC / Form 1099-NEC / Form 1099-G
+source_doc: Form W-2 Boxes 15-17 / Form W-2G Boxes 13-15 / Form 1099-R Boxes 14-16 / Form 1099-MISC Boxes 15-17 / Form 1099-NEC Boxes 5-7 / Form 1099-G Boxes 10a-11
 form: Wisconsin Form 1
 line: "28"
 via:

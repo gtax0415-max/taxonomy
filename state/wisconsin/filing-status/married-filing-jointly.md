@@ -3,8 +3,7 @@ type: filing-status
 category: filing-status
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 (page 1 filing status) and Form 1 instructions (I-111), Filing Status"
-source_doc: Marriage status on December 31, 2026 / both spouses' income records / death certificate if a spouse died
+source_doc: Marital status on December 31, 2026 / both spouses' names and SSNs / both spouses' Form W-2, 1099, and K-1 income records / death certificate if a spouse died during 2026
 form: Wisconsin Form 1
 line: "Filing status (page 1)"
 ---

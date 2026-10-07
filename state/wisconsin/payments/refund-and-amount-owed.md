@@ -3,8 +3,7 @@ type: payment
 category: payments
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 (lines 40-46) and Form 1 instructions (I-111)"
-source_doc: Bank account details for direct deposit / payment confirmations / Form PV / Form A-771
+source_doc: Bank routing and account numbers for direct deposit or debit / payment confirmations
 form: Wisconsin Form 1
 line: "40-43, 45-46"
 via:

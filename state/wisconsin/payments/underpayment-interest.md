@@ -3,8 +3,7 @@ type: payment
 category: payments
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule U, D-104 (R. 05-25) and instructions D-114 (R. 11-25); 2025 Form 1 instructions (line 44)"
-source_doc: Prior-year Wisconsin return / estimated payment records / withholding statements / monthly income records for annualization
+source_doc: Prior-year Wisconsin return (prior-year tax) / Form 1-ES and online estimated payment records / Form W-2 Box 17, Form 1099 state withholding boxes / monthly income records (annualized installment method)
 form: Wisconsin Form 1
 line: "44"
 via:

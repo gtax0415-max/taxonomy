@@ -3,8 +3,7 @@ type: income-exclusion
 category: exclusions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule 2440W, I-026 (R. 05-25) with instructions; Schedule SB line 22; Schedule M line 56"
-source_doc: Disability pay statements (W-2 or 1099-R) / retirement date / employer's mandatory retirement age / physician's statement or VA Form 21-0172
+source_doc: Form W-2 Box 1 or Form 1099-R Box 1 (disability pay) / retirement date and employer's mandatory retirement age / physician's statement of permanent and total disability or VA Form 21-0172
 form: Wisconsin Form 1
 line: "6"
 via:

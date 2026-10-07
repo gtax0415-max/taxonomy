@@ -3,7 +3,7 @@ type: deduction
 category: deductions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2026 Form 1-ES instructions (standard deduction and exemptions); 2025 Form 1, Schedule SB, Schedule WD, and Form 1 instructions"
+source_doc: Marital status on December 31, 2026 / each spouse's Form W-2, 1099, and K-1 income records / dependents' names, SSNs, and ages
 form: Wisconsin Form 1
 line: "8, 10, and status-dependent lines"
 ---

@@ -3,8 +3,7 @@ type: subtraction
 category: subtractions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule SB line 7; Schedule M instructions (R. 10-25) line 41 worksheet"
-source_doc: Long-term care insurance premium statements / federal Schedule 1 line 17 (portion for LTC)
+source_doc: Long-term care insurance premium statements / Form W-2 Box 12 (to confirm premiums were paid with after-tax dollars)
 form: Wisconsin Form 1
 line: "6"
 via:

@@ -3,8 +3,7 @@ type: income
 category: capital-gains
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule SB line 26; Schedule M instructions (R. 10-25) line 60; Form 1 instructions line 26 (penalty)"
-source_doc: Schedule WD / Form 4797 / sale documents showing buyer's relationship
+source_doc: Sale documents (closing statement, bill of sale) showing the buyer's relationship / basis and depreciation records for the asset sold
 form: Wisconsin Form 1
 line: "6 (seller); 26 (buyer's penalty)"
 via:

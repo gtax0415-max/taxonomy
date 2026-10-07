@@ -3,8 +3,7 @@ type: income
 category: capital-gains
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule M instructions (R. 10-25), line 83 worksheet; sec. 71.05(25m), Wis. Stats."
-source_doc: Wisconsin Form WQOF from the fund / federal Form 8997
+source_doc: Wisconsin Form WQOF certification from the fund / Form 1099-B or closing statement for the gain reinvested / fund investment confirmation (date and amount)
 form: Wisconsin Form 1
 line: "6"
 via:

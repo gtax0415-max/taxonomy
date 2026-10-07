@@ -3,8 +3,7 @@ type: subtraction
 category: subtractions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule NOL1, I-054 (R. 05-25) and instructions I-154 (R. 11-25); Schedule NOL2 instructions I-155 (R. 11-25); Schedule NOL3 instructions I-156 (R. 11-25); Schedule AD line 5; Schedule SB line 23"
-source_doc: Federal NOL computation (Form 1045 / Publication 536) / Wisconsin Schedules WD, SB, AD / prior NOL3 records
+source_doc: Prior-year Wisconsin returns showing the net operating loss and carryforward (Schedules NOL1, NOL2, NOL3) / current-year business income records (Schedules C, E, F, K-1)
 form: Wisconsin Form 1
 line: "4 (federal NOL added back) and 6 (Wisconsin NOL subtracted)"
 via:

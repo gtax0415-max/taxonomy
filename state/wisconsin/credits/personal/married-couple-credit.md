@@ -3,8 +3,7 @@ type: credit
 category: personal
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 Schedule 2 (page 4) and Form 1 instructions line 18"
-source_doc: Each spouse's W-2 Box 1 / Schedules C, F, K-1 (self-employment) / federal Schedule 1 lines 12, 16, 20, 24e-24g / Schedule SB line 22
+source_doc: Each spouse's Form W-2 Box 1 (wages) / Form 1099-NEC Box 1 and Schedule C, F, or K-1 Box 14 (net earnings from self-employment) / records of each spouse's IRA, SEP, SIMPLE, and self-employed health insurance deductions
 form: Wisconsin Form 1
 line: "18"
 refundable: no

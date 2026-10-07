@@ -3,8 +3,7 @@ type: subtraction
 category: subtractions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule SB line 20; Schedule M instructions (R. 10-25) line 54; 2025 Wis. Act 15; Wisconsin Tax Bulletin 230"
-source_doc: Final adoption order or foreign adoption registration / receipts for adoption fees, court costs, legal fees / adoption assistance reimbursement records
+source_doc: Final adoption order or foreign adoption registration / receipts for adoption fees, court costs, and legal fees / adoption assistance or employer reimbursement records (Form W-2 Box 12 code T)
 form: Wisconsin Form 1
 line: "6"
 via:

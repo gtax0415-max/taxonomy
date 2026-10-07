@@ -3,9 +3,7 @@ type: credit
 category: business-incentives
 jurisdiction: wisconsin
 tax_year: 2026
-status: NEW for 2026 — schedule and line not yet published by DOR
-form_basis: "2025 Wis. Act 15; Wisconsin Tax Bulletin 230 (July 2025). No DOR schedule in the source set"
-source_doc: State Film Office approved application and certification of production expenditures / Wisconsin Schedule 3K-1 or 5K-1
+source_doc: State Film Office approved application and certification of production expenditures / payroll records for Wisconsin employees (Form W-2 Box 1) / invoices for goods and services bought in Wisconsin / Wisconsin Schedule 3K-1 or 5K-1 (pass-through credit)
 form: Wisconsin Form 1
 line: "TBD — expected on Schedule CR"
 refundable: partial
@@ -17,6 +15,7 @@ routing:
   - "Resident-wage and sales-tax portions (nonrefundable) → Schedule CR nonrefundable section → unused to Schedule CF"
 ---
 # Film Production Services Credit (NEW 2026)
+**Status:** NEW for 2026 — schedule and line not yet published by DOR
 ## Description
 New credit created by 2025 Wis. Act 15 for film production companies producing an accredited film, video, broadcast advertisement, or television production in Wisconsin. Effective for tax years beginning after December 31, 2025, so 2026 is the first year it can be claimed.
 ## How it works

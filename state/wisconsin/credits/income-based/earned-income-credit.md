@@ -3,8 +3,7 @@ type: credit
 category: income-based
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 line 30 and Form 1 instructions; Schedule I Part III; federal 2026 EIC figures from Rev. Proc. 2025-32 (federal/credits/income-based/earned-income-credit.md)"
-source_doc: Federal EIC (Form 1040, line 27) or Schedule I Part III Col. II / federal Schedule EIC / Form 8867 if paid preparer
+source_doc: Form W-2 Box 1 (wages) / Form 1099-NEC Box 1 and Schedule C or F records (self-employment income) / qualifying children's names, SSNs, dates of birth, and residency records / Form 1099-INT, 1099-DIV, 1099-B (investment income test)
 form: Wisconsin Form 1
 line: "30"
 refundable: yes

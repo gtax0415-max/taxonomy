@@ -3,8 +3,7 @@ type: credit
 category: business-incentives
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule CM, IC-234 (R. 6-25); instructions IC-334 (R. 10-25) — 2025 revision; confirm 2026 revision"
-source_doc: Schedule CM Part II completed and signed by the community rehabilitation program (contract date, payments received, payments for work performed) / Wisconsin Schedule 3K-1, 5K-1, or 2K-1
+source_doc: Written contract with the community rehabilitation program / invoices and proof of payment for work performed during the year / Schedule CM Part II completed and signed by the community rehabilitation program / Wisconsin Schedule 2K-1, 3K-1, or 5K-1 (pass-through credit)
 form: Wisconsin Form 1
 line: "19"
 refundable: no

@@ -3,8 +3,7 @@ type: credit
 category: manufacturing-agriculture
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule MA-A, IC-015 (R. 6-25); instructions IC-115 (R. 10-25) — 2025 revision; confirm 2026 revision"
-source_doc: Local assessor's agricultural classification (sec. 70.32(2)(a)4.) / Schedule F and farm cost records / original-cost records for farm real property (closing statements, invoices) / Wisconsin Schedule 3K-1, 5K-1, 2K-1
+source_doc: Local assessor's agricultural property classification (property tax bill or assessment notice) / farm income and cost records (Schedule F) / original-cost records for farm real and personal property (closing statements, invoices) / Wisconsin Schedule 2K-1, 3K-1, or 5K-1 (pass-through credit)
 form: Wisconsin Form 1
 line: "19"
 refundable: no

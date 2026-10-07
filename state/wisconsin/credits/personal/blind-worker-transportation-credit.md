@@ -3,8 +3,7 @@ type: credit
 category: personal
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 line 15 and Form 1 instructions"
-source_doc: Receipts for mass transit, paratransit, taxi, or rideshare trips between home and work / federal blindness qualification (IRC 63(f)(4))
+source_doc: Receipts for mass transit, paratransit, taxi, or rideshare trips between home and work / physician or optometrist statement of blindness
 form: Wisconsin Form 1
 line: "15"
 refundable: no

@@ -3,8 +3,7 @@ type: income-exclusion
 category: exclusions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule SB (I-0103, R. 08-25) lines 1, 2, 4, 25, 27, 28, 33, 35-38, 49; Schedule M instructions (R. 10-25) lines 36, 59, 61-62, 67-71, 83"
-source_doc: Federal Schedule 1 line 1 / Form 1099-INT Box 3 / SSA-1099 / Form 1099-R / grant and award statements / Schedule RT-1
+source_doc: Form 1099-INT Box 3 (U.S. savings bonds and Treasury obligations) / Form 1099-DIV (federal obligation percentage statement) / Form SSA-1099 Box 5 / Form 1099-R Box 1 (exempt pensions) / Form 1099-G Box 2 (state income tax refunds) / grant and award statements
 form: Wisconsin Form 1
 line: "6"
 via:

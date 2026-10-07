@@ -3,8 +3,7 @@ type: income-addition
 category: additions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule AD instructions (R. 10-25) lines 13-25; Schedule M instructions lines 13-25"
-source_doc: The credit schedules (EC, CM, R, MA-M/MA-A, BD, EIT, ES, FC) for the computation year
+source_doc: WEDC, State Film Office, and Wisconsin Historical Society credit certifications / Wisconsin Schedule 2K-1, 3K-1, or 5K-1 (credits passed through from an entity) / 2026 property tax bills and farmland preservation agreement or certificate of compliance (farmland preservation credit)
 form: Wisconsin Form 1
 line: "4"
 via:

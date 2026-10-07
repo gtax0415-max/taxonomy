@@ -3,9 +3,7 @@ type: credit
 category: manufacturing-agriculture
 jurisdiction: wisconsin
 tax_year: 2026
-status: LEGACY — carryforward only; expected fully expired for 2026 (see below)
-form_basis: "Schedule MS, IC-014 (R. 7-25); instructions IC-114 (R. 10-25) — 2025 revision. A 2026 Schedule MS may not be issued"
-source_doc: Prior-year Schedule MS / records of unused manufacturer's sales tax credit as of the 2006 taxable year
+source_doc: Prior-year Wisconsin return showing the unused manufacturer's sales tax credit carryforward (Schedule MS) / Wisconsin Schedule 3K-1 or 5K-1 (pass-through carryforward)
 form: Wisconsin Form 1
 line: "19"
 refundable: no
@@ -16,6 +14,7 @@ routing:
   - "Combined group member → Form 6, Part V, Line 1"
 ---
 # Manufacturer's Sales Tax Credit Carryforward (Schedule MS)
+**Status:** LEGACY — carryforward only; expected fully expired for 2026 (see below)
 ## Description
 Carryforward of the old credit for sales tax paid on fuel and electricity consumed in manufacturing. The credit could not be COMPUTED for taxable years beginning on or after January 1, 2006; Schedule MS only releases remaining carryforward.
 ## 2026 status — expected fully expired

@@ -3,8 +3,7 @@ type: credit
 category: personal
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 line 32 and Form 1 instructions; Schedule SB instructions line 28"
-source_doc: Proof of repayment / prior-year Wisconsin return / recomputed prior-year tax
+source_doc: Proof of repayment (canceled check, payer statement, or Form 1099 showing the amount repaid) / prior-year Wisconsin return that included the income
 form: Wisconsin Form 1
 line: "32"
 refundable: yes

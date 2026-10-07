@@ -3,8 +3,7 @@ type: credit
 category: farmland-preservation
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule FC-A, I-025ai (R. 7-25) — 2025 revision; confirm 2026 revision"
-source_doc: DATCP certificate of compliance (7-digit ID per county) / tax parcel numbers and qualifying acres per parcel / farmland preservation agreement or zoning status / ownership percentage
+source_doc: Certificate of compliance issued by the County Land Conservation Committee (7-digit ID) / 2026 property tax bills or treasurer-signed printouts (parcel numbers) / farmland preservation agreement, if any / agricultural conservation easement, if any / closing statement and deed if land was bought or sold / document showing ownership percentage (deed, Wisconsin Schedule 3K-1 or 5K-1)
 form: Wisconsin Form 1
 line: "31b"
 refundable: yes

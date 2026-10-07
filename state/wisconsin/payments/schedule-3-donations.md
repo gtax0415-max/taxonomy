@@ -3,8 +3,7 @@ type: payment
 category: payments
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1, Schedule 3 Part I (page 5) and Form 1 instructions (I-111), line 24"
-source_doc: No external source document — taxpayer election
+source_doc: No source document — taxpayer election
 form: Wisconsin Form 1
 line: "24"
 via:

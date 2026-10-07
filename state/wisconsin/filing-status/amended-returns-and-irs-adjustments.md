@@ -3,8 +3,7 @@ type: administration
 category: administration
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 instructions (I-111): Amending Your Return, Internal Revenue Service Adjustments, Requesting Copies, Lines 24, 36, 38, 42, 44; Wisconsin Tax Bulletin 234"
-source_doc: Original Wisconsin return / federal amended return or IRS audit report / Schedule AR / department adjustment notices
+source_doc: Original Wisconsin return / federal amended return (Form 1040-X) or IRS audit report and adjustment notices / Wisconsin DOR adjustment notices
 form: Wisconsin Form 1 (amended box checked) / Form X-NOL
 ---
 # Amended Returns and Federal Adjustments

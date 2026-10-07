@@ -3,8 +3,7 @@ type: deduction
 category: standard
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2026 Form 1-ES Instructions D-101A (R. 1-26) — OFFICIAL 2026 schedules; 2025 Form 1 instructions (I-111) for rules"
-source_doc: Wisconsin income from Form 1, line 7 (Form 1NPR uses federal AGI then prorates)
+source_doc: Marital status on December 31, 2026 / Form W-2 Box 1, Forms 1099, and K-1s (income determines the sliding-scale deduction)
 form: Wisconsin Form 1
 line: "8"
 via:

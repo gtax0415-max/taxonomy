@@ -3,7 +3,7 @@ type: schedule
 category: credit-administration
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule CR, I-048 (R. 8-25); instructions I-148 (R. 11-25) — 2025 revision. 2026 Schedule CR expected to add lines for the new film credits"
+source_doc: WEDC, WHEDA, State Film Office, and Wisconsin Historical Society certifications for each credit claimed / Wisconsin Schedule 2K-1, 3K-1, or 5K-1 (pass-through credits) / prior-year Wisconsin return (unused credit carryforwards)
 form: Wisconsin Form 1
 line: "19 (nonrefundable), 35 (refundable)"
 via:
@@ -44,7 +44,7 @@ The Wisconsin schedule that gathers credits computed on their own schedules and 
 | 33 | Internet equipment credit carryforward | Schedule CF (17) | carryforward only |
 | 34 | TOTAL nonrefundable → Form 1, Line 19 | | |
 | NEW 2026 | Film production services credit (wage and sales tax portions); film production company investment credit | new schedule TBD | ../business-incentives/film-*.md |
-| NEW 2026 | Employer-provided child care credit; rail infrastructure credits; stillborn child credit (Form 1 line TBD) | new schedules TBD | ../business-incentives/employer-provided-child-care-credit.md, ../business-incentives/rail-infrastructure-credits.md, ../family-and-dependent-care/stillborn-child-credit.md |
+| NEW 2026 | Employer-provided child care credit; rail infrastructure credits; stillborn child credit (Form 1 line TBD) | new schedules TBD | ../business-incentives/employer-provided-child-care-credit.md, ../business-incentives/rail-infrastructure-credits.md, ../family-dependent/stillborn-child-credit.md |
 Lines 2, 5, 7, 18, 23 are reserved.
 ### Part I.B — Refundable (Column B only)
 | Line | Credit | Source | Taxonomy file |

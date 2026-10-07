@@ -3,8 +3,7 @@ type: credit
 category: research-and-venture-capital
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule VC, IC-039 (R. 7-25), Parts I and IV; instructions IC-139 (R. 10-25) — confirm 2026 revision"
-source_doc: WEDC qualified new business venture certification / WEDC tax credit verification form / Schedule 3K-1 or 2K-1 from an angel investment network / DOR-certified transfer documents
+source_doc: WEDC qualified new business venture certification / WEDC tax credit verification form / Wisconsin Schedule 2K-1 or 3K-1 (angel investment network) / DOR approval of credit transfer, if applicable
 form: Wisconsin Form 1
 line: "19"
 refundable: no

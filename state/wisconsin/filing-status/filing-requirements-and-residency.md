@@ -3,8 +3,7 @@ type: administration
 category: administration
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Form 1 instructions (I-111): Which Form to File, Who Must File, Other Filing Requirements, Who Should File, Age, Armed Forces Personnel, Tax District, School District Number; 2026 Form 1-ES (thresholds derived)"
-source_doc: Domicile facts (home, intent, presence) / dates of moving / gross income records / military orders and state-of-residence elections
+source_doc: Domicile records (home ownership or lease, driver's license, voter registration) / Form W-2, 1099, and K-1 gross income records / military orders and state-of-residence election (DD Form 2058)
 form: Wisconsin Form 1 / Form 1NPR
 ---
 # Who Must File, Which Form, and Residency

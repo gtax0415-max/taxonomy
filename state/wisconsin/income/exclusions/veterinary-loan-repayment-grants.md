@@ -3,8 +3,7 @@ type: income-exclusion
 category: exclusions
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "2025 Wis. Act 177 (sec. 71.05(6)(b)58.); Wisconsin Tax Bulletin 233 (April 2026)"
-source_doc: Grant award statements from the veterinary loan repayment program (sec. 39.389)
+source_doc: Grant award statements from the Wisconsin veterinary loan repayment program
 form: Wisconsin Form 1
 line: "6"
 via:

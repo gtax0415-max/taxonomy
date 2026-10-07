@@ -3,8 +3,7 @@ type: credit
 category: housing-and-historic
 jurisdiction: wisconsin
 tax_year: 2026
-form_basis: "Schedule HR, IC-034 (R. 2-25), Part II; instructions IC-434 (R. 2-25) — confirm 2026 revision"
-source_doc: Wisconsin Historical Society approved Part 2 (Description of Rehabilitation) and Part 3 (Certification of Completed Work) / receipts for qualified preservation costs
+source_doc: Wisconsin Historical Society approved Historic Preservation Certification Application Part 2 (Description of Rehabilitation) and Part 3 (Certification of Completed Work) / receipts and invoices for qualified rehabilitation expenditures
 form: Wisconsin Form 1
 line: "19"
 refundable: no
