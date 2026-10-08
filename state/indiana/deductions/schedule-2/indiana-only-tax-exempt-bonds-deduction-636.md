@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Form 1099-INT or 1099-OID / bond records identifying the Indiana issuer / purchase price records
+source_doc: Form 1099-INT or 1099-OID / bond records identifying the Indiana issuer and purchase price
 form: Schedule 2
 line: "11 (code 636)"
 via:

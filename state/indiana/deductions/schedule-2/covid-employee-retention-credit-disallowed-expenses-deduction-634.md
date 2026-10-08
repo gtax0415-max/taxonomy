@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal return and employer records showing deductions disallowed because of the COVID-related employee retention credit / Schedule IN K-1 if applicable
+source_doc: Federal Form 941-X or employer records of the COVID-related employee retention credit / federal return showing the wage deduction disallowed / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: Schedule 2
 line: "11 (code 634)"
 via:

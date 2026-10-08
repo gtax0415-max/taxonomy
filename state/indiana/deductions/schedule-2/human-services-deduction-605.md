@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Medicaid eligibility records / facility residence records
+source_doc: Medicaid eligibility notice / statement from the hospital, nursing facility or residential home
 form: Schedule 2
 line: "11 (code 605)"
 via:

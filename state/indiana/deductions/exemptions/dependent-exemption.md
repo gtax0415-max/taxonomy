@@ -3,7 +3,7 @@ type: exemption
 category: dependent-exemption
 jurisdiction: IN
 tax_year: 2026
-source_doc: Each dependent's name, Social Security number (or ATIN/ITIN) and date of birth / Form 8332 or decree pages for a noncustodial parent
+source_doc: Each dependent's name, Social Security number (or ATIN/ITIN) and date of birth / federal Form 8332, if a noncustodial parent claims the child
 form: Schedule 3
 line: "2"
 via:

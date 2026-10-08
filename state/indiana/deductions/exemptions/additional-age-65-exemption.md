@@ -3,7 +3,7 @@ type: exemption
 category: additional-age-65-exemption
 jurisdiction: IN
 tax_year: 2026
-source_doc: Dates of birth / federal AGI (Form IT-40, line 1)
+source_doc: Dates of birth of taxpayer and spouse / federal Form 1040, line 11a (federal AGI)
 form: Schedule 3
 line: "5"
 via:

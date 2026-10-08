@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: IHCDA pre-approval for the contribution / the community development corporation's approved IDA program number / approval certification or letter of assignment / Schedule IN K-1 if passed through
+source_doc: Indiana Housing and Community Development Authority (IHCDA) pre-approval letter / receipt from the community development corporation showing its IDA program number / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6
 line: "6 (code 823)"
 refundable: false

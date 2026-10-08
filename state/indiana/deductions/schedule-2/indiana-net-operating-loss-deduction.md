@@ -3,7 +3,7 @@ type: deduction
 category: net-operating-loss
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule IT-40NOL for each loss year (with Carryforward Worksheet) / federal Form 172 (2024 and later) or Form 1045 (2023 and earlier) / loss-year federal Form 1040 / Schedule NOL-MOD where required
+source_doc: Federal Form 172 (2024 and later) or Form 1045 (2023 and earlier) / loss-year federal Form 1040 / records of the Indiana NOL used in each intervening year
 form: Schedule 2
 line: "9"
 via:

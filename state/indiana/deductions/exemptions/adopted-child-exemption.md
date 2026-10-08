@@ -3,7 +3,7 @@ type: exemption
 category: adopted-child-exemption
 jurisdiction: IN
 tax_year: 2026
-source_doc: Final adoption decree / child's SSN or ATIN and date of birth / Schedule IN-DEP and Schedule IN-DEP-A
+source_doc: Final adoption decree / child's SSN or ATIN and date of birth
 form: Schedule 3
 line: "6"
 via:

@@ -3,7 +3,6 @@ type: credit
 category: schedule-6
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule 6 of Form IT-40 / Schedule CC-40 / other state returns / Schedule IN-529, Schedule IN-ABLE / Schedule IN-OCC / Schedule IN K-1 and IEDC, IHCDA or DOR certificates
 form: IT-40 Schedule 6
 line: "1-8"
 via:

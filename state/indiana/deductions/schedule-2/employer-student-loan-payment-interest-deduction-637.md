@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Employer statement of student loan payments / IRS Publication 970 Worksheet 4-1 / Schedule 1 add-back Code 148
+source_doc: Employer statement of student loan payments made on your behalf / Form 1098-E / IRS Publication 970 Worksheet 4-1
 form: Schedule 2
 line: "11 (code 637)"
 via:

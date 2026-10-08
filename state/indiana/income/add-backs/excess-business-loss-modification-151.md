@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Form 461 (limitation on business losses) / federal Schedule 1 excess business loss line (line 8p on the 2025 form) / records of the Indiana add-backs inside the disallowed loss / Schedule NOL-MOD
+source_doc: Federal Form 461 / federal Schedule 1 (Form 1040), excess business loss line
 form: Schedule 1
 line: "6 (code 151)"
 via:

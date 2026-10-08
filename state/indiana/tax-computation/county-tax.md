@@ -3,7 +3,7 @@ type: tax
 category: county-tax
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule CT-40 and its county rate chart / addresses of principal residence on Jan. 1, 2026 / employer location on Jan. 1, 2026 / for Perry County residents, Kentucky locality tax returns or withholding statements
+source_doc: Address of principal residence on January 1, 2026 for you and your spouse / Form W-2 Boxes 18-20 (county wages and tax)
 form: Schedule CT-40
 line: "1-7"
 via:

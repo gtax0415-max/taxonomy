@@ -3,7 +3,7 @@ type: payment
 category: withholding
 jurisdiction: IN
 tax_year: 2026
-source_doc: Forms W-2 (box 17 state tax, box 19 local tax), W-2G, 1099-R, 1099-G, 1099-MISC, 1099-NEC, Form IN-MSID-A, Schedule IN K-1 / Schedule IN-H if you withheld for household employees
+source_doc: Forms W-2 (Box 17 state tax, Box 19 local tax), W-2G, 1099-R, 1099-G, 1099-MISC and 1099-NEC
 form: Schedule 5
 line: "1, 2"
 via:

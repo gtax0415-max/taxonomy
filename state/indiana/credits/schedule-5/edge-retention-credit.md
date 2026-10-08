@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule IN K-1 from the pass through entity, or the approved credit agreement letter from the IEDC / Schedule IN-EDGE-R
+source_doc: Indiana Economic Development Corporation (IEDC) approval or certification letter for the EDGE-R credit / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 5; Schedule IN-EDGE-R
 line: "9"
 refundable: true

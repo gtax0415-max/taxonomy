@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: IEDC certification letter (enclose) / records of qualified film and media production expenses / written assignment if assigned / Schedule IN-OCC
+source_doc: Indiana Economic Development Corporation (IEDC) approval or certification letter / records of qualified film and media production expenses / written assignment, if the credit was assigned
 form: IT-40 Schedule 6; Schedule IN-OCC
 line: "7 (Schedule IN-OCC, code 869)"
 refundable: false

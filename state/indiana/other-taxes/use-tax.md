@@ -3,7 +3,7 @@ type: tax
 category: use-tax
 jurisdiction: IN
 tax_year: 2026
-source_doc: Receipts and invoices for internet, mail order, catalog, TV/radio and out-of-state purchases / proof of sales tax paid to another state
+source_doc: Receipts and invoices for online, mail-order and out-of-state purchases / proof of sales tax paid to another state
 form: Schedule 4
 line: "1"
 via:

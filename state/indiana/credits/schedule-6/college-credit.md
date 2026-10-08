@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Receipts or acknowledgments for contributions to eligible Indiana colleges and universities (name, 4-digit code, date, amount) / Schedule CC-40 / IT-40, line 8
+source_doc: Receipts or acknowledgments from eligible Indiana colleges, universities or their foundations (name, date, amount)
 form: IT-40 Schedule 6; Schedule CC-40
 line: "4"
 refundable: false

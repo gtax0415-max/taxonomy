@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Contribution receipts and records for the regional development infrastructure fund
+source_doc: Contribution receipts from the regional development infrastructure fund
 form: Schedule 2
 line: "11 (code 631)"
 via:

@@ -3,7 +3,7 @@ type: tax
 category: household-employment-tax
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule IN-H / wage records for household employees / federal Schedule H and IRS Publication 926 / W-2s issued to household employees
+source_doc: Wage and withholding records for household employees / Forms W-2 issued to household employees / federal Schedule H
 form: Schedule 4
 line: "2"
 via:

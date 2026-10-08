@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: IEDC certification letter (enclose) / records of debt or equity capital provided to the fund / Schedule IN-OCC
+source_doc: Indiana Economic Development Corporation (IEDC) approval or certification letter / records of debt or equity capital provided to the qualified Indiana investment fund
 form: IT-40 Schedule 6; Schedule IN-OCC
 line: "7 (Schedule IN-OCC, code 868)"
 refundable: false

@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Form 4562 Part I (Section 179 expense) / K-1s passing through Section 179 expense / Indiana depreciation schedule using the $25,000 ceiling
+source_doc: Federal Form 4562 Part I (Section 179 expense) / federal Schedule K-1 passing through Section 179 expense
 form: Schedule 1
 line: "5"
 via:

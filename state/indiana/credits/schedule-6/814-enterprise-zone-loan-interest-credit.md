@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule LIC (enclose) / records of qualified loans made before Jan. 1, 2018, and interest received
+source_doc: Loan agreements for qualified enterprise zone loans made before January 1, 2018 / Form 1099-INT or lender records of interest received / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6
 line: "6 (code 814)"
 refundable: false

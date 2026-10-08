@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions-2026
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Schedule 1-A (Form 1040), line 13 qualified tips deduction / Form W-2 and tip records / Form 1099 reporting tips
+source_doc: Federal Schedule 1-A (Form 1040), qualified tips deduction / Form W-2 Box 12 code TP, Form 1099 or tip records
 form: Schedule 2
 line: "11 (code to be assigned on the 2026 form)"
 via:

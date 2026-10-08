@@ -3,7 +3,7 @@ type: filing
 category: residency
 jurisdiction: IN
 tax_year: 2026
-source_doc: Proof of Indiana legal residence (driver's license, voter registration, homestead deduction) / military DD-2058 if home of record changed
+source_doc: Indiana driver's license, voter registration and homestead deduction records / military Form DD-2058 if the home of record changed
 form: Form IT-40
 line: "n/a"
 via:

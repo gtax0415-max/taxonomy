@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: IEDC approval of the plan adopted by the advisory commission on industrial development / records of the qualified investment / Schedule IN K-1 if passed through
+source_doc: Indiana Economic Development Corporation (IEDC) approval or certification letter for the plan adopted by the advisory commission on industrial development / records of the qualified investment / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6
 line: "2"
 refundable: false

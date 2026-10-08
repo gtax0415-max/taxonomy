@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Indiana enrichment scholarship account statements / records of approved enrichment expenses
+source_doc: Indiana enrichment scholarship account statements / receipts for approved enrichment expenses
 form: Schedule 2
 line: "11 (code 638)"
 via:

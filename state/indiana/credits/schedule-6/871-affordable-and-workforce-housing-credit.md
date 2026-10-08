@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: IHCDA credit determination with the certification/project number / written assignment if the credit was assigned / Schedule IN-OCC
+source_doc: IHCDA credit determination letter with the certification or project number / written assignment, if the credit was assigned
 form: IT-40 Schedule 6; Schedule IN-OCC
 line: "7 (Schedule IN-OCC, code 871)"
 refundable: false

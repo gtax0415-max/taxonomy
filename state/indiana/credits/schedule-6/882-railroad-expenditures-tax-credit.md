@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: DOR certification of the credit (certification number) / miles of Class II or Class III track owned or leased in Indiana / description and certification of qualified railroad expenditures / written assignment if assigned / Schedule IN-OCC
+source_doc: Indiana Department of Revenue certification letter with the certification number / records of qualified railroad expenditures and track miles owned or leased in Indiana / written assignment, if assigned
 form: IT-40 Schedule 6; Schedule IN-OCC
 line: "7 (Schedule IN-OCC, code 882)"
 refundable: false

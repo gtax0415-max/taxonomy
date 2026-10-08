@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal return items affected by federal legislation enacted after January 1, 2026 / DOR conformity guidance
+source_doc: Federal return items affected by federal legislation enacted after January 1, 2026
 form: Schedule 1
 line: "6 (code 120)"
 via:

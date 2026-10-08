@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: DOR certification of the credit (certification number) / description and certification of qualified new rail infrastructure expenditures for each rail served customer project / written assignment if assigned / Schedule IN-OCC
+source_doc: Indiana Department of Revenue certification letter with the certification number / records of qualified new rail infrastructure expenditures for each project / written assignment, if assigned
 form: IT-40 Schedule 6; Schedule IN-OCC
 line: "7 (Schedule IN-OCC, code 883)"
 refundable: false

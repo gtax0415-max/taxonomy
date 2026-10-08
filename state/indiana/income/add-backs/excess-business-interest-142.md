@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Form 8990 (limitation on business interest expense under IRC 163(j)) for the current and prior years / K-1s reporting excess business interest
+source_doc: Federal Form 8990 for the current and prior years / federal Schedule K-1 reporting excess business interest
 form: Schedule 1
 line: "6 (code 142)"
 via:

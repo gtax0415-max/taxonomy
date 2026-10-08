@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Form W-2G or annuity payment statement from the Hoosier Lottery / ticket and drawing date
+source_doc: Form W-2G or annuity payment statement from the Hoosier Lottery / ticket showing the drawing date
 form: Schedule 2
 line: "11 (code 629)"
 via:

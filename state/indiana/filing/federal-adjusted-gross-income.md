@@ -3,7 +3,7 @@ type: filing
 category: federal-agi
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Form 1040 or 1040-SR (line 11, adjusted gross income) / a "sample" federal return if not required to file federally
+source_doc: Federal Form 1040 or 1040-SR, line 11a (adjusted gross income)
 form: Form IT-40
 line: "1"
 via:

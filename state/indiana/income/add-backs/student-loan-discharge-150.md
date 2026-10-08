@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Form 1099-C or lender discharge notice / records of the discharge program (PSLF, Teacher Loan Forgiveness, IDR adjustment) / insolvency worksheet
+source_doc: Form 1099-C or lender discharge notice / records of the discharge program / insolvency worksheet
 form: Schedule 1
 line: "6 (code 150)"
 via:

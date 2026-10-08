@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: W-2s or other withholding statements showing the non-Indiana locality tax, or a copy of the non-Indiana locality tax return / Schedule CT-40 (county rate, line 2) / IT-40, line 9
+source_doc: Form W-2 Boxes 18-20 showing the non-Indiana locality tax withheld / receipt of local income tax paid to the non-Indiana locality
 form: IT-40 Schedule 6
 line: "1"
 refundable: false

@@ -3,7 +3,7 @@ type: filing
 category: due-dates-and-extensions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Form 4868 or Form 2350 (or confirmation of a federal online extension payment) / Indiana Form IT-9 or confirmation of an Indiana online extension payment / records of payments made by the original due date
+source_doc: Federal Form 4868 or Form 2350, or confirmation of a federal extension payment / confirmation of any Indiana extension payment
 form: Form IT-40
 line: "Schedule 7, line 3a, 3b; Schedule 5, line 4"
 via:

@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule K-1 from an S corporation, or from an estate or trust owning part of an S corporation (keep with records)
+source_doc: Federal Schedule K-1 (Form 1120-S, or Form 1041 for an estate or trust owning S corporation stock) and the entity's statement of the eligible contribution
 form: Schedule 2
 line: "11 (code 633)"
 via:

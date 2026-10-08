@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions-2026
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Schedule 1-A (Form 1040), line 21 qualified overtime compensation deduction / Form W-2 or employer statement of qualified overtime
+source_doc: Federal Schedule 1-A (Form 1040), qualified overtime deduction / Form W-2 Box 12 code TT or employer statement of qualified overtime
 form: Schedule 2
 line: "11 (code to be assigned on the 2026 form)"
 via:

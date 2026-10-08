@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Form 1099-INT or 1099-OID (tax-exempt interest, box 8, with state detail) / brokerage statements showing issuer state and acquisition date
+source_doc: Form 1099-INT or 1099-OID Box 8 (tax-exempt interest) with state detail / brokerage statements showing issuer state and acquisition date
 form: Schedule 1
 line: "3"
 via:

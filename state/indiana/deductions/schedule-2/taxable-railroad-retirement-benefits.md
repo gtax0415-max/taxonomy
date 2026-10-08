@@ -3,7 +3,7 @@ type: deduction
 category: railroad-retirement
 jurisdiction: IN
 tax_year: 2026
-source_doc: Form RRB-1099-R / federal Form 1040 or 1040-SR, line 5b
+source_doc: Form RRB-1099-R / federal Form 1040, line 5b
 form: Schedule 2
 line: "6"
 via:

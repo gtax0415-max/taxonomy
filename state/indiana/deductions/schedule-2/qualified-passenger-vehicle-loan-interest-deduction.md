@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions-2026
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Schedule 1-A (Form 1040), line 30 qualified passenger vehicle loan interest deduction / lender interest statements / dates of Indiana residence
+source_doc: Federal Schedule 1-A (Form 1040), car loan interest deduction / Form 1098-VLI or lender interest statement
 form: Schedule 2
 line: "11 (code to be assigned on the 2026 form)"
 via:

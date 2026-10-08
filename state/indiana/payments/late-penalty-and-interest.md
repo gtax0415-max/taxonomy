@@ -3,7 +3,7 @@ type: payment
 category: penalty-and-interest
 jurisdiction: IN
 tax_year: 2026
-source_doc: Filing and payment dates / extension records (Schedule 7, line 3) / Departmental Notice #3 interest rates
+source_doc: Filing and payment dates / payment confirmations
 form: Form IT-40
 line: "24, 25"
 via:

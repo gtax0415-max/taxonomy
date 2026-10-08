@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: DOR approval of the credit with its PIN / records of expenditures in manufacturing a small modular nuclear reactor in Indiana / Schedule IN-OCC
+source_doc: Indiana Department of Revenue approval letter with its PIN / records of expenditures to manufacture the small modular nuclear reactor
 form: IT-40 Schedule 6; Schedule IN-OCC
 line: "7 (Schedule IN-OCC, code 884)"
 refundable: false

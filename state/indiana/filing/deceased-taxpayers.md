@@ -3,7 +3,7 @@ type: filing
 category: deceased-taxpayers
 jurisdiction: IN
 tax_year: 2026
-source_doc: Date of death / death certificate (keep a copy) / letters of appointment for an executor or administrator / Form POA-20 or IN-1310 from the State Comptroller if a refund check cannot be cashed
+source_doc: Death certificate / letters of appointment for an executor or administrator
 form: Schedule 7
 line: "6"
 via:

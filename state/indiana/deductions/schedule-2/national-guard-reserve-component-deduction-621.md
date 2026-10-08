@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Military W-2 for reserve or National Guard service
+source_doc: Military Form W-2 for reserve or National Guard service
 form: Schedule 2
 line: "11 (code 621)"
 via:

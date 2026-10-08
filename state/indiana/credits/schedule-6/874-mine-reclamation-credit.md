@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: IEDC certification of the credit (provide a copy) / Schedule IN K-1 reporting the credit if from a pass through entity / written assignment if assigned
+source_doc: Indiana Economic Development Corporation (IEDC) approval or certification letter / records of the qualified investment at the mine reclamation site / written assignment, if assigned / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6
 line: "6 or 7 (code 874; the booklet names no line)"
 refundable: false

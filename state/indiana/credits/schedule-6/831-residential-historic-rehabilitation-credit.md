@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Approval from the office (Office of Community and Rural Affairs) / Division of Historic Preservation and Archaeology documentation / records of rehabilitation expenditures / account or certification number
+source_doc: State approval letter for the rehabilitation / receipts for rehabilitation expenditures / documentation that the home is listed on the Indiana Register of Historic Sites and Structures
 form: IT-40 Schedule 6
 line: "6 (code 831)"
 refundable: false

@@ -3,7 +3,7 @@ type: filing
 category: schedule-7
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal return status / W-2s showing wages earned in Illinois, Kentucky, Michigan, Ohio, Pennsylvania or Wisconsin / extension confirmations / farm and fishing income records / Schedule IN-40PA and federal Form 8857 if requesting spouse relief
+source_doc: Form W-2 showing the out-of-state work location / federal Form 4868 or extension payment confirmation / Schedule F and farm or fishing income records / federal Form 8857 if requesting spouse relief
 form: Schedule 7
 line: "1, 2, 3a, 3b, 4, 5"
 via:

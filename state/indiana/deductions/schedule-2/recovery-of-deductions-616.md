@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Schedule 1 ("other income", line 8 on the 2025 form) / records of the recovered item and the prior-year itemized deduction
+source_doc: Federal Schedule 1 (Form 1040), other income line / records of the recovered item and the prior-year federal Schedule A
 form: Schedule 2
 line: "11 (code 616)"
 via:

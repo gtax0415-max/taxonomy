@@ -3,7 +3,7 @@ type: tax
 category: credit-recapture
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule IN-CR / Indiana529 or ABLE account withdrawal statements (Form 1099-Q) / prior-year returns showing the credits claimed / credit certifications
+source_doc: Form 1099-Q or Form 1099-QA for withdrawals from an Indiana529 or ABLE account / rollover confirmations / records of the credits claimed in earlier years
 form: Schedule 4
 line: "3"
 via:

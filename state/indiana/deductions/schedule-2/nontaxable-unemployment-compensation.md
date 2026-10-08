@@ -3,7 +3,7 @@ type: deduction
 category: unemployment-compensation
 jurisdiction: IN
 tax_year: 2026
-source_doc: Form 1099-G (enclose) / federal Form 1040, line 11 (federal AGI)
+source_doc: Form 1099-G Box 1 / federal Form 1040, line 11a (federal AGI)
 form: Schedule 2
 line: "10"
 via:

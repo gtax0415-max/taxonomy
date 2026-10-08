@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Credit certification from Habitat for Humanity of Indiana / receipt for the cash or property contribution / Schedule IN-OCC
+source_doc: Credit certification from Habitat for Humanity of Indiana / receipt for the cash or property contribution
 form: IT-40 Schedule 6; Schedule IN-OCC
 line: "7 (Schedule IN-OCC, code 875)"
 refundable: false

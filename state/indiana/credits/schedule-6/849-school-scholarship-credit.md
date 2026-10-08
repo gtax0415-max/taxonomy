@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Receipt and credit certification from a scholarship granting organization (SGO) certified by the Indiana Department of Education / Schedule IN-OCC
+source_doc: Receipt and credit certification from a scholarship granting organization certified by the Indiana Department of Education
 form: IT-40 Schedule 6; Schedule IN-OCC
 line: "7 (Schedule IN-OCC, code 849)"
 refundable: false

@@ -3,7 +3,7 @@ type: exemption
 category: personal-exemption
 jurisdiction: IN
 tax_year: 2026
-source_doc: Filing status from the federal return
+source_doc: Federal Form 1040 (filing status)
 form: Schedule 3
 line: "1"
 via:

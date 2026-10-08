@@ -3,7 +3,7 @@ type: deduction
 category: social-security
 jurisdiction: IN
 tax_year: 2026
-source_doc: Form SSA-1099 / federal Form 1040 or 1040-SR, line 6b
+source_doc: Form SSA-1099 / federal Form 1040, line 6b
 form: Schedule 2
 line: "5"
 via:

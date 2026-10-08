@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Records of the credit-eligible employee's referral, hire date, hours and wages / Schedule IN K-1 or IT-41 Schedule IN K-1 if passed through / Form EDTC W-1 if requested
+source_doc: Vocational rehabilitation referral for the employee / payroll records of hire date, hours and wages / records of employee count / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6
 line: "6 or 7 (code 877; the booklet names no line)"
 refundable: false

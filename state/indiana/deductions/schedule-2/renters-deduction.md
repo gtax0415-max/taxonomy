@@ -3,7 +3,7 @@ type: deduction
 category: renters-deduction
 jurisdiction: IN
 tax_year: 2026
-source_doc: Lease and rent receipts / landlord's name and address / number of months rented at each Indiana principal residence
+source_doc: Lease and rent receipts / landlord's name and address / months rented at each Indiana principal residence
 form: Schedule 2
 line: "1"
 via:

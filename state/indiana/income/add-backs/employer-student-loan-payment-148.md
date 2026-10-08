@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Form W-2 and employer records of student loan payments excluded under an educational assistance program (IRC 127)
+source_doc: Form W-2 and employer statement of student loan payments excluded under an educational assistance program (IRC 127)
 form: Schedule 1
 line: "6 (code 148)"
 via:

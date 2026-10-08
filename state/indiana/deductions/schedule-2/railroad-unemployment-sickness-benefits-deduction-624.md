@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Form 1099-G or other statements issued by the U.S. Railroad Retirement Board (keep)
+source_doc: Form 1099-G or other statement issued by the U.S. Railroad Retirement Board
 form: Schedule 2
 line: "11 (code 624)"
 via:

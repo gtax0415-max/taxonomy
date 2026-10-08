@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule EZ 1, 2 and 3 (enclose) / payroll records for qualified employees / Schedule IN K-1 if passed through
+source_doc: Payroll records for each qualified enterprise zone employee (wages, residence, hours) / records of income derived from the zone / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6
 line: "6 (code 812)"
 refundable: false

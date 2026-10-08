@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Military retirement income statement(s) and/or survivor's benefit statement(s) (Form 1099-R from DFAS or the service) (enclose)
+source_doc: Form 1099-R from DFAS or the service (military retirement pay or survivor benefits)
 form: Schedule 2
 line: "11 (code 632)"
 via:

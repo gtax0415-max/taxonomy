@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Premium statements (keep) / policy outline of coverage, application or front page showing the Indiana Long-Term Care program box
+source_doc: Premium statements / policy outline of coverage, application or front page showing the Indiana Long-Term Care program statement
 form: Schedule 2
 line: "11 (code 608)"
 via:

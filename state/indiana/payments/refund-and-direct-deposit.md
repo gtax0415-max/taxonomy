@@ -3,7 +3,7 @@ type: payment
 category: refund
 jurisdiction: IN
 tax_year: 2026
-source_doc: Bank routing and account numbers (from a check, not a deposit slip) / Hoosier Works MasterCard 12-digit account number from the monthly statement
+source_doc: None (an election made on the return; routing and account numbers from a check)
 form: Form IT-40
 line: "21, 22a-22d"
 via:

@@ -3,7 +3,7 @@ type: tax
 category: county-tax-rates
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule CT-40 county rate chart (2026 version when issued) / Departmental Notice #1 effective Oct. 1, 2026 (R47 / 10-26)
+source_doc: Address of principal residence on January 1, 2026
 form: Schedule CT-40
 line: "2A, 2B"
 via:

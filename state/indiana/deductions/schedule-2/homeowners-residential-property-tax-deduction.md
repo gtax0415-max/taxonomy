@@ -3,7 +3,7 @@ type: deduction
 category: homeowners-property-tax-deduction
 jurisdiction: IN
 tax_year: 2026
-source_doc: County property tax statements (spring and fall installments) / Form 1098 or escrow statement / canceled checks
+source_doc: County property tax statements (spring and fall installments) / Form 1098 Box 10 or escrow statement / canceled checks
 form: Schedule 2
 line: "2"
 via:

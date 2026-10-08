@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Form CSA 1099-R (keep with records) / Form SSA-1099 / Form RRB-1099 and RRB-1099-R
+source_doc: Form CSA 1099-R / Form SSA-1099 / Forms RRB-1099 and RRB-1099-R
 form: Schedule 2
 line: "11 (code 601)"
 via:

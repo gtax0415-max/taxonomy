@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Career scholarship account distribution statement / federal return showing the amount included in federal AGI
+source_doc: Career scholarship account distribution statement / federal Form 1040 showing the amount included in federal AGI
 form: Schedule 2
 line: "11 (code 642)"
 via:

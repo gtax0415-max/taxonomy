@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: IEDC approval of the credit / Schedule IN K-1 if passed through (keep with records) / Schedule IN-OCC
+source_doc: Indiana Economic Development Corporation (IEDC) approval or certification letter / records of the qualified logistics investment / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6; Schedule IN-OCC
 line: "7 (Schedule IN-OCC, code 860)"
 refundable: false

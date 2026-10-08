@@ -3,7 +3,7 @@ type: credit
 category: refundable-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal return (IT-40, line 1 federal AGI) / dates of birth of taxpayer and spouse / months of Indiana residence / days incarcerated during the year / spouse's date of death if applicable
+source_doc: Federal Form 1040, line 11a (federal AGI) / dates of birth of taxpayer and spouse / dates of Indiana residence / spouse's death certificate, if applicable
 form: IT-40 Schedule 5
 line: "5"
 refundable: true

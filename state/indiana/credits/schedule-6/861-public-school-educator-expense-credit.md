@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Receipts for classroom supplies / record of reimbursements not included in W-2 box 1 / W-2 from an Indiana school corporation
+source_doc: Receipts for classroom supplies / records of reimbursements not included in W-2 Box 1 / Form W-2 from an Indiana school corporation
 form: IT-40 Schedule 6
 line: "6 (code 861)"
 refundable: false

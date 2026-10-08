@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule IN-PAT (keep with records) / patent documentation
+source_doc: U.S. patent (utility or plant) showing issue date / records of patent income and where the invention was developed
 form: Schedule 2
 line: "11 (code 622)"
 via:

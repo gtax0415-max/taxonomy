@@ -3,7 +3,7 @@ type: filing
 category: filing-requirements
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal return (gross income) / W-2s, 1099s and other income statements / dependent information
+source_doc: Forms W-2, 1099 and other income statements / federal Form 1040 (gross income) / dependent information
 form: Form IT-40
 line: "n/a"
 via:

@@ -3,7 +3,7 @@ type: credit
 category: refundable-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Lake County (Indiana) property tax bill or receipts for the principal residence / deed or land contract / IT-40 completed through line 7 / Schedule 2, line 2 homeowner's deduction if one was entered
+source_doc: Lake County, Indiana property tax statements (spring and fall installments) for the principal residence / Form 1098 Box 10 or escrow statement / deed or land contract
 form: IT-40 Schedule 5
 line: "7"
 refundable: true

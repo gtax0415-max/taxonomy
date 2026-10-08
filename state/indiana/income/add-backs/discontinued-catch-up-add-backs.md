@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal and Indiana depreciation schedules for the asset / prior Indiana returns showing the add-back code / sale or disposition records
+source_doc: Federal depreciation schedules for the asset / sale or disposition records
 form: Schedule 1
 line: "6 (codes 108, 109, 110, 111, 112, 121, 126, 129, 130, 131, 135)"
 via:

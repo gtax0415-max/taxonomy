@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Prior-year Indiana returns showing conformity add-backs / federal return items affected / DOR conformity guidance
+source_doc: Federal return items affected by the conformity difference / prior-year federal returns
 form: Schedule 1
 line: "6 (code 147)"
 via:

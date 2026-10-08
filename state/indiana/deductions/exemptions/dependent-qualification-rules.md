@@ -3,7 +3,7 @@ type: exemption
 category: dependent-qualification
 jurisdiction: IN
 tax_year: 2026
-source_doc: Birth certificates, school records, residency and support records / federal Form 8332 or divorce decree pages / Income Tax Information Bulletin #117
+source_doc: Birth certificates, school records, residency and support records / federal Form 8332 or divorce decree pages
 form: Schedule 3 / Schedule IN-DEP
 line: "2-3"
 via:

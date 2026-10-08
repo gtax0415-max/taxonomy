@@ -3,7 +3,7 @@ type: exemption
 category: additional-dependent-child-exemption
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule IN-DEP / child's date of birth and relationship / student enrollment records / foster placement or guardianship papers
+source_doc: Each child's date of birth and relationship / school enrollment records for a full-time student / foster placement or guardianship papers
 form: Schedule 3
 line: "3"
 via:

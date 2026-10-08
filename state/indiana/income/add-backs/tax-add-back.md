@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Schedules C, E and F (taxes and licenses lines) / Form 8829 / Schedules K-1 (Form 1065, 1120-S, 1041) and Indiana Schedule IN K-1 showing state income taxes or pass through entity tax deducted / records of any PTET refund
+source_doc: Federal Schedules C, E and F (taxes and licenses lines) / federal Form 8829 / federal Schedule K-1 and the entity's statement of state income tax or pass-through entity tax deducted
 form: Schedule 1
 line: "1"
 via:

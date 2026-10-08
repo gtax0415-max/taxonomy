@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Neighborhood Assistance Program approval / receipts for the contribution or records of the assistance activities / Schedule IN K-1 if passed through
+source_doc: IHCDA Neighborhood Assistance Program approval / receipt from the approved organization for the contribution / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6
 line: "6 (code 828)"
 refundable: false

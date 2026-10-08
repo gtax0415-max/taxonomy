@@ -3,7 +3,7 @@ type: credit
 category: refundable-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Form 1040 showing the earned income credit / federal Schedule EIC (qualifying children) / IRS EIC worksheet earned income / children's SSNs, relationship, age and months lived with you
+source_doc: Federal Form 1040 earned income credit line / federal Schedule EIC / Form W-2 Box 1 and self-employment records (earned income) / qualifying children's SSNs, dates of birth and months lived with you
 form: IT-40 Schedule 5; Schedule IN-EIC
 line: "6"
 refundable: true

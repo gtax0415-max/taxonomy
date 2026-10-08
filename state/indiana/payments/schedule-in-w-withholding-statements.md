@@ -3,7 +3,7 @@ type: filing
 category: schedule-in-w
 jurisdiction: IN
 tax_year: 2026
-source_doc: Forms W-2, W-2C, W-2G, 1099-R, 1099-G, 1099-MISC, 1099-NEC, IN-MSID-A and Schedule IN K-1 showing Indiana state or county tax withheld
+source_doc: Forms W-2, W-2C, W-2G, 1099-R, 1099-G, 1099-MISC and 1099-NEC showing Indiana state or county tax withheld
 form: Schedule IN-W
 line: "1-25, 26, 27"
 via:

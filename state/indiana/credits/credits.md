@@ -3,7 +3,6 @@ type: credit
 category: credits
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule 5 and Schedule 6 of Form IT-40 / the supporting schedules each credit names (Schedule IN-EIC, CC-40, IN-529, IN-ABLE, IN-OCC, IN-EDGE, IN-EDGE-R) / Schedule IN K-1 for credits passed through from an entity
 form: IT-40
 line: "12, 13, 14"
 via:

@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Indiana529 account statements showing contributions and account numbers / Schedule IN-529 / IT-40, line 8
+source_doc: Indiana529 account statements showing contributions, dates and account numbers / Form 1099-Q for any withdrawals
 form: IT-40 Schedule 6; Schedule IN-529
 line: "6 (code 837)"
 refundable: false

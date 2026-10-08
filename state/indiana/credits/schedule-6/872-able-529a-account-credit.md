@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Indiana ABLE (InvestABLE Indiana) account statements showing contributions, dates and account numbers / Schedule IN-ABLE / IT-40, line 8
+source_doc: InvestABLE Indiana (Indiana ABLE) account statements showing contributions, dates and account numbers / Form 1099-QA for any distributions
 form: IT-40 Schedule 6; Schedule IN-ABLE
 line: "6 (code 872)"
 refundable: false

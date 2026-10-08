@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Records of the repayment / prior-year federal and Indiana returns showing the income / federal return showing the claim of right deduction or credit
+source_doc: Records of the repayment / prior-year federal return showing the income / federal return showing the claim-of-right deduction or credit
 form: Schedule 2
 line: "11 (code 630)"
 via:

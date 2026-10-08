@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule Q (Form 1066) or REMIC statements showing excess inclusion income / federal NOL computation / Schedule NOL-MOD
+source_doc: Schedule Q (Form 1066) or REMIC statements showing excess inclusion income / federal NOL computation
 form: Schedule 1
 line: "6 (code 153)"
 via:

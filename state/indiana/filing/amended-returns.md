@@ -3,7 +3,7 @@ type: filing
 category: amended-returns
 jurisdiction: IN
 tax_year: 2026
-source_doc: Originally filed 2026 Form IT-40 / corrected federal return or IRS adjustment / all schedules reflecting the changes / record of amounts paid and refunds received
+source_doc: Corrected federal Form 1040-X or IRS adjustment notice / corrected Forms W-2, 1099 or K-1 / records of amounts paid and refunds received
 form: Form IT-40
 line: "header (Amended box); Schedule 5, line 4"
 via:

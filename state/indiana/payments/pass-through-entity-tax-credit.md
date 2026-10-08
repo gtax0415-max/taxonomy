@@ -3,7 +3,7 @@ type: payment
 category: pass-through-entity-tax-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule IN K-1 or IT-41 Schedule IN K-1 showing Indiana pass through entity tax (PTET) credited to you
+source_doc: Federal Schedule K-1 and the pass-through entity's statement of Indiana pass-through entity tax paid on your behalf
 form: Schedule 5
 line: "3"
 refundable: true

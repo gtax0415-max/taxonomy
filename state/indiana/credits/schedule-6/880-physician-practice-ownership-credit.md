@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: DOR approval of the credit (attach proof) / ownership records of the physician owned practice / physician license number / Schedule IN-OCC
+source_doc: Indiana Department of Revenue approval letter for the credit / ownership records of the physician-owned practice / physician license
 form: IT-40 Schedule 6; Schedule IN-OCC
 line: "7 (Schedule IN-OCC, code 880)"
 refundable: false

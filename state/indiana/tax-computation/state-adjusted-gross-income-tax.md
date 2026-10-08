@@ -3,7 +3,7 @@ type: tax
 category: state-tax
 jurisdiction: IN
 tax_year: 2026
-source_doc: Completed Form IT-40, lines 1-7
+source_doc: Federal Form 1040, line 11a (federal AGI)
 form: Form IT-40
 line: "8"
 via:

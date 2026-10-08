@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: IEDC documentation of the qualified investment in an enterprise zone / Schedule IN K-1 if passed through
+source_doc: Indiana Economic Development Corporation (IEDC) approval or certification letter documenting the qualified investment in the enterprise zone / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6
 line: "6 (code 813)"
 refundable: false

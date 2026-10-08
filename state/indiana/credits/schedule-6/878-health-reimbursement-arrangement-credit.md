@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Records of employer contributions to the health reimbursement arrangement per employee / employee count / prior-year benefit levels / Schedule IN-OCC
+source_doc: Records of employer contributions to the health reimbursement arrangement per employee / records of employee count and the year the HRA was established / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6; Schedule IN-OCC
 line: "7 (Schedule IN-OCC, code 878)"
 refundable: false

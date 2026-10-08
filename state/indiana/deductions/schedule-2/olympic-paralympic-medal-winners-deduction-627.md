@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Medal valuation / statement of prize money from the United States Olympic Committee
+source_doc: Medal valuation / statement of prize money from the U.S. Olympic & Paralympic Committee / Form 1099-MISC
 form: Schedule 2
 line: "11 (code 627)"
 via:

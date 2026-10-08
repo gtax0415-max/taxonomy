@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: IEDC approval / records of qualified rehabilitation expenditures (IRC 47(c)(2)) / evidence the building is a qualified historic structure / Schedule IN-OCC
+source_doc: Indiana Economic Development Corporation (IEDC) approval or certification letter / receipts for qualified rehabilitation expenditures (IRC 47(c)(2)) / documentation that the building is a qualified historic structure
 form: IT-40 Schedule 6; Schedule IN-OCC
 line: "7 (Schedule IN-OCC, code 879)"
 refundable: false

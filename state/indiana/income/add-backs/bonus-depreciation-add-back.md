@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Form 4562 and depreciation schedules / separate Indiana depreciation schedule computed without bonus depreciation / K-1s showing bonus depreciation passed through / like-kind exchange and excess business loss records
+source_doc: Federal Form 4562 and depreciation schedules / federal Schedule K-1 showing bonus depreciation / like-kind exchange records
 form: Schedule 1
 line: "4"
 via:

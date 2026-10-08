@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: None currently (the booklet lists no credits for this line)
+source_doc: None (no credit is currently available for this line)
 form: IT-40 Schedule 6
 line: "3, 3a, 3b"
 refundable: false

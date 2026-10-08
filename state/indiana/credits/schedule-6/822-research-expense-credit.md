@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule IN K-1 (enclose) or, for a sole proprietor or single-member LLC, Form IT-20REC (keep with records) / Schedule IN-OCC, Part B
+source_doc: Federal Form 6765 (credit for increasing research activities) / records of qualified research expenses incurred in Indiana / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6
 line: "6 (code 822)"
 refundable: false

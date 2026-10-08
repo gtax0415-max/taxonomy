@@ -3,7 +3,7 @@ type: deduction
 category: private-school-homeschool
 jurisdiction: IN
 tax_year: 2026
-source_doc: Receipts for tuition, fees, textbooks, workbooks, curricula, software and supplies / proof of enrollment of at least 180 days
+source_doc: Receipts for tuition, fees, textbooks, workbooks, curricula, software and supplies / proof of enrollment or instruction for at least 180 days
 form: Schedule 2
 line: "8"
 via:

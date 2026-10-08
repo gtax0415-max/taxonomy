@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Form 4562 Part VI or statements showing IRC 174 amortization / IRC 174A domestic research expense deductions / records of any P.L. 119-21 Section 70302(f) election / prior Indiana returns with codes 154 and 641
+source_doc: Federal Form 4562 Part VI or IRC 174 amortization statements / IRC 174A domestic research expense records / records of any P.L. 119-21 Section 70302(f) election
 form: Schedule 1
 line: "6 (code 154)"
 via:

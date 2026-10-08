@@ -3,7 +3,7 @@ type: payment
 category: estimated-tax
 jurisdiction: IN
 tax_year: 2026
-source_doc: Records of 2026 Indiana estimated payments (INTIME confirmations, ES-40 vouchers, canceled checks) / 2025 overpayment applied to 2026 (2025 Form IT-40, line 19d) / Form IT-9 extension payment / amount paid with an original return if amending
+source_doc: Confirmations of 2026 Indiana estimated payments (online or check) / record of the 2025 overpayment applied to 2026 / confirmation of any extension payment
 form: Schedule 5
 line: "4"
 via:

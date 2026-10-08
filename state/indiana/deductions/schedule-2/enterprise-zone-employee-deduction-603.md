@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Form IT-40QEC from the employer
+source_doc: Form W-2 and the employer's certification of qualified enterprise zone wages and residence
 form: Schedule 2
 line: "11 (code 603)"
 via:

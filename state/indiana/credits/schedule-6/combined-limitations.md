@@ -3,7 +3,7 @@ type: credit
 category: credit-limitation
 jurisdiction: IN
 tax_year: 2026
-source_doc: Completed IT-40 lines 8 and 9 / the amount of each offset credit and whether it can be carried forward / IEDC project information for credits limited to one per project
+source_doc: Approval letters and carryforward records for each credit claimed / IEDC project information for credits limited to one per project
 form: IT-40 Schedule 6
 line: "1-3 (limit IT-40 line 9); 4-7 (limit IT-40 line 8)"
 refundable: false

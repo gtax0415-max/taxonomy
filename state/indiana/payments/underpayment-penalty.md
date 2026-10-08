@@ -3,7 +3,7 @@ type: tax
 category: underpayment-penalty
 jurisdiction: IN
 tax_year: 2026
-source_doc: Completed 2026 Form IT-40 / 2025 Form IT-40 or IT-40PNR (prior-year tax) / records of 2026 estimated payments and dates (Form ES-40, INTIME) / W-2s and PTET statements / income records by period for IT-2210A / farm and fishing income records
+source_doc: Records of 2026 estimated payments and dates / Forms W-2 and 1099 showing Indiana withholding / prior-year (2025) tax liability / income records by period if income was uneven
 form: Form IT-40; Schedules IT-2210 and IT-2210A
 line: "20, 20a"
 via:

@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule IN K-1 from the S corporation reporting the credit
+source_doc: Federal Schedule K-1 (Form 1120-S) and the S corporation's statement of your share of the credit
 form: IT-40 Schedule 6
 line: "6 or 7 (code 881; the booklet names no line)"
 refundable: false

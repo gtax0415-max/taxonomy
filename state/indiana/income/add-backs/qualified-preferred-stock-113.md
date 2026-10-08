@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Prior Indiana returns showing code 113 add-backs / records of losses on Fannie Mae or Freddie Mac preferred stock / federal Schedule D capital loss computation
+source_doc: Records of losses on Fannie Mae or Freddie Mac preferred stock / federal Schedule D and capital loss carryover worksheet
 form: Schedule 1
 line: "6 (code 113)"
 via:

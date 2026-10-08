@@ -3,7 +3,7 @@ type: credit
 category: refundable-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Form 8839 for the current year and for each prior year a carryforward came from / federal Adoption Credit Carryforward Worksheet from the Form 8839 instructions / federal Form 1040 / each child's name, year of birth and identification number / record of Indiana adoption credits claimed in earlier years for the child
+source_doc: Federal Form 8839 for the current year and each carryforward year / federal Adoption Credit Carryforward Worksheet / each child's name, year of birth and identifying number / final adoption decree / record of Indiana adoption credits claimed in earlier years for the child
 form: IT-40 Schedule 5; Adoption Credit Worksheet (booklet pages 33-34)
 line: "11"
 refundable: true

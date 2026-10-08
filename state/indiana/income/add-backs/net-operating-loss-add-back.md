@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Schedule 1 (Form 1040), net operating loss line (line 8a on the 2025 form) / federal NOL carryover worksheet / Indiana Schedule IT-40NOL for each loss year
+source_doc: Federal Schedule 1 (Form 1040), net operating loss line / federal NOL carryover worksheet
 form: Schedule 1
 line: "2"
 via:

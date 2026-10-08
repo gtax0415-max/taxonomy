@@ -3,7 +3,7 @@ type: payment
 category: donations
 jurisdiction: IN
 tax_year: 2026
-source_doc: The taxpayer's chosen fund amounts / completed Form IT-40 showing the line 16 overpayment
+source_doc: None (an election made on the return from the overpayment)
 form: Schedule IN-DONATE
 line: "1a-1c, 2; Form IT-40, line 17"
 via:

@@ -3,7 +3,7 @@ type: deduction
 category: us-government-interest
 jurisdiction: IN
 tax_year: 2026
-source_doc: Form 1099-INT (U.S. savings bonds and Treasury obligations) / federal Schedule B / Schedule K-1 from trusts, estates, partnerships or S corporations
+source_doc: Form 1099-INT Box 3 (U.S. savings bonds and Treasury obligations) / federal Schedule B / federal Schedule K-1 showing U.S. government interest
 form: Schedule 2
 line: "4"
 via:

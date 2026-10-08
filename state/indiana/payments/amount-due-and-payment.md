@@ -3,7 +3,7 @@ type: payment
 category: amount-due
 jurisdiction: IN
 tax_year: 2026
-source_doc: Completed Form IT-40 (lines 14, 15, 20) / bank account or card for payment / INTIME account for a payment plan
+source_doc: Payment confirmations (bank payment, card or check)
 form: Form IT-40
 line: "23, 26"
 via:

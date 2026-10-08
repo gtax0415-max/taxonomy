@@ -3,7 +3,6 @@ type: credit
 category: schedule-5
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule 5 of Form IT-40 / Schedule IN-W and withholding statements / Schedule IN K-1 / the worksheets and schedules for lines 5-11
 form: IT-40 Schedule 5
 line: "1-13"
 via:

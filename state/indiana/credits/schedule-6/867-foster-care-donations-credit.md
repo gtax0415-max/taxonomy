@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: DOR approval letter for the credit / receipt from the qualifying foster care organization or the Insuring Foster Youth Trust Fund / Schedule IN-OCC
+source_doc: Indiana Department of Revenue approval letter for the credit / receipt from the qualifying foster care organization or the Insuring Foster Youth Trust Fund
 form: IT-40 Schedule 6; Schedule IN-OCC
 line: "7 (Schedule IN-OCC, code 867)"
 refundable: false

@@ -3,7 +3,7 @@ type: filing
 category: county-codes
 jurisdiction: IN
 tax_year: 2026
-source_doc: Address and employer location on Jan. 1, 2026 for you and your spouse / Schedule CT-40 county code chart
+source_doc: Address of principal residence on January 1, 2026 for you and your spouse / Form W-2 or employer records showing the work location on January 1
 form: Form IT-40
 line: "header (county where you lived, you worked, spouse lived, spouse worked)"
 via:

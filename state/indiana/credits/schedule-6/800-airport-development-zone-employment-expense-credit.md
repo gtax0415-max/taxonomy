@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Prior approval or certification of the credit / record of credit used in earlier years (carryforward) / Schedule IN K-1 if passed through
+source_doc: Prior-year approval or certification letter for the credit / records of the credit used in earlier years (unused carryforward balance) / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6
 line: "6 (code 800)"
 refundable: false

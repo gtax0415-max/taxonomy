@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Form 982 (reduction of tax attributes for excluded discharge of indebtedness) / Indiana Schedule NOL-MOD / Schedule IT-40NOL and carryforward worksheets
+source_doc: Federal Form 982 / Form 1099-C / records of NOL carryforwards
 form: Schedule 1
 line: "6 (code 155)"
 via:

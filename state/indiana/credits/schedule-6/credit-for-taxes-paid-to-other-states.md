@@ -3,7 +3,7 @@ type: credit
 category: offset-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Copy of the other state's income tax return / W-2G for other-state gambling winnings when no return is required / Schedule IN K-1 or other-state K-1 for pass through entity tax, composite or withholding paid for you / federal Form 1116, Canadian Form NR4 or qualified payee statement for foreign tax
+source_doc: Form W-2 Boxes 15-17 or W-2G showing other-state tax withheld / federal Form 1116, Form 1099-DIV Box 7 or Form 1099-INT Box 6 for foreign tax / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6
 line: "5"
 refundable: false

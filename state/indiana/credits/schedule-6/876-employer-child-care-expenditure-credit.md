@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: Records of qualified child care expenditures / child care facility licensing / record of employee count / Schedule IN K-1 if passed through
+source_doc: Records of qualified child care expenditures / child care facility license or provider contract / records of employee count / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 6
 line: "6 or 7 (code 876; the booklet names no line)"
 refundable: false

@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Indiana education scholarship account statements / records of qualified expenses (IC 20-51.4-2-9)
+source_doc: Indiana education scholarship account statements / receipts for qualified expenses
 form: Schedule 2
 line: "11 (code 635)"
 via:

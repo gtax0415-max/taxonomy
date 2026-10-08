@@ -3,7 +3,7 @@ type: income
 category: add-back
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Form 4562 and the IRC 168(n) election statement / depreciation schedules computed as if no 168(n) election were made / records of any 168(n)(5) recapture
+source_doc: Federal Form 4562 and the IRC 168(n) election statement / depreciation schedules computed without the election / records of any 168(n)(5) recapture
 form: Schedule 1
 line: "to be assigned on the 2026 form"
 via:

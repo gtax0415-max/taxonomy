@@ -3,7 +3,7 @@ type: exemption
 category: age-65-or-blind-exemption
 jurisdiction: IN
 tax_year: 2026
-source_doc: Dates of birth of taxpayer and spouse / proof of legal blindness
+source_doc: Dates of birth of taxpayer and spouse / physician's statement of legal blindness
 form: Schedule 3
 line: "4"
 via:

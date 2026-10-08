@@ -3,7 +3,7 @@ type: deduction
 category: state-tax-refund
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Schedule 1 (line 1 on the 2025 form) / Form 1099-G for the state refund
+source_doc: Form 1099-G (state tax refund) / federal Schedule 1 (Form 1040), line 1
 form: Schedule 2
 line: "3"
 via:

@@ -3,7 +3,7 @@ type: payment
 category: overpayment-applied
 jurisdiction: IN
 tax_year: 2026
-source_doc: Form ES-40 worksheet for next year (line I installment, line J state portion, line K your county portion, line L spouse's county portion) / county codes
+source_doc: None (an election made on the return from the overpayment)
 form: Form IT-40
 line: "19a, 19b, 19c, 19d"
 via:

@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Schedule IT-2440 with the Physician's Statement of Permanent and Total Disability / disability retirement payment statements (Form 1099-R) / federal AGI
+source_doc: Physician's statement of permanent and total disability / Form 1099-R for disability retirement payments / federal Form 1040, line 11a (federal AGI)
 form: Schedule 2
 line: "11 (code 602)"
 via:

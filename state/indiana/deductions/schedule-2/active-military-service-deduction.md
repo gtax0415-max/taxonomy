@@ -3,7 +3,7 @@ type: deduction
 category: military-service
 jurisdiction: IN
 tax_year: 2026
-source_doc: Military Form W-2 (must be enclosed)
+source_doc: Military Form W-2 (Box 1 active-duty pay)
 form: Schedule 2
 line: "7"
 via:

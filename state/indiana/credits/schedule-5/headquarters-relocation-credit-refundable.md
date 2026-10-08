@@ -3,7 +3,7 @@ type: credit
 category: business-credit
 jurisdiction: IN
 tax_year: 2026
-source_doc: IEDC certificate verifying the credit for the year and the IEDC ruling on the refundable portion / proof of relocation costs, Indiana employment and payroll / Schedule IN K-1 if passed through / Schedule IN-OCC
+source_doc: Indiana Economic Development Corporation (IEDC) approval or certification letter for the year, including the ruling on the refundable portion / proof of relocation costs, Indiana employment and payroll / federal Schedule K-1 (Form 1065, 1120-S or 1041) and the pass-through entity's statement of your share of the credit
 form: IT-40 Schedule 5; Schedule IN-OCC
 line: "10"
 refundable: true

@@ -3,7 +3,7 @@ type: deduction
 category: other-deductions
 jurisdiction: IN
 tax_year: 2026
-source_doc: Federal Form 4562 and IRC 174/174A amortization schedules / records of research and experimental expenditures / Schedule 1 Code 154 computations
+source_doc: Federal Form 4562 and IRC 174/174A amortization schedules / records of research and experimental expenditures
 form: Schedule 2
 line: "11 (code 641)"
 via:
