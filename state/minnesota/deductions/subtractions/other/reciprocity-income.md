@@ -3,7 +3,7 @@ type: subtraction
 jurisdiction: Minnesota
 tax_year: 2026
 category: subtractions-other
-source_doc: Form W-2 showing Minnesota withholding / home-state (Michigan or North Dakota) return / Form MWR
+source_doc: Form W-2 Boxes 15–17 showing Minnesota wages and withholding / Michigan or North Dakota income tax return as filed / proof of permanent residence in the home state
 form: Form M1
 line: "7"
 via:

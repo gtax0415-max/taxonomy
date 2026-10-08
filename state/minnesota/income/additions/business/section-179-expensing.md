@@ -3,6 +3,7 @@ type: addition
 jurisdiction: Minnesota
 tax_year: 2026
 category: additions-business
+source_doc: Federal Form 4562 Part I as filed / equipment invoices
 status: "NO 2026 adjustment — full conformity since tax year 2020"
 form: Form M1
 line: "none for 2026"

@@ -3,7 +3,7 @@ type: subtraction
 jurisdiction: Minnesota
 tax_year: 2026
 category: subtractions-business
-source_doc: 2019–2022 Schedules M1NC (lines 8 / 16) / 2023 Minnesota return / 2026 Schedule KF line 24
+source_doc: Federal Form 8990 as filed for 2019–2022 / prior-year return copies showing the Minnesota business interest disallowed / estate or trust K-1 statement of the delayed interest subtraction
 form: Form M1
 line: "7"
 via:

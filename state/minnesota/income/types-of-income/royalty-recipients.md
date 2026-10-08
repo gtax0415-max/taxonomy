@@ -3,7 +3,7 @@ type: income
 jurisdiction: Minnesota
 tax_year: 2026
 category: types-of-income
-source_doc: Form 1099-MISC (royalties) showing Minnesota withholding / Form W-4MN (exemption from withholding) / mineral lease
+source_doc: Form 1099-MISC Box 2 (royalties) and state boxes showing Minnesota withholding / mineral lease
 form: Form M1
 line: "1 (through federal AGI); withholding on Schedule M1W → Form M1 Line 20"
 ---

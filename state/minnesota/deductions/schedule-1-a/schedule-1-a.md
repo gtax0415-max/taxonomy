@@ -3,6 +3,7 @@ type: reference
 jurisdiction: Minnesota
 tax_year: 2026
 category: schedule-1-a
+source_doc: Federal Schedule 1-A as filed / Form W-2 Box 12 codes TP and TT / Form 1098-VLI
 form: Form M1
 line: "none"
 federal_counterpart: federal/deductions/schedule-1-a/

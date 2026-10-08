@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: family-dependent
-source_doc: Schedule M1DQC (qualifying older child determination) / children's dates of birth, school enrollment, or disability documentation
+source_doc: Children's dates of birth and SSNs, ITINs, or ATINs / school enrollment records showing full-time status for 5 months / physician's statement of permanent and total disability / records of months lived with you / federal Form 1040 dependents section as filed
 form: Form M1
 line: "22"
 refundable: yes

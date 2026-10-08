@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: business
-source_doc: DEED written certification for the Border-Cities Enterprise Zone Program / Schedule KS or KPI line 33
+source_doc: DEED written certification for the Border-Cities Enterprise Zone Program / owner's share statement from the entity (Minnesota Schedule KPI or KS received from the entity)
 form: Form M1
 line: "22"
 refundable: yes

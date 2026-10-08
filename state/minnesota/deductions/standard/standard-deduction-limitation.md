@@ -3,6 +3,7 @@ type: deduction
 jurisdiction: Minnesota
 tax_year: 2026
 category: standard
+source_doc: Federal Form 1040 Line 11 (AGI) as filed / filing status
 form: Form M1
 line: "4"
 via:

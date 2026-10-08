@@ -3,7 +3,7 @@ type: subtraction
 jurisdiction: Minnesota
 tax_year: 2026
 category: subtractions-business
-source_doc: Prior-year Schedule M1AR / Form 6252 for 2026 / composite tax records
+source_doc: Prior-year return copy showing the accelerated installment sale gain / federal Form 6252 as filed for 2026 / partnership composite tax records
 form: Form M1
 line: "7"
 via:

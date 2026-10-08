@@ -3,7 +3,7 @@ type: tax
 jurisdiction: Minnesota
 tax_year: 2026
 category: taxes
-source_doc: Form M1 Line 9 (Minnesota taxable income) / filing status
+source_doc: Federal Form 1040 as filed (filing status, Line 11 AGI)
 form: Form M1
 line: "10"
 via:

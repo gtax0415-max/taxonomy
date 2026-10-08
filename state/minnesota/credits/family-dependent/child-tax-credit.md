@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: family-dependent
-source_doc: Children's Social Security numbers or ITINs, dates of birth, and residency records / Schedule M1DQC Row 10 / federal Form 1040 Line 11 (AGI) / Minnesota advance-payment Summary Letter (if advances received)
+source_doc: Children's SSNs, ITINs, or ATINs, dates of birth, and records of months lived with you / federal Form 1040 dependents section and Line 11 (AGI) as filed / Form 8332 if the exemption was released / Minnesota advance-payment Summary Letter (if advances received)
 form: Form M1
 line: "22"
 refundable: yes

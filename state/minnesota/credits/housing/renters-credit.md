@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: housing
-source_doc: Certificate of Rent Paid (CRP) Line 3 (rent paid) and Line A (rent paid by Medical Assistance) / federal Form 1040 Line 11 (AGI) / Schedule M1DQC Row 6 (dependents) / nontaxable income records if rent exceeds AGI
+source_doc: Certificate of Rent Paid (CRP) from the landlord — Line 3 rent paid and Line A rent paid by Medical Assistance / federal Form 1040 Line 11 (AGI) and dependents section as filed / nontaxable income records if rent exceeds AGI
 form: Form M1
 line: "22"
 refundable: yes

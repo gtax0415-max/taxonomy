@@ -3,6 +3,7 @@ type: subtraction
 jurisdiction: Minnesota
 tax_year: 2026
 category: subtractions-business
+source_doc: Federal Form 4562 Part I as filed / prior-year return copies (no 2026 subtraction remains)
 status: "NO 2026 subtraction — five-year recovery ended with tax year 2024"
 form: Form M1
 line: "none for 2026"

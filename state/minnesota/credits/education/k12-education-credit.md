@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: education
-source_doc: Itemized receipts, invoices, and canceled checks for education expenses / qualified instructor information / Schedule M1DQC / federal Form 1040 Line 11 (AGI)
+source_doc: Itemized receipts, invoices, and canceled checks for education expenses / qualified instructor information / child's SSN, date of birth, school, and grade / federal Form 1040 Line 11 (AGI) as filed
 form: Form M1
 line: "22"
 refundable: yes

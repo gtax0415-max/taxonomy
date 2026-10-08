@@ -3,7 +3,7 @@ type: index
 jurisdiction: Minnesota
 tax_year: 2026
 category: root
-source_doc: "2026 Form M1 near-final draft (8/3/2026), 2026 Summary of Annual Forms Changes (10/1/2026), 2026 final/near-final draft schedules"
+references: "2026 Form M1 near-final draft (8/3/2026), 2026 Summary of Annual Forms Changes (10/1/2026), 2026 final/near-final draft schedules"
 ---
 # Form M1 Line-by-Line Map to the Taxonomy (Tax Year 2026)
 Verified against the 2026 Form M1 near-final draft (8/3/2026): the only change from 2025 is the party under code 18 (now Forward Independence), plus updated cross-references — Line 2 now pulls Schedule M1M line 12 and M1MB line 12, Line 7 pulls M1M line 43 and M1MB line 26, and Line 30 applies the refund to 2027 estimated tax. Schedule line numbers below are 2026.

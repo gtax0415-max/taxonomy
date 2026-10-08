@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: other-state-tax
-source_doc: Other state's (or DC / Canadian province's) filed income tax return and proof of tax paid / Form W-2 Box 15–17 for other-state wages and withholding / Schedule K-1 state allocations
+source_doc: Other state's (or DC's or Canadian province's) income tax return as filed and proof of tax paid / Form W-2 Boxes 15–17 for other-state wages and withholding / federal Schedule K-1 and the entity's state allocation statements
 form: Form M1
 line: "16"
 refundable: no

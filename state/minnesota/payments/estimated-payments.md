@@ -3,7 +3,7 @@ type: payments
 jurisdiction: Minnesota
 tax_year: 2026
 category: payments
-source_doc: Estimated payment confirmations / prior-year Form M1 Lines 29–30 (refund applied) / extension payment records
+source_doc: Estimated payment confirmations and canceled checks (dates and amounts) / prior-year return copy (refund applied to 2026 estimated tax) / extension payment records
 form: Form M1
 line: "21, 29, 30"
 via:

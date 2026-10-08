@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: business
-source_doc: Schedule KS line 27 / Schedule KPI line 27 / Schedule KF line 34 (tentative current-year credit)
+source_doc: Owner's share statement from the entity showing the Minnesota research credit (Minnesota Schedule KPI, KS, or KF received from the entity) / federal Form 6765 as filed
 form: Form M1
 line: "16 / 22"
 refundable: partly (by election)

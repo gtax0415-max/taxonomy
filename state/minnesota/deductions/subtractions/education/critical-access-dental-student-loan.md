@@ -16,7 +16,9 @@ Employees of a critical access dental clinic may subtract student loan assistanc
 ## Rules
 - Assistance must come from the clinic that employs the taxpayer
 - Paid to the employee for loans or directly to the lender
-## Interaction
-Minnesota's 2026 addition for employer student loan payments (Schedule M1M, Line 7) applies to federally EXCLUDED payments; confirm in the final instructions how the first $5,250 for clinic employees is treated on Line 7.
+## Interaction with the Line 7 addition (resolved)
+Minnesota Statutes 290.0132, subd. 36 limits this subtraction to student loan assistance IN EXCESS of the federal section 127 limit ($5,250). The first $5,250, which is excluded federally, is NOT covered here; it is added back on Schedule M1M Line 7 like all other employer student loan payments. Result for a clinic employee: Minnesota taxes the first $5,250 and exempts the excess.
+## Example
+Clinic pays $8,250 on the employee's loans: $5,250 excluded federally and added back on Line 7; $3,000 included in W-2 Box 1 and subtracted on Line 35. Net Minnesota increase $2,250.
 ## Prompt
 - I work at a critical access dental clinic that pays my student loans.

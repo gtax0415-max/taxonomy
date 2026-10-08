@@ -3,6 +3,7 @@ type: addition
 jurisdiction: Minnesota
 tax_year: 2026
 category: additions-individual
+source_doc: Federal Form 1040 Line 11 (AGI) as filed / federal Schedule A as filed
 status: "Not a separate addition for 2026 — computed on Schedule M1SA, Line 28"
 form: Form M1
 line: "4 (via Schedule M1SA)"

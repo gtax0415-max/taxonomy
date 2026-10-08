@@ -3,6 +3,7 @@ type: deduction
 jurisdiction: Minnesota
 tax_year: 2026
 category: itemized
+source_doc: Federal Form 1040 Line 11 (AGI) as filed / itemized deduction records (property tax statements, Form 1098, charity acknowledgments, medical bills)
 form: Form M1
 line: "4"
 via:

@@ -3,7 +3,7 @@ type: deduction
 jurisdiction: Minnesota
 tax_year: 2026
 category: itemized
-source_doc: Police or insurance reports / repair estimates and appraisals / insurance reimbursement records / Schedule M1CAT
+source_doc: Police or insurance reports / repair estimates and appraisals / insurance claim and reimbursement records / property basis records / federal Form 4684 as filed (if any)
 form: Form M1
 line: "4"
 via:

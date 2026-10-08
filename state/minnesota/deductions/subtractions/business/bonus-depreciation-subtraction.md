@@ -3,7 +3,7 @@ type: subtraction
 jurisdiction: Minnesota
 tax_year: 2026
 category: subtractions-business
-source_doc: 2021–2025 Schedules M1M/M1MB (bonus additions) / federal Forms 1045 (NOLs) / Schedule KF line 18
+source_doc: Federal Form 4562 as filed for 2021–2025 (bonus depreciation claimed) / prior-year return copies showing the Minnesota bonus depreciation additions / federal Form 1045 (NOLs) / trust or estate K-1 statement of the bonus depreciation subtraction
 form: Form M1
 line: "7"
 via:

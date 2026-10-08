@@ -3,7 +3,7 @@ type: filing
 jurisdiction: Minnesota
 tax_year: 2026
 category: filing
-source_doc: Death certificate / court appointment of personal representative / Form M23
+source_doc: Death certificate / court order appointing the personal representative / decedent's Forms W-2, 1099, and SSA-1099 for 2026
 form: Form M1 / Form M23
 ---
 # Filing for a Deceased Taxpayer

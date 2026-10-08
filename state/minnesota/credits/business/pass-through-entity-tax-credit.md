@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: business
-source_doc: Minnesota Schedule KS line 34 / Schedule KPI line 34 / Schedule KF line 43 (with the entity's Minnesota Tax ID)
+source_doc: Owner's share statement from the partnership, S corporation, or trust showing Minnesota PTE tax paid and the entity's Minnesota Tax ID (Minnesota Schedule KPI, KS, or KF received from the entity) / federal Schedule K-1
 form: Form M1
 line: "22"
 refundable: yes

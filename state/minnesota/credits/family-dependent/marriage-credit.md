@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: family-dependent
-source_doc: Form W-2 Box 1 per spouse / Schedule SE line 3 less SE tax deduction / Form 1040 Lines 4b, 5b (pensions) and 6b (taxable Social Security) split per spouse using SSA-1099 Box 5 / Form M1 Line 9 (Minnesota taxable income)
+source_doc: Form W-2 Box 1 for each spouse / federal Schedule SE as filed (each spouse's net earnings) / Form 1099-R and SSA-1099 Box 5 for each spouse / federal Form 1040 as filed (Lines 4b, 5b, 6b, 15)
 form: Form M1
 line: "16"
 refundable: no

@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: other
-source_doc: Prior-year Minnesota Schedules M1MT and M1MTC / current-year Schedule M1MT
+source_doc: Prior-year return copies showing Minnesota alternative minimum tax paid and any unused minimum tax credit / federal Form 6251 as filed (timing vs. exclusion items) / federal Form 8801 as filed
 form: Form M1
 line: "16"
 refundable: no

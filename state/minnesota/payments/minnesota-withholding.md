@@ -3,7 +3,7 @@ type: payments
 jurisdiction: Minnesota
 tax_year: 2026
 category: payments
-source_doc: Form W-2 Boxes 15–17 (Minnesota wages and withholding) / Forms 1099 (Minnesota withholding) / Form W-2G / Schedules KPI, KS, KF (withholding passed through)
+source_doc: Form W-2 Boxes 15–17 (Minnesota wages and withholding) / Forms 1099-R, 1099-MISC, 1099-NEC with Minnesota withholding / Form W-2G state boxes / Minnesota Schedule KPI, KS, or KF received from the entity (withholding passed through)
 form: Form M1
 line: "20"
 via:

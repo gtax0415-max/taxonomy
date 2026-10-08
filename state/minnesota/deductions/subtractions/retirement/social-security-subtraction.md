@@ -3,7 +3,7 @@ type: subtraction
 jurisdiction: Minnesota
 tax_year: 2026
 category: subtractions-retirement
-source_doc: Form SSA-1099 / Form RRB-1099 / Form 1040 Lines 6a, 6b, 2a, 9 / federal Schedule 1 Lines 21 and 26
+source_doc: Form SSA-1099 Box 5 / Form RRB-1099 / federal Form 1040 as filed (Lines 6a, 6b, 2a, 9, 11) / federal Schedule 1 Lines 21 and 26 as filed
 form: Form M1
 line: "7"
 via:

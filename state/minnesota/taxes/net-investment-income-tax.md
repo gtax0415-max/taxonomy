@@ -3,7 +3,7 @@ type: tax
 jurisdiction: Minnesota
 tax_year: 2026
 category: taxes
-source_doc: Federal Form 8960 Line 8 / records of Class 2a agricultural land gains / U.S. government interest detail / Schedule M1NR (nonresidents)
+source_doc: Federal Form 8960 Line 8 as filed / closing statements for sales of Class 2a agricultural land / Form 1099-INT Box 3 and fund statements of U.S. government interest
 form: Form M1
 line: "14a"
 via:

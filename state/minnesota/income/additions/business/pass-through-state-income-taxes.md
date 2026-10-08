@@ -3,7 +3,7 @@ type: addition
 jurisdiction: Minnesota
 tax_year: 2026
 category: additions-business
-source_doc: Schedule KPI line 2 / Schedule KS line 2 / Schedule KF line 2 / other states' K-1 PTE tax detail
+source_doc: Owner's share statement from the entity showing state income or PTE taxes deducted (Minnesota Schedule KPI, KS, or KF received from the entity) / other states' K-1 PTE tax detail / federal Schedule K-1
 form: Form M1
 line: "2"
 via:

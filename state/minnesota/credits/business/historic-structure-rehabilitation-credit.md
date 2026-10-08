@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: business
-source_doc: State Historic Preservation Office (SHPO) credit certificate with National Park Service project number / federal Form 3468 / Schedule KPI, KS, or KF
+source_doc: State Historic Preservation Office (SHPO) credit certificate with National Park Service project number / federal Form 3468 as filed / owner's share statement from the entity (Minnesota Schedule KPI, KS, or KF received from the entity)
 form: Form M1
 line: "22"
 refundable: yes

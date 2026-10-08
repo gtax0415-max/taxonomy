@@ -3,7 +3,7 @@ type: reference
 jurisdiction: Minnesota
 tax_year: 2026
 category: deductions
-source_doc: "MN TY2026 inflation-adjusted amounts (12/1/2025); 2026 final-draft Schedules M1SA, M1M, M1R, M1QPEN, M1HOME"
+references: "MN TY2026 inflation-adjusted amounts (12/1/2025); 2026 final-draft Schedules M1SA, M1M, M1R, M1QPEN, M1HOME"
 ---
 # Minnesota 2026 Deduction and Subtraction Thresholds by Filing Status
 Minnesota requires the SAME filing status as the federal return.

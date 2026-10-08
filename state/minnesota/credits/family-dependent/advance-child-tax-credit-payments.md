@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: family-dependent
-source_doc: Minnesota Revenue advance-payment Summary Letter (2026 payments received) / 2025 Schedule M1CWFC lines 7 and 28 / bank routing and account numbers (for 2027 advances)
+source_doc: Minnesota Department of Revenue advance-payment Summary Letter (2026 payments received) / prior-year Minnesota return copy (election made) / bank routing and account numbers (for 2027 advances)
 form: Form M1
 line: "22 / 14b"
 refundable: yes

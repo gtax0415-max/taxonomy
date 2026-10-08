@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: income-based
-source_doc: Form W-2 Box 1 and self-employment records (earned income) / Schedule M1DQC (qualifying older children) / federal Form 1040 Line 11 (AGI)
+source_doc: Form W-2 Box 1 / federal Schedule SE as filed (self-employment earnings) / federal Form 1040 Line 11 (AGI) and dependents section as filed / children's dates of birth, school enrollment, or disability records / investment income records (Forms 1099-INT, 1099-DIV, 1099-B)
 form: Form M1
 line: "22"
 refundable: yes

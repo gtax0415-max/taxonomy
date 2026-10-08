@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: housing
-source_doc: Property tax statement (taxes payable in the claim year) / household income records / Form M1PR
+source_doc: Property tax statement for taxes payable in the claim year / household income records (federal Form 1040 as filed, nontaxable income records) / dependents' information
 form: Form M1PR (separate property tax refund return, not Form M1)
 line: "n/a"
 refundable: yes

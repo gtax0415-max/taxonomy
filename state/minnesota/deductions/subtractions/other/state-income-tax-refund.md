@@ -3,7 +3,7 @@ type: subtraction
 jurisdiction: Minnesota
 tax_year: 2026
 category: subtractions-other
-source_doc: Form 1099-G (state income tax refund) / federal Schedule 1 Line 1
+source_doc: Form 1099-G from the Minnesota Department of Revenue (state refund) / federal Schedule 1 Line 1 as filed
 form: Form M1
 line: "6"
 via:

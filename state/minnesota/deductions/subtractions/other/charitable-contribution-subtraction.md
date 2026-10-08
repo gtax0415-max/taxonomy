@@ -3,7 +3,7 @@ type: subtraction
 jurisdiction: Minnesota
 tax_year: 2026
 category: subtractions-other
-source_doc: Charitable contribution records and acknowledgments (same substantiation as Schedule M1SA)
+source_doc: Bank records or written acknowledgments from the charity (cash gifts) / Form 8283 and appraisals (noncash gifts) / federal Form 1040 Line 11 (AGI) as filed
 form: Form M1
 line: "7"
 via:

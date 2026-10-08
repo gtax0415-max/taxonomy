@@ -3,7 +3,7 @@ type: tax
 jurisdiction: Minnesota
 tax_year: 2026
 category: taxes
-source_doc: Federal Form 6251 Part I (required even if not filed federally) / Schedules M1SA, M1M, M1MB / out-of-state municipal bond interest detail
+source_doc: Federal Form 6251 as filed, Part I (complete it even if not filed federally) / federal Schedule A as filed / Form 1099-INT Boxes 8–9 and brokerage detail of out-of-state municipal bond interest / Form 3921 (ISO exercises)
 form: Form M1
 line: "11"
 via:

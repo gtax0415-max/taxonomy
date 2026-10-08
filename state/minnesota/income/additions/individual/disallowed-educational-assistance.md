@@ -17,7 +17,7 @@ Federal law (IRC section 127, made permanent with student loan payments by OBBBA
 - Employer-paid tuition, fees, books, supplies, and equipment ABOVE $5,250
 - Employer-provided instructional courses (with books, supplies, equipment) ABOVE $5,250
 ## Related
-- Critical access dental clinic employees: student loan assistance above $5,250 has its own subtraction (minnesota/deductions/subtractions/education/critical-access-dental-student-loan.md)
+- Critical access dental clinic employees: the first $5,250 is still added back here; only assistance ABOVE $5,250 is subtracted on Line 35 (minnesota/deductions/subtractions/education/critical-access-dental-student-loan.md)
 - Student Loan Credit: see minnesota/credits/education/student-loan-credit.md for how employer-paid loan amounts interact
 ## Required Information
 - Employer statement of educational assistance and student loan payments

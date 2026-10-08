@@ -3,6 +3,7 @@ type: payments
 jurisdiction: Minnesota
 tax_year: 2026
 category: payments
+source_doc: No external source document — the taxpayer's own election
 form: Form M1
 line: "18"
 via:

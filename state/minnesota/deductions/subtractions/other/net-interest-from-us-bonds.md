@@ -3,7 +3,7 @@ type: subtraction
 jurisdiction: Minnesota
 tax_year: 2026
 category: subtractions-other
-source_doc: Form 1099-INT Box 3 (U.S. savings bond and Treasury interest) / fund statements of U.S. government obligation percentage / K-1 U.S. government interest
+source_doc: Form 1099-INT Box 3 (U.S. savings bond and Treasury interest) / fund year-end statement of the U.S. government obligation percentage / federal Schedule K-1 U.S. government interest / federal Form 4952 as filed (related expenses)
 form: Form M1
 line: "7"
 via:

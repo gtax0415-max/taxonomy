@@ -3,7 +3,7 @@ type: income
 jurisdiction: Minnesota
 tax_year: 2026
 category: types-of-income
-source_doc: Form W-2G (federal and Minnesota withholding) / win-loss statements / gambling log of wagers and losses
+source_doc: Form W-2G (Boxes 1, 4, 14–15) / casino win-loss statements / gambling log of wagers and losses
 form: Form M1
 line: "1 (through federal AGI); losses on Schedule M1SA Line 26; withholding on Schedule M1W"
 ---

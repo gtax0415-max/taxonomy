@@ -3,7 +3,7 @@ type: filing
 jurisdiction: Minnesota
 tax_year: 2026
 category: filing
-source_doc: Dates of moving in or out / domicile evidence (driver's license, voter registration, homestead, where family lives) / day count in Minnesota / Minnesota-source income records / Schedules KPI, KS, KF
+source_doc: Dates of moving in or out / domicile evidence (driver's license, voter registration, property records, where family lives) / day count in Minnesota / Forms W-2 Boxes 15–17 by state / Minnesota-source income records / Minnesota Schedule KPI, KS, or KF received from the entity
 form: Form M1
 line: "13, 13a, 13b (via Schedule M1NR)"
 via:

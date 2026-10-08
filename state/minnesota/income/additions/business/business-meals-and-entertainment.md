@@ -3,7 +3,7 @@ type: addition
 jurisdiction: Minnesota
 tax_year: 2026
 category: additions-business
-source_doc: Business expense records / Schedule KPI or KS line 9
+source_doc: Business meal and entertainment receipts / federal Schedule C or E as filed / Minnesota Schedule KPI or KS received from the entity
 form: Form M1
 line: "2"
 via:

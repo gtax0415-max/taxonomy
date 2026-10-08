@@ -3,7 +3,7 @@ type: addition
 jurisdiction: Minnesota
 tax_year: 2026
 category: additions-business
-source_doc: Federal Form 15027 / Form 886-A partnership audit report / administrative adjustment request (AAR) / Schedule M3BBA from the partnership
+source_doc: Federal Form 15027 / Form 886-A partnership audit report / administrative adjustment request (AAR) / the partnership's Minnesota statement of federal adjustments (Schedule M3BBA received from the partnership)
 form: Form M1X (amended return) / Schedule M3BBA
 line: "none on the 2026 Schedule M1M"
 ---

@@ -3,6 +3,7 @@ type: income
 jurisdiction: Minnesota
 tax_year: 2026
 category: types-of-income
+source_doc: Federal Form 1040 as filed (Lines 1z, 4b, 5b, 6a, 6b, 11, 15) / federal Schedule 1 as filed
 form: Form M1
 line: "9"
 ---

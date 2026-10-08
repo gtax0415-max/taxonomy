@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: business
-source_doc: Transit pass purchase invoices / records of amounts charged to employees / Schedule KS, KPI, or KF for pass-through shares
+source_doc: Transit pass purchase invoices / records of amounts charged to employees / owner's share statement from the entity (Minnesota Schedule KPI, KS, or KF received from the entity)
 form: Form M1
 line: "16"
 refundable: no

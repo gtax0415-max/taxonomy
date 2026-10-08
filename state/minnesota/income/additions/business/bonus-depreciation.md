@@ -3,7 +3,7 @@ type: addition
 jurisdiction: Minnesota
 tax_year: 2026
 category: additions-business
-source_doc: Federal Form 4562 Lines 14 and 25 / Schedule KPI or KS line 4 / Schedule KF lines 4–5 and 18 / prior-year Schedules M1MB
+source_doc: Federal Form 4562 as filed (Lines 14 and 25) / Minnesota Schedule KPI, KS, or KF received from the entity (bonus depreciation share) / depreciation records of prior-year bonus property
 form: Form M1
 line: "2 (addition) / 7 (subtraction)"
 via:

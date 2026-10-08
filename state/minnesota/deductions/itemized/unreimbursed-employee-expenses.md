@@ -3,7 +3,7 @@ type: deduction
 jurisdiction: Minnesota
 tax_year: 2026
 category: itemized
-source_doc: Receipts for job expenses / employer reimbursement policy and records / mileage logs / Schedule M1UE
+source_doc: Receipts for job expenses / employer reimbursement policy and records / mileage logs / Form W-2 (to confirm the expenses were not reimbursed)
 form: Form M1
 line: "4"
 via:

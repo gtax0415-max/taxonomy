@@ -38,6 +38,8 @@ Every dollar figure, date, and schedule line reference in the taxonomy was check
 - Schedule M1M instructions cite reservation-income lines "19a/19b" (form uses 21a/21b) and the foreign service worksheet "line 36" (line 38)
 - Schedule M1MB insolvent-farmer instructions refer to a sale "in 2025"
 - Repaying taxed income: M1REF instructions describe a 2% floor; the 2026 M1SA places the claim-of-right deduction on Line 26 outside the floor
+## Resolved after audit
+- Critical access dental clinic loan help: first $5,250 added back on M1M Line 7; only the excess is subtracted on Line 35 (Minn. Stat. 290.0132, subd. 36)
 ## Not yet published (as of October 5, 2026) — marked in the files
 - 2026 Form M1 instruction booklet: tax table cutoff, the full PTE-AGI worksheet line list, the 2026 filing-requirement chart (taxonomy derives it from the standard deduction), and the Mail Station for paper returns electing advance Child Tax Credit payments
 - 2027 interest rate on underpayments

@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: other-state-tax
-source_doc: Wisconsin Form 1NPR (filed return) and proof of Wisconsin tax paid / Form W-2 Box 15–17 for Wisconsin wages and withholding
+source_doc: Wisconsin income tax return as filed and proof of Wisconsin tax paid / Form W-2 Boxes 15–17 for Wisconsin wages and withholding
 form: Form M1
 line: "16 / 22"
 refundable: partly

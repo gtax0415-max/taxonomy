@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: military
-source_doc: DD-214 (discharge) / military retirement pay statement (Form 1099-R) / VA disability rating letter / federal Form 1040 Line 11 (AGI)
+source_doc: DD-214 (discharge) / VA disability rating letter / military retirement pay statement (Form 1099-R from DFAS) / federal Form 1040 Line 11 (AGI) as filed
 form: Form M1
 line: "16"
 refundable: no

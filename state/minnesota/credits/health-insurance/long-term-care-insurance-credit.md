@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: health-insurance
-source_doc: Long-term care insurance premium statements / policy documents showing lifetime benefit limit / Schedule M1SA (if itemizing medical expenses)
+source_doc: Long-term care insurance premium statements / policy documents showing the lifetime benefit limit / federal Schedule A as filed (if premiums were deducted as medical expenses)
 form: Form M1
 line: "16"
 refundable: no

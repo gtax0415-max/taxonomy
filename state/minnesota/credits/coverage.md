@@ -3,7 +3,7 @@ type: index
 jurisdiction: Minnesota
 tax_year: 2026
 category: coverage
-source_doc: "Minnesota Department of Revenue, Income Tax Credits page (revenue.state.mn.us/mndor-pp/10171, last updated December 15, 2025)"
+references: "Minnesota Department of Revenue, Income Tax Credits page (revenue.state.mn.us/mndor-pp/10171, last updated December 15, 2025)"
 ---
 # Coverage Crosswalk — Revenue's "Income Tax Credits" List → Taxonomy Files
 Every credit on Revenue's list, with the file that covers it. Credits marked † are in the taxonomy but not on Revenue's list.

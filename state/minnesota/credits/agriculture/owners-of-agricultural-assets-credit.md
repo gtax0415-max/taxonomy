@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: agriculture
-source_doc: Rural Finance Authority credit certificate (number begins AO-) / sale or rental agreement with the beginning farmer / Schedule KS, KPI, or KF for pass-through owners
+source_doc: Rural Finance Authority credit certificate (number begins AO-) / sale, cash rent, or share rent agreement with the beginning farmer / owner's share statement from the partnership, S corporation, or trust (Minnesota Schedule KPI, KS, or KF received from the entity)
 form: Form M1
 line: "16"
 refundable: no

@@ -4,7 +4,7 @@ jurisdiction: Minnesota
 tax_year: 2026
 category: other
 aliases: ["Deduction for Repaying Taxed Income", "Repaying Taxed Income Deduction", "Claim of Right"]
-source_doc: Proof of repayment (amount, date, original tax year) / recomputed prior-year Minnesota return without the repaid income
+source_doc: Proof of repayment (amount, date, original tax year) / prior-year return copy that included the repaid income / Form W-2 or 1099 originally reporting the income
 form: Form M1
 line: "22 (credit) / via Schedule M1SA (deduction)"
 refundable: yes (credit option)

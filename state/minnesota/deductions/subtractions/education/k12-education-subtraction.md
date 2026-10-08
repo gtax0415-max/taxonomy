@@ -3,7 +3,7 @@ type: subtraction
 jurisdiction: Minnesota
 tax_year: 2026
 category: subtractions-education
-source_doc: Receipts and canceled checks for K-12 tuition and education expenses / child's school and grade / Schedule M1ED (if the credit is also claimed)
+source_doc: Receipts and canceled checks for K-12 tuition and education expenses / child's school and grade / child's SSN and date of birth
 form: Form M1
 line: "7"
 via:

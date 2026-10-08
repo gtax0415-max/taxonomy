@@ -3,7 +3,7 @@ type: payments
 jurisdiction: Minnesota
 tax_year: 2026
 category: payments
-source_doc: Form M1 Lines 19–30 / bank routing and account numbers
+source_doc: Bank routing and account numbers (U.S. account) / Revenue Recapture offset notices, if any
 form: Form M1
 line: "23–30"
 ---

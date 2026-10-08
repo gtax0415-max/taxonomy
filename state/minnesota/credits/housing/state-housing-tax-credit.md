@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: housing
-source_doc: Minnesota Housing Finance Agency Tax Credit Certificate (number begins SHTC-) / Schedule KS line 24, KPI line 24, or KF line 37 for pass-through shares
+source_doc: Minnesota Housing Finance Agency Tax Credit Certificate (number begins SHTC-) / owner's share statement from the entity (Minnesota Schedule KPI, KS, or KF received from the entity)
 form: Form M1
 line: "16"
 refundable: no

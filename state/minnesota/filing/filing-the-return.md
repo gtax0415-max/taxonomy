@@ -3,6 +3,7 @@ type: filing
 jurisdiction: Minnesota
 tax_year: 2026
 category: filing
+source_doc: Social Security cards (names and numbers) / federal Form 1040 as filed (filing status, Lines 1z–15) / paid preparer's PTIN
 form: Form M1
 line: "header, signature area"
 ---

@@ -3,7 +3,7 @@ type: filing
 jurisdiction: Minnesota
 tax_year: 2026
 category: filing
-source_doc: Original Form M1 and schedules / corrected information (W-2c, corrected 1099, CRP) / federal Form 1040-X or IRS change notice / partnership audit report (BBA)
+source_doc: Copy of the original return as filed / corrected information returns (W-2c, corrected 1099, corrected CRP) / federal Form 1040-X or IRS change notice / partnership audit report (BBA)
 form: Form M1X
 line: "n/a"
 via:

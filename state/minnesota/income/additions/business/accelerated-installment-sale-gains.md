@@ -3,7 +3,7 @@ type: addition
 jurisdiction: Minnesota
 tax_year: 2026
 category: additions-business
-source_doc: Federal Form 6252 / sale agreement / Schedule M1AR
+source_doc: Sale agreement / federal Form 6252 as filed / records of the buyer's payments and the nonresident's departure date
 form: Form M1
 line: "2"
 via:

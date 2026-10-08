@@ -3,7 +3,7 @@ type: addition
 jurisdiction: Minnesota
 tax_year: 2026
 category: additions-individual
-source_doc: Form 1099-INT Box 8 (tax-exempt interest) and Box 14 (CUSIP / state) / brokerage tax-exempt interest detail by state / Form 1040 Line 2a
+source_doc: Form 1099-INT Box 8 (tax-exempt interest) and Box 14 (CUSIP / state) / brokerage tax-exempt interest detail by state / federal Form 1040 Line 2a as filed
 form: Form M1
 line: "2"
 via:

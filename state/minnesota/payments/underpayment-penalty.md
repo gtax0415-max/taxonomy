@@ -3,7 +3,7 @@ type: payments
 jurisdiction: Minnesota
 tax_year: 2026
 category: payments
-source_doc: Estimated payment dates and amounts / Form M1 Lines 17, 20, 22 / 2025 Form M1 Line 17 / 2025 federal AGI / federal Form 2210 Schedule AI (annualized method)
+source_doc: Estimated payment dates and amounts / Form W-2 and 1099 withholding / prior-year return copy (2025 Minnesota tax) / 2025 federal Form 1040 Line 11 (AGI) as filed / federal Form 2210 Schedule AI as filed (annualized method)
 form: Form M1
 line: "27"
 via:

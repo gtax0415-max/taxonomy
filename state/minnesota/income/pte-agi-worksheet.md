@@ -3,7 +3,7 @@ type: income
 jurisdiction: Minnesota
 tax_year: 2026
 category: income
-source_doc: Schedule KPI line 2 / Schedule KS line 2 (pass-through entity taxes deducted by the entity)
+source_doc: Owner's share statement from the entity showing PTE taxes deducted (Minnesota Schedule KPI or KS received from the entity) / federal Schedule K-1 / federal Form 1040 Line 11 (AGI) as filed
 form: Form M1
 line: "1 (adjusted figure used on other schedules)"
 related:

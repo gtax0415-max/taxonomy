@@ -3,7 +3,7 @@ type: deduction
 jurisdiction: Minnesota
 tax_year: 2026
 category: itemized
-source_doc: Property tax statements / Form 1098 Box 10 (escrowed taxes) / settlement statement or Form 1099-S Box 6 (sale) / vehicle registration renewal (registration tax) / 2025 Form M1PR refund received in 2026 / foreign tax statements
+source_doc: Property tax statements / Form 1098 Box 10 (escrowed taxes) / settlement statement or Form 1099-S Box 6 (sale) / vehicle registration renewal (registration tax) / homestead credit refund received in 2026 / foreign tax statements
 form: Form M1
 line: "4"
 via:

@@ -3,7 +3,7 @@ type: credit
 jurisdiction: Minnesota
 tax_year: 2026
 category: business
-source_doc: Explore Minnesota Film Tax Credit Certificate (number begins TAXC-) / assignment form if transferred / Schedule KS or KPI line 28, KF line 35
+source_doc: Explore Minnesota Film Tax Credit Certificate (number begins TAXC-) / assignment agreement if the credit was transferred / owner's share statement from the entity (Minnesota Schedule KPI, KS, or KF received from the entity)
 form: Form M1
 line: "16"
 refundable: no

@@ -3,7 +3,7 @@ type: payments
 jurisdiction: Minnesota
 tax_year: 2026
 category: payments
-source_doc: Form M1 Line 26 (amount owed) / estimated payment records / Schedule M15 / bank account information
+source_doc: Payment confirmations and canceled checks / estimated payment records / bank account information / billing notices from the Minnesota Department of Revenue
 form: Form M1
 line: "21, 26, 27, 28"
 ---
