@@ -1,0 +1,36 @@
+---
+type: credit
+category: priority-3
+jurisdiction: LA
+tax_year: 2026
+source_doc: Louisiana Economic Development certification of the import-export cargo credit / taxpayer's carryforward records (year earned, original amount, and amount used each year) / Schedule K-1 (federal Form 1065 or 1120-S) if earned through an entity
+form: Form IT-540, Schedule J
+line: "Schedule J, Lines 6 to 11, code 459"
+refundable: no
+via:
+  - Schedule J code 459 → Schedule J, Line 16 → Form IT-540, Line 21 (limited to Line 19)
+---
+# Ports of Louisiana Import-Export Cargo (Code 459)
+## Description
+Credit for businesses that increased cargo through Louisiana public ports. For 2026 this code is CARRYFORWARD ONLY.
+
+## Status for 2026 — carryforward only
+- R.S. 47:6036 was repealed by Act 5 of the 2024 Third Extraordinary Session (HB 2), effective January 1, 2025
+- Previously certified credit may be used for its remaining carryforward period (LDR Revenue Information Bulletin 25-012)
+
+## Amount (as previously certified)
+- Based on $3.60 per ton of qualified cargo above pre-certification tonnage, or a lower certified amount
+- Unused credit carries forward up to five years
+
+## Required Information
+- Certified amount and amount used since
+
+## Questions
+- Do you have a certified import-export cargo credit with a remaining balance?
+
+## Common Errors
+- Claiming a new 2026 credit under a repealed program
+- Carrying forward more than five years
+
+## Prompt
+- What is code 459?
